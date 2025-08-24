@@ -1,0 +1,5327 @@
+Name,Score
+aarch64,833
+aarch64 rev 2 (aarch64),2409
+aarch64 rev 4 (aarch64),1813
+ac8257v/wab,788
+ac8259v/wab,910
+allwinner a133,668
+allwinner a523,1904
+allwinner a527,2187
+allwinner a733,3109
+allwinner h618,653
+allwinner h728,1953
+amd 3015ce,2099
+amd 3015e,2608
+amd 3020e,2412
+amd 4700s,17800
+amd a10 micro-6700t apu,1426
+amd a10 pro-7350b apu,1867
+amd a10 pro-7800b apu,3304
+amd a10 pro-7850b apu,3441
+amd a10-4600m apu,1947
+amd a10-4655m apu,1655
+amd a10-4657m apu,1759
+amd a10-5700 apu,2743
+amd a10-5745m apu,1767
+amd a10-5750m apu,2055
+amd a10-5757m apu,1996
+amd a10-5800b apu,3050
+amd a10-5800k apu,2960
+amd a10-6700 apu,3113
+amd a10-6700t apu,2299
+amd a10-6790k apu,3094
+amd a10-6800b apu,3155
+amd a10-6800k apu,3195
+amd a10-7300 apu,1739
+amd a10-7400p,2120
+amd a10-7700k apu,3195
+amd a10-7800 apu,3220
+amd a10-7850k apu,3385
+amd a10-7860k,3272
+amd a10-7870k,3495
+amd a10-7890k,3541
+amd a10-8700p,2244
+amd a10-8750,3251
+amd a10-8850,3438
+amd a10-9600p,2355
+amd a10-9620p,2501
+amd a10-9630p,2993
+amd a10-9700,3536
+amd a10-9700e,3250
+amd a12-9700p,2422
+amd a12-9720p,2624
+amd a12-9730p,2979
+amd a12-9800,3695
+amd a12-9800e,3471
+amd a4 micro-6400t apu,1082
+amd a4 pro-3340b,1709
+amd a4 pro-7300b apu,1458
+amd a4 pro-7350b,1544
+amd a4-1200 apu,375
+amd a4-1250 apu,418
+amd a4-1350 apu,911
+amd a4-3300 apu,956
+amd a4-3300m apu,723
+amd a4-3305m apu,767
+amd a4-3310mx apu,800
+amd a4-3320m apu,668
+amd a4-3330mx apu,747
+amd a4-3400 apu,1089
+amd a4-3420 apu,1067
+amd a4-4000 apu,1146
+amd a4-4020 apu,1269
+amd a4-4300m apu,967
+amd a4-4355m apu,806
+amd a4-5000 apu,1283
+amd a4-5050 apu,1328
+amd a4-5100 apu,1260
+amd a4-5150m apu,927
+amd a4-5300 apu,1366
+amd a4-5300b apu,1246
+amd a4-6210 apu,1507
+amd a4-6250j apu,1671
+amd a4-6300 apu,1429
+amd a4-6300b apu,1328
+amd a4-6320 apu,1530
+amd a4-7210 apu,1670
+amd a4-7300 apu,1534
+amd a4-9120,1226
+amd a4-9120c,885
+amd a4-9120e,846
+amd a4-9125,1206
+amd a6 micro-6500t apu,1146
+amd a6 pro-7050b apu,971
+amd a6 pro-7400b,1640
+amd a6-1450 apu,1079
+amd a6-3400m apu,1218
+amd a6-3410mx apu,1274
+amd a6-3420m apu,1305
+amd a6-3430mx apu,1389
+amd a6-3500 apu,1438
+amd a6-3600 apu,1697
+amd a6-3620 apu,1869
+amd a6-3650 apu,2098
+amd a6-3670 apu,2198
+amd a6-4400m apu,996
+amd a6-4455m apu,802
+amd a6-5200 apu,1671
+amd a6-5345m apu,1122
+amd a6-5350m apu,1199
+amd a6-5357m apu,1192
+amd a6-5400b apu,1471
+amd a6-5400k apu,1279
+amd a6-6310 apu,1677
+amd a6-6400b apu,1573
+amd a6-6400k apu,1511
+amd a6-6420b apu,1550
+amd a6-6420k apu,1571
+amd a6-7000,1012
+amd a6-7310 apu,1733
+amd a6-7400k apu,1662
+amd a6-7470k,1799
+amd a6-7480,1801
+amd a6-8500p,1445
+amd a6-8550,1762
+amd a6-9200,1143
+amd a6-9210,1254
+amd a6-9220,1300
+amd a6-9220c,1053
+amd a6-9220e,960
+amd a6-9225,1328
+amd a6-9230,1303
+amd a6-9400,2717
+amd a6-9500,1877
+amd a6-9500e,1725
+amd a8 pro-7150b apu,1528
+amd a8 pro-7600b apu,2986
+amd a8-3500m apu,1394
+amd a8-3510mx apu,1631
+amd a8-3520m apu,1440
+amd a8-3530mx apu,1608
+amd a8-3550mx apu,1687
+amd a8-3800 apu,2048
+amd a8-3820 apu,2192
+amd a8-3850 apu,2423
+amd a8-3870k apu,2355
+amd a8-4500m apu,1694
+amd a8-4555m apu,1337
+amd a8-5500 apu,2610
+amd a8-5500b apu,2611
+amd a8-5545m apu,1626
+amd a8-5550m apu,1816
+amd a8-5557m apu,1831
+amd a8-5600k apu,2859
+amd a8-6410 apu,1772
+amd a8-6500 apu,2769
+amd a8-6500b apu,2698
+amd a8-6500t apu,1983
+amd a8-6600k apu,3001
+amd a8-7050,1068
+amd a8-7100 apu,1647
+amd a8-7200p,2158
+amd a8-7410 apu,1812
+amd a8-7500,3302
+amd a8-7600 apu,3210
+amd a8-7650k,3118
+amd a8-7670k,3230
+amd a8-7680,3547
+amd a8-7690k,2157
+amd a8-8600p,2464
+amd a8-8650,2996
+amd a8-9600,3287
+amd a9-9400,1327
+amd a9-9410,1535
+amd a9-9420,1534
+amd a9-9420e,1100
+amd a9-9425,1513
+amd a9-9430,1699
+amd a9-9820,3958
+amd athlon 1500+,191
+amd athlon 1640b,412
+amd athlon 200ge,4095
+amd athlon 220ge,4429
+amd athlon 240ge,4561
+amd athlon 2650e,274
+amd athlon 2800+,291
+amd athlon 2850e,333
+amd athlon 3000g,4451
+amd athlon 300ge,4299
+amd athlon 300u,3864
+amd athlon 320ge,4399
+amd athlon 5000 dual-core,872
+amd athlon 5150 apu,1404
+amd athlon 5200 dual-core,869
+amd athlon 5350 apu,1793
+amd athlon 5370 apu,1927
+amd athlon 64 2000+,154
+amd athlon 64 2600+,243
+amd athlon 64 2800+,295
+amd athlon 64 3000+,342
+amd athlon 64 3100+,484
+amd athlon 64 3200+,305
+amd athlon 64 3300+,375
+amd athlon 64 3400+,317
+amd athlon 64 3500+,377
+amd athlon 64 3700+,394
+amd athlon 64 3800+,332
+amd athlon 64 4000+,340
+amd athlon 64 fx-55,404
+amd athlon 64 fx-57,517
+amd athlon 64 fx-59,465
+amd athlon 64 fx-60 dual core,709
+amd athlon 64 fx-62 dual core,993
+amd athlon 64 fx-74,972
+amd athlon 64 x2 dual core 3400+,531
+amd athlon 64 x2 dual core 3600+,618
+amd athlon 64 x2 dual core 3800+,629
+amd athlon 64 x2 dual core 4000+,692
+amd athlon 64 x2 dual core 4200+,729
+amd athlon 64 x2 dual core 4400+,671
+amd athlon 64 x2 dual core 4600+,720
+amd athlon 64 x2 dual core 4800+,719
+amd athlon 64 x2 dual core 5000+,806
+amd athlon 64 x2 dual core 5200+,855
+amd athlon 64 x2 dual core 5400+,907
+amd athlon 64 x2 dual core 5600+,909
+amd athlon 64 x2 dual core 5800+,653
+amd athlon 64 x2 dual core 6000+,936
+amd athlon 64 x2 dual core 6400+,982
+amd athlon 64 x2 dual core be-2300,594
+amd athlon 64 x2 dual core be-2350,573
+amd athlon 64 x2 dual-core tk-42,577
+amd athlon 64 x2 dual-core tk-53,602
+amd athlon 64 x2 dual-core tk-55,518
+amd athlon 64 x2 dual-core tk-57,624
+amd athlon 64 x2 ql-60,651
+amd athlon 64 x2 ql-62,525
+amd athlon 64 x2 ql-64,605
+amd athlon 64 x2 ql-65,637
+amd athlon 64 x2 ql-66,641
+amd athlon 64 x2 ql-67,582
+amd athlon 7450 dual-core,789
+amd athlon 7550 dual-core,977
+amd athlon 7750 dual-core,1005
+amd athlon 7850 dual-core,1058
+amd athlon dual core 4050e,674
+amd athlon dual core 4450b,723
+amd athlon dual core 4450e,710
+amd athlon dual core 4850b,727
+amd athlon dual core 4850e,799
+amd athlon dual core 5000b,856
+amd athlon dual core 5050e,846
+amd athlon dual core 5200b,823
+amd athlon dual core 5400b,914
+amd athlon dual core 5600b,737
+amd athlon gold 3150c,3292
+amd athlon gold 3150g,6922
+amd athlon gold 3150u,3955
+amd athlon gold 7220u,4904
+amd athlon gold pro 3150g,7468
+amd athlon gold pro 3150ge,7006
+amd athlon gold pro 4150ge,8259
+amd athlon ii 160u,358
+amd athlon ii 170u,355
+amd athlon ii dual-core m300,670
+amd athlon ii dual-core m320,763
+amd athlon ii dual-core m340,807
+amd athlon ii n330 dual-core,665
+amd athlon ii n350 dual-core,856
+amd athlon ii n370 dual-core,899
+amd athlon ii neo k125,315
+amd athlon ii neo k145,298
+amd athlon ii neo k325 dual-core,417
+amd athlon ii neo k345 dual-core,527
+amd athlon ii neo n36l dual-core,487
+amd athlon ii p320 dual-core,704
+amd athlon ii p340 dual-core,722
+amd athlon ii p360 dual-core,753
+amd athlon ii x2 210e,1089
+amd athlon ii x2 215,1008
+amd athlon ii x2 220,1043
+amd athlon ii x2 235e,1079
+amd athlon ii x2 240,1057
+amd athlon ii x2 240e,1007
+amd athlon ii x2 245,1130
+amd athlon ii x2 245e,1126
+amd athlon ii x2 250,1177
+amd athlon ii x2 250e,1202
+amd athlon ii x2 250u,615
+amd athlon ii x2 255,1209
+amd athlon ii x2 260,1235
+amd athlon ii x2 260u,713
+amd athlon ii x2 265,1310
+amd athlon ii x2 270,1325
+amd athlon ii x2 270u,675
+amd athlon ii x2 280,1355
+amd athlon ii x2 4300e,990
+amd athlon ii x2 4400e,944
+amd athlon ii x2 4450e,867
+amd athlon ii x2 b22,1064
+amd athlon ii x2 b24,1111
+amd athlon ii x2 b26,1215
+amd athlon ii x2 b28,1284
+amd athlon ii x3 400e,1320
+amd athlon ii x3 405e,1331
+amd athlon ii x3 415e,1481
+amd athlon ii x3 420e,1557
+amd athlon ii x3 425,1591
+amd athlon ii x3 435,1633
+amd athlon ii x3 440,1729
+amd athlon ii x3 445,1807
+amd athlon ii x3 450,1872
+amd athlon ii x3 455,1939
+amd athlon ii x3 460,1992
+amd athlon ii x4 553,2418
+amd athlon ii x4 555,2526
+amd athlon ii x4 557,2567
+amd athlon ii x4 559,2652
+amd athlon ii x4 600e,1795
+amd athlon ii x4 605e,1964
+amd athlon ii x4 610e,1959
+amd athlon ii x4 615e,2000
+amd athlon ii x4 620,2032
+amd athlon ii x4 630,2176
+amd athlon ii x4 631 quad-core,2118
+amd athlon ii x4 635,2242
+amd athlon ii x4 638 quad-core,2260
+amd athlon ii x4 640,2269
+amd athlon ii x4 641 quad-core,2313
+amd athlon ii x4 645,2376
+amd athlon ii x4 650,2457
+amd athlon ii x4 651 quad-core,2470
+amd athlon ii x4 655,2078
+amd athlon l110,211
+amd athlon le-1600,412
+amd athlon le-1620,421
+amd athlon le-1640,430
+amd athlon le-1660,416
+amd athlon neo mv-40,281
+amd athlon neo x2 dual core 6850e,456
+amd athlon neo x2 dual core l325,556
+amd athlon neo x2 dual core l335,529
+amd athlon pro 200ge,3816
+amd athlon pro 300ge,4350
+amd athlon pro 300u,4080
+amd athlon pro 3045b,2770
+amd athlon silver 3050c,2879
+amd athlon silver 3050e,2897
+amd athlon silver 3050ge,4545
+amd athlon silver 3050u,2950
+amd athlon silver 7120u,3004
+amd athlon silver pro 3125ge,4633
+amd athlon tf-20,265
+amd athlon tf-36,338
+amd athlon x2 215,996
+amd athlon x2 240,921
+amd athlon x2 240e,1015
+amd athlon x2 250,855
+amd athlon x2 255,938
+amd athlon x2 280,1327
+amd athlon x2 340 dual core,1333
+amd athlon x2 370k dual core,1504
+amd athlon x2 450,1295
+amd athlon x2 dual core 3250e,348
+amd athlon x2 dual core 6850e,564
+amd athlon x2 dual core be-2300,570
+amd athlon x2 dual core be-2350,591
+amd athlon x2 dual core be-2400,674
+amd athlon x2 dual core l310,343
+amd athlon x3 425,1516
+amd athlon x3 435,1781
+amd athlon x3 440,1438
+amd athlon x3 445,1626
+amd athlon x3 455,1783
+amd athlon x4 530,1786
+amd athlon x4 620,1810
+amd athlon x4 640,2115
+amd athlon x4 730,2278
+amd athlon x4 740 quad core,2639
+amd athlon x4 750 quad core,2751
+amd athlon x4 750k quad core,2883
+amd athlon x4 760k quad core,2977
+amd athlon x4 830,2901
+amd athlon x4 840,3340
+amd athlon x4 845,3784
+amd athlon x4 850,2756
+amd athlon x4 860k,3430
+amd athlon x4 870k,3432
+amd athlon x4 880k,3656
+amd athlon x4 950,3578
+amd athlon x4 970,3701
+amd athlon xp 1500+,167
+amd athlon xp 1600+,174
+amd athlon xp 1700+,176
+amd athlon xp 1800+,195
+amd athlon xp 1900+,203
+amd athlon xp 2000+,195
+amd athlon xp 2100+,210
+amd athlon xp 2200+,214
+amd athlon xp 2400+,234
+amd athlon xp 2500+,231
+amd athlon xp 2600+,242
+amd athlon xp 2700+,256
+amd athlon xp 2800+,260
+amd athlon xp 2900+,276
+amd athlon xp 3000+,262
+amd athlon xp 3100+,282
+amd athlon xp 3200+,281
+amd athlon xp1600+,183
+amd athlon xp2400+,243
+amd athlon64 x2 dual core 4600+,803
+amd bc-250,13201
+amd c-30,178
+amd c-50,258
+amd c-60,290
+amd c-60 apu,316
+amd c-70 apu,315
+amd custom apu 0932,9394
+amd e-240,195
+amd e-300 apu,336
+amd e-350,429
+amd e-350 apu,423
+amd e-350d apu,486
+amd e-450 apu,434
+amd e1 micro-6200t apu,600
+amd e1-1200 apu,380
+amd e1-1500 apu,390
+amd e1-2100 apu,413
+amd e1-2200 apu,474
+amd e1-2500 apu,593
+amd e1-6010 apu,542
+amd e1-6015 apu,581
+amd e1-6050j apu,1385
+amd e1-7010 apu,605
+amd e2-1800 apu,448
+amd e2-2000 apu,496
+amd e2-3000 apu,743
+amd e2-3000m apu,668
+amd e2-3200 apu,986
+amd e2-3800 apu,1160
+amd e2-6110 apu,1224
+amd e2-7015,611
+amd e2-7015 apu,653
+amd e2-7110 apu,1506
+amd e2-9000,950
+amd e2-9000e,885
+amd e2-9010,1073
+amd e2-9030,983
+amd embedded g-series gx-215jj radeon r2e,1097
+amd embedded g-series gx-224ij radeon r4e,1271
+amd embedded g-series gx-420gi radeon r7e,1599
+amd embedded r-series rx-216gd,1628
+amd embedded r-series rx-418gd radeon r6,3426
+amd embedded r-series rx-421bd,3302
+amd embedded r-series rx-421nd,3024
+amd epyc 3101 4-core,6050
+amd epyc 3151,8306
+amd epyc 3201,8672
+amd epyc 3251,13757
+amd epyc 3451,19532
+amd epyc 4124p,18081
+amd epyc 4244p,27164
+amd epyc 4245p,31316
+amd epyc 4344p,33690
+amd epyc 4345p,37671
+amd epyc 4364p,34811
+amd epyc 4464p,47312
+amd epyc 4465p,50394
+amd epyc 4484px,50547
+amd epyc 4545p,55383
+amd epyc 4564p,65351
+amd epyc 4565p,64006
+amd epyc 4584px,60169
+amd epyc 4585px,71682
+amd epyc 7203p,22017
+amd epyc 7232p,17712
+amd epyc 7251,14935
+amd epyc 7252,19411
+amd epyc 7261,11149
+amd epyc 7262,20779
+amd epyc 7272,25161
+amd epyc 7281,21621
+amd epyc 7282,30137
+amd epyc 72f3,27252
+amd epyc 7301,14991
+amd epyc 7302,33106
+amd epyc 7302p,32690
+amd epyc 7303,28572
+amd epyc 7313,38644
+amd epyc 7313p,41121
+amd epyc 7343,43644
+amd epyc 7351,23226
+amd epyc 7351p,26042
+amd epyc 7352,40370
+amd epyc 7371,30782
+amd epyc 73f3,46103
+amd epyc 7401p,27836
+amd epyc 7402,46012
+amd epyc 7402p,43759
+amd epyc 7413,50641
+amd epyc 7443,56686
+amd epyc 7443p,56981
+amd epyc 7451,24059
+amd epyc 7452,45642
+amd epyc 7453,48453
+amd epyc 7473x,59280
+amd epyc 74f3,60666
+amd epyc 7501,24925
+amd epyc 7502,51695
+amd epyc 7502p,51054
+amd epyc 7513,59331
+amd epyc 7532,51138
+amd epyc 7542,45359
+amd epyc 7543,62952
+amd epyc 7543p,66687
+amd epyc 7551,25996
+amd epyc 7551p,38236
+amd epyc 7552,57414
+amd epyc 7571,27445
+amd epyc 7573x,69432
+amd epyc 75f3,64505
+amd epyc 7601,35059
+amd epyc 7642,58795
+amd epyc 7643,76050
+amd epyc 7643p,77307
+amd epyc 7662,72298
+amd epyc 7663,82087
+amd epyc 7702,68870
+amd epyc 7702p,61936
+amd epyc 7713,82825
+amd epyc 7713p,81582
+amd epyc 7742,69140
+amd epyc 7763,84591
+amd epyc 7773x,91340
+amd epyc 7b12,66044
+amd epyc 7b13,78064
+amd epyc 7c13,76322
+amd epyc 7d12,42900
+amd epyc 7f32,23198
+amd epyc 7f52,41322
+amd epyc 7f72,52740
+amd epyc 7h12,69633
+amd epyc 7j13,84786
+amd epyc 7k23,81183
+amd epyc 7k62,59590
+amd epyc 7r12,48934
+amd epyc 7r13 64-core,82158
+amd epyc 7r32,64623
+amd epyc 7r43,83535
+amd epyc 7t83,81757
+amd epyc 7v12,70622
+amd epyc 7v13,82878
+amd epyc 8024p,20455
+amd epyc 8124p,35988
+amd epyc 8224p,45421
+amd epyc 8324p,57127
+amd epyc 8324pn 32-core,8375
+amd epyc 8434p,66490
+amd epyc 8534p,71900
+amd epyc 9115,49416
+amd epyc 9124,43846
+amd epyc 9135,57808
+amd epyc 9174f,54694
+amd epyc 9175f,65792
+amd epyc 9184x,47665
+amd epyc 9224,48062
+amd epyc 9254,64086
+amd epyc 9255,75669
+amd epyc 9274f,73982
+amd epyc 9275f,84620
+amd epyc 9334,64836
+amd epyc 9354,73411
+amd epyc 9354p,75106
+amd epyc 9355p,97255
+amd epyc 9374f,82009
+amd epyc 9375f,95768
+amd epyc 9384x,69665
+amd epyc 9454,86324
+amd epyc 9454p,94623
+amd epyc 9455p,116713
+amd epyc 9474f,102107
+amd epyc 9534,89077
+amd epyc 9554,108773
+amd epyc 9554p,105283
+amd epyc 9555p,135441
+amd epyc 9565,135221
+amd epyc 9575f,150282
+amd epyc 9634,107944
+amd epyc 9654,119451
+amd epyc 9654p,116324
+amd epyc 9655,156110
+amd epyc 9655p,160417
+amd epyc 9684x,122017
+amd epyc 9734,102286
+amd epyc 9745,130698
+amd epyc 9754,98752
+amd epyc 9755,166328
+amd epyc 9845,152985
+amd epyc 9965,160778
+amd epyc 9b14,126653
+amd epyc 9b45,158790
+amd epyc 9j14,124637
+amd epyc 9r14,116475
+amd epyc 9v74,117606
+amd epyc embedded 7292p,30542
+amd epyc embedded 8224p,48871
+amd epyc embedded 9755,164010
+amd firepro a320 apu,2153
+amd fx-4100 quad-core,2626
+amd fx-4130 quad-core,2709
+amd fx-4150 quad-core,3327
+amd fx-4170 quad-core,3059
+amd fx-4200 quad-core,3119
+amd fx-4300 quad-core,2989
+amd fx-4320,3150
+amd fx-4330,3146
+amd fx-4350 quad-core,3180
+amd fx-6100 six-core,3702
+amd fx-6120 six-core,3909
+amd fx-6130 six-core,4353
+amd fx-6200 six-core,4111
+amd fx-6300 six-core,4220
+amd fx-6330 six-core,4433
+amd fx-6350 six-core,4630
+amd fx-670k quad-core,2980
+amd fx-7500 apu,1921
+amd fx-7600p,2557
+amd fx-7600p apu,2856
+amd fx-770k quad-core,3172
+amd fx-8100 eight-core,4095
+amd fx-8120 eight-core,4633
+amd fx-8140 eight-core,4860
+amd fx-8150 eight-core,5311
+amd fx-8300 eight-core,5335
+amd fx-8310 eight-core,5050
+amd fx-8320 eight-core,5462
+amd fx-8320e eight-core,5125
+amd fx-8350 eight-core,6090
+amd fx-8370 eight-core,6159
+amd fx-8370e eight-core,5340
+amd fx-870k quad core,3227
+amd fx-8800p,2832
+amd fx-9370 eight-core,6359
+amd fx-9590 eight-core,6816
+amd fx-9800p,2457
+amd fx-9830p,3302
+amd fx-b4150 quad-core,3369
+amd g-t40e,289
+amd g-t40n,299
+amd g-t40r,120
+amd g-t44r,116
+amd g-t48e,432
+amd g-t52r,177
+amd g-t56e,442
+amd g-t56n,484
+amd geode nx 2400+,400
+amd gx-210ja soc,248
+amd gx-212jc soc,645
+amd gx-217ga soc,794
+amd gx-218gl soc,754
+amd gx-222gc soc,1044
+amd gx-412hc,1095
+amd gx-412tc soc,650
+amd gx-415ga soc,1405
+amd gx-416ra soc,1604
+amd gx-420ca soc,1785
+amd gx-420mc soc,1796
+amd gx-424cc soc,1819
+amd opteron 1212,593
+amd opteron 1212 he,771
+amd opteron 1214,763
+amd opteron 1214 he,806
+amd opteron 1216,781
+amd opteron 1216 he,727
+amd opteron 1218,910
+amd opteron 1218 he,979
+amd opteron 1220,1036
+amd opteron 1222,1089
+amd opteron 1352,1547
+amd opteron 1354,1635
+amd opteron 1356,1703
+amd opteron 1381,1797
+amd opteron 1385,2089
+amd opteron 1389,2079
+amd opteron 144,316
+amd opteron 146,346
+amd opteron 148,392
+amd opteron 150,393
+amd opteron 152,428
+amd opteron 154,457
+amd opteron 165,531
+amd opteron 170,648
+amd opteron 175,682
+amd opteron 180,746
+amd opteron 185,695
+amd opteron 2218,1036
+amd opteron 2220,1106
+amd opteron 2220 se,909
+amd opteron 2222,1198
+amd opteron 2354,1509
+amd opteron 2356,1829
+amd opteron 2373 ee,1744
+amd opteron 2378,1864
+amd opteron 2384,2074
+amd opteron 2393 se,1317
+amd opteron 2419 ee,1902
+amd opteron 2427,1995
+amd opteron 2431,2894
+amd opteron 2435,3061
+amd opteron 254,451
+amd opteron 270,736
+amd opteron 275,839
+amd opteron 280,765
+amd opteron 285,956
+amd opteron 290,952
+amd opteron 3250 he,2061
+amd opteron 3260 he,2283
+amd opteron 3280,3783
+amd opteron 3320 ee,1918
+amd opteron 3350 he,2699
+amd opteron 3365,4083
+amd opteron 3380,4358
+amd opteron 4130,2342
+amd opteron 4162 ee,2058
+amd opteron 4170 he,2382
+amd opteron 4174 he,2986
+amd opteron 4184,2872
+amd opteron 4226,3400
+amd opteron 4274 he,5776
+amd opteron 4280,4504
+amd opteron 4284,4665
+amd opteron 4332 he,3911
+amd opteron 4334,3949
+amd opteron 4365 ee,3582
+amd opteron 4376 he,4318
+amd opteron 4386,3273
+amd opteron 6128,2826
+amd opteron 6128 he,2932
+amd opteron 6136,3381
+amd opteron 6164 he,3478
+amd opteron 6172,2615
+amd opteron 6174,3697
+amd opteron 6176 se,3564
+amd opteron 6212,3973
+amd opteron 6220,4753
+amd opteron 6234,4072
+amd opteron 6238,5625
+amd opteron 6272,5240
+amd opteron 6274,5643
+amd opteron 6276,6348
+amd opteron 6281,7279
+amd opteron 6282 se,6385
+amd opteron 6287 se,6925
+amd opteron 6328,5306
+amd opteron 6344,6069
+amd opteron 6348,7850
+amd opteron 6366 he,5613
+amd opteron 6376,5572
+amd opteron 6378,5889
+amd opteron 6380,6687
+amd opteron 6386 se,8291
+amd opteron 8439 se,2479
+amd opteron x2170 apu,1911
+amd opteron x3216 apu,1512
+amd opteron x3418 apu,3043
+amd opteron x3421 apu,3305
+amd phenom 8250 triple-core,1114
+amd phenom 8250e triple-core,1084
+amd phenom 8400 triple-core,1164
+amd phenom 8450 triple-core,1221
+amd phenom 8450e triple-core,1206
+amd phenom 8600 triple-core,1267
+amd phenom 8600b triple-core,1464
+amd phenom 8650 triple-core,1218
+amd phenom 8750 triple-core,1445
+amd phenom 8750b triple-core,1188
+amd phenom 8850 triple-core,1142
+amd phenom 8850b triple-core,1281
+amd phenom 9100e quad-core,1353
+amd phenom 9150e quad-core,1427
+amd phenom 9350e quad-core,1659
+amd phenom 9450e quad-core,1455
+amd phenom 9500 quad-core,1564
+amd phenom 9550 quad-core,1667
+amd phenom 9600 quad-core,1607
+amd phenom 9600b quad-core,1842
+amd phenom 9650 quad-core,1772
+amd phenom 9750 quad-core,1843
+amd phenom 9750b quad-core,1520
+amd phenom 9850 quad-core,1712
+amd phenom 9850b quad-core,1946
+amd phenom 9950 quad-core,1884
+amd phenom fx-5000 quad-core,1599
+amd phenom fx-5200 quad-core,1699
+amd phenom ii n620 dual-core,992
+amd phenom ii n640 dual-core,1135
+amd phenom ii n660 dual-core,1083
+amd phenom ii n830 3+1,1768
+amd phenom ii n830 triple-core,1249
+amd phenom ii n850 triple-core,1318
+amd phenom ii n870 triple-core,1324
+amd phenom ii n930 quad-core,1584
+amd phenom ii n950 quad-core,1587
+amd phenom ii n970 quad-core,1711
+amd phenom ii p650 dual-core,1018
+amd phenom ii p820 triple-core,1068
+amd phenom ii p840 triple-core,1079
+amd phenom ii p860 triple-core,1250
+amd phenom ii p920 quad-core,1006
+amd phenom ii p940 quad-core,1319
+amd phenom ii p960 quad-core,1431
+amd phenom ii x2 511,1265
+amd phenom ii x2 521,1374
+amd phenom ii x2 545,1222
+amd phenom ii x2 550,1154
+amd phenom ii x2 555,1312
+amd phenom ii x2 560,1381
+amd phenom ii x2 565,1453
+amd phenom ii x2 570,1437
+amd phenom ii x2 b53,1137
+amd phenom ii x2 b55,1222
+amd phenom ii x2 b57,1260
+amd phenom ii x2 b59,1407
+amd phenom ii x3 700e,1451
+amd phenom ii x3 705e,1222
+amd phenom ii x3 710,1585
+amd phenom ii x3 720,1600
+amd phenom ii x3 740,1424
+amd phenom ii x3 b73,1671
+amd phenom ii x3 b75,1764
+amd phenom ii x3 b77,1844
+amd phenom ii x4 805,2001
+amd phenom ii x4 810,2019
+amd phenom ii x4 820,2095
+amd phenom ii x4 830,2072
+amd phenom ii x4 840,2443
+amd phenom ii x4 840t,2367
+amd phenom ii x4 850,2441
+amd phenom ii x4 900e,1727
+amd phenom ii x4 905e,2014
+amd phenom ii x4 910,1776
+amd phenom ii x4 910e,2114
+amd phenom ii x4 920,2202
+amd phenom ii x4 925,2257
+amd phenom ii x4 940,2351
+amd phenom ii x4 945,2418
+amd phenom ii x4 955,2539
+amd phenom ii x4 960t,2366
+amd phenom ii x4 965,2655
+amd phenom ii x4 970,2743
+amd phenom ii x4 973,2204
+amd phenom ii x4 975,2610
+amd phenom ii x4 977,2377
+amd phenom ii x4 980,2839
+amd phenom ii x4 b05e,1906
+amd phenom ii x4 b15e,1825
+amd phenom ii x4 b25,2108
+amd phenom ii x4 b35,2417
+amd phenom ii x4 b40,2238
+amd phenom ii x4 b45,2311
+amd phenom ii x4 b50,2448
+amd phenom ii x4 b55,2584
+amd phenom ii x4 b60,2627
+amd phenom ii x4 b65,2690
+amd phenom ii x4 b70,2303
+amd phenom ii x4 b93,2159
+amd phenom ii x4 b95,2427
+amd phenom ii x4 b97,2535
+amd phenom ii x4 b99,2536
+amd phenom ii x6 1035t,3014
+amd phenom ii x6 1045t,3234
+amd phenom ii x6 1055t,3360
+amd phenom ii x6 1065t,3398
+amd phenom ii x6 1075t,3500
+amd phenom ii x6 1090t,3807
+amd phenom ii x6 1100t,3923
+amd phenom ii x6 1405t,3371
+amd phenom ii x620 dual-core,1262
+amd phenom ii x640 dual-core,1165
+amd phenom ii x920 quad-core,1669
+amd phenom ii x940 quad-core,1797
+amd phenom x2 dual-core ge-5060,1566
+amd phenom x2 dual-core ge-6060,1722
+amd phenom x2 dual-core ge-7060,1010
+amd phenom x2 dual-core gp-7730,884
+amd phenom x3 8550,1151
+amd phenom x4 quad-core gp-9500,1297
+amd phenom x4 quad-core gp-9530,1228
+amd phenom x4 quad-core gp-9600,1649
+amd phenom x4 quad-core gp-9730,1784
+amd phenom x4 quad-core gs-6560,1063
+amd pro a10-8700b,2212
+amd pro a10-8730b,2306
+amd pro a10-8750b,2971
+amd pro a10-8770,3567
+amd pro a10-8770e,3016
+amd pro a10-8850b,3752
+amd pro a10-9700,3579
+amd pro a10-9700b,2530
+amd pro a10-9700e,3029
+amd pro a12-8800b,2673
+amd pro a12-8830b,2634
+amd pro a12-8870,3787
+amd pro a12-8870e,3010
+amd pro a12-9800,3775
+amd pro a12-9800b,2705
+amd pro a12-9800e,3113
+amd pro a4-3350b apu,1784
+amd pro a4-4350b,1077
+amd pro a4-8350b,1690
+amd pro a6-7350b,1319
+amd pro a6-8500b,1592
+amd pro a6-8530b,1158
+amd pro a6-8550b,1882
+amd pro a6-8570,1916
+amd pro a6-8570e,1652
+amd pro a6-9500,1804
+amd pro a6-9500b,1357
+amd pro a6-9500e,1689
+amd pro a8-8600b,2232
+amd pro a8-8650b,3218
+amd pro a8-8670e,3197
+amd pro a8-9600,3318
+amd pro a8-9600b,2195
+amd qc-4000,1155
+amd r-260h apu,954
+amd r-272f apu,1215
+amd r-460l apu,1538
+amd r-464l apu,1773
+amd rx-225fb,892
+amd rx-425bb,2637
+amd rx-427bb,2706
+amd ryzen 3 1200,6258
+amd ryzen 3 1300x,6920
+amd ryzen 3 210,13180
+amd ryzen 3 2200g,6741
+amd ryzen 3 2200ge,5916
+amd ryzen 3 2200u,3654
+amd ryzen 3 2300u,5519
+amd ryzen 3 2300x,7552
+amd ryzen 3 3100,11549
+amd ryzen 3 3200g,7003
+amd ryzen 3 3200ge,7270
+amd ryzen 3 3200u,3736
+amd ryzen 3 3250c,3153
+amd ryzen 3 3250u,3747
+amd ryzen 3 3300u,5705
+amd ryzen 3 3300x,12602
+amd ryzen 3 3350u,5759
+amd ryzen 3 4100,11057
+amd ryzen 3 4300g,9897
+amd ryzen 3 4300ge,11231
+amd ryzen 3 4300u,7389
+amd ryzen 3 5300g,13039
+amd ryzen 3 5300ge,12856
+amd ryzen 3 5300u,9544
+amd ryzen 3 5400u,11002
+amd ryzen 3 5425u,11187
+amd ryzen 3 7320c,8219
+amd ryzen 3 7320u,8651
+amd ryzen 3 7330u,10676
+amd ryzen 3 7335u,12582
+amd ryzen 3 7440u,12991
+amd ryzen 3 8300g,14374
+amd ryzen 3 8300ge,13771
+amd ryzen 3 8440u,12805
+amd ryzen 3 pro 1200,5609
+amd ryzen 3 pro 1300,7187
+amd ryzen 3 pro 210,13226
+amd ryzen 3 pro 2100ge,4065
+amd ryzen 3 pro 2200g,6667
+amd ryzen 3 pro 2200ge,5931
+amd ryzen 3 pro 2300u,5610
+amd ryzen 3 pro 3200g,6496
+amd ryzen 3 pro 3200ge,6807
+amd ryzen 3 pro 3300u,5874
+amd ryzen 3 pro 4200g,10831
+amd ryzen 3 pro 4200ge,10930
+amd ryzen 3 pro 4350g,10937
+amd ryzen 3 pro 4350ge,10926
+amd ryzen 3 pro 4355ge,10559
+amd ryzen 3 pro 4450u,9643
+amd ryzen 3 pro 5350g,13793
+amd ryzen 3 pro 5350ge,12651
+amd ryzen 3 pro 5355ge,12761
+amd ryzen 3 pro 5450u,10970
+amd ryzen 3 pro 5475u,11178
+amd ryzen 3 pro 7330u,12477
+amd ryzen 3 pro 7335u,12325
+amd ryzen 3 pro 8300g,14540
+amd ryzen 3 pro 8300ge,14719
+amd ryzen 5 1400,7733
+amd ryzen 5 1500x,9069
+amd ryzen 5 1600,12269
+amd ryzen 5 1600x,13030
+amd ryzen 5 220,18392
+amd ryzen 5 230,20617
+amd ryzen 5 240,22576
+amd ryzen 5 2400g,8735
+amd ryzen 5 2400ge,7191
+amd ryzen 5 2500u,6504
+amd ryzen 5 2500x,9455
+amd ryzen 5 2600,13158
+amd ryzen 5 2600e,12346
+amd ryzen 5 2600h,8002
+amd ryzen 5 2600x,13892
+amd ryzen 5 3350g,8933
+amd ryzen 5 3350ge,9276
+amd ryzen 5 3400g,9215
+amd ryzen 5 3400ge,8848
+amd ryzen 5 3450u,6565
+amd ryzen 5 3500,12796
+amd ryzen 5 3500c,5585
+amd ryzen 5 3500u,6861
+amd ryzen 5 3500x,13173
+amd ryzen 5 3550h,7723
+amd ryzen 5 3550u,7681
+amd ryzen 5 3580u,7116
+amd ryzen 5 3600,17696
+amd ryzen 5 3600x,18150
+amd ryzen 5 3600xt,18561
+amd ryzen 5 4400g,17160
+amd ryzen 5 4500,16081
+amd ryzen 5 4500u,10755
+amd ryzen 5 4600g,15983
+amd ryzen 5 4600ge,15889
+amd ryzen 5 4600h,14215
+amd ryzen 5 4600hs,14319
+amd ryzen 5 4600u,13097
+amd ryzen 5 5500,19321
+amd ryzen 5 5500gt,18683
+amd ryzen 5 5500h,11514
+amd ryzen 5 5500u,12817
+amd ryzen 5 5500x3d 6-core,20779
+amd ryzen 5 5560u,15246
+amd ryzen 5 5600,21539
+amd ryzen 5 5600g,19711
+amd ryzen 5 5600ge,18134
+amd ryzen 5 5600gt,20303
+amd ryzen 5 5600h,16663
+amd ryzen 5 5600t,21992
+amd ryzen 5 5600u,15182
+amd ryzen 5 5600x,21850
+amd ryzen 5 5600x3d,21888
+amd ryzen 5 5600xt,22079
+amd ryzen 5 5625u,14779
+amd ryzen 5 6600h,18655
+amd ryzen 5 6600hs creator edition,17760
+amd ryzen 5 6600u,17031
+amd ryzen 5 7235hs,12376
+amd ryzen 5 7400f,25607
+amd ryzen 5 7430u,16533
+amd ryzen 5 7500f,26831
+amd ryzen 5 7520c,8300
+amd ryzen 5 7520u,9085
+amd ryzen 5 7530u,15492
+amd ryzen 5 7533hs,15192
+amd ryzen 5 7535h,18832
+amd ryzen 5 7535hs,17910
+amd ryzen 5 7535u,17039
+amd ryzen 5 7540u,18568
+amd ryzen 5 7545u,20319
+amd ryzen 5 7600,27036
+amd ryzen 5 7600x,28361
+amd ryzen 5 7600x3d,25659
+amd ryzen 5 7640hs,22926
+amd ryzen 5 7640u,21061
+amd ryzen 5 7645hx,26654
+amd ryzen 5 8400f,24535
+amd ryzen 5 8500g,21566
+amd ryzen 5 8500ge,21204
+amd ryzen 5 8540u,18358
+amd ryzen 5 8600g,25295
+amd ryzen 5 8640hs,19760
+amd ryzen 5 8640u,20322
+amd ryzen 5 8645hs,22433
+amd ryzen 5 9600,28807
+amd ryzen 5 9600x,29988
+amd ryzen 5 microsoft surface edition,7243
+amd ryzen 5 pro 1500,9137
+amd ryzen 5 pro 1600,11856
+amd ryzen 5 pro 215,19402
+amd ryzen 5 pro 230,20681
+amd ryzen 5 pro 2400g,8545
+amd ryzen 5 pro 2400ge,7765
+amd ryzen 5 pro 2500u,6679
+amd ryzen 5 pro 2600,13360
+amd ryzen 5 pro 3350g,9155
+amd ryzen 5 pro 3350ge,9643
+amd ryzen 5 pro 3400g,9084
+amd ryzen 5 pro 3400ge,7638
+amd ryzen 5 pro 3500u,6929
+amd ryzen 5 pro 3600,17211
+amd ryzen 5 pro 4400g,16365
+amd ryzen 5 pro 4400ge,14795
+amd ryzen 5 pro 4500u,12117
+amd ryzen 5 pro 4650g,16100
+amd ryzen 5 pro 4650ge,15348
+amd ryzen 5 pro 4650u,12225
+amd ryzen 5 pro 4655g,16207
+amd ryzen 5 pro 4655ge,14171
+amd ryzen 5 pro 5645,21904
+amd ryzen 5 pro 5650g,20568
+amd ryzen 5 pro 5650ge,18176
+amd ryzen 5 pro 5650u,14525
+amd ryzen 5 pro 5655g,19751
+amd ryzen 5 pro 5655ge,18175
+amd ryzen 5 pro 5675u,14477
+amd ryzen 5 pro 6650h,17936
+amd ryzen 5 pro 6650u,16424
+amd ryzen 5 pro 7530u,14077
+amd ryzen 5 pro 7535u,16418
+amd ryzen 5 pro 7540u,17607
+amd ryzen 5 pro 7545u,19424
+amd ryzen 5 pro 7640hs,22192
+amd ryzen 5 pro 7640u,21287
+amd ryzen 5 pro 7645,27565
+amd ryzen 5 pro 8500g,21999
+amd ryzen 5 pro 8500ge,21632
+amd ryzen 5 pro 8540u,18191
+amd ryzen 5 pro 8600g,25080
+amd ryzen 5 pro 8600ge,24001
+amd ryzen 5 pro 8640hs,21218
+amd ryzen 5 pro 8640u,23509
+amd ryzen 5 pro 8645hs,23227
+amd ryzen 7 1700,14799
+amd ryzen 7 1700x,15630
+amd ryzen 7 1800x,16313
+amd ryzen 7 250,24522
+amd ryzen 7 255,30528
+amd ryzen 7 260,29904
+amd ryzen 7 2700,15657
+amd ryzen 7 2700e,14657
+amd ryzen 7 2700u,6839
+amd ryzen 7 2700x,17457
+amd ryzen 7 2800h,8144
+amd ryzen 7 3700c,6714
+amd ryzen 7 3700u,7066
+amd ryzen 7 3700x,22450
+amd ryzen 7 3750h,8025
+amd ryzen 7 3780u,6958
+amd ryzen 7 3800x,23038
+amd ryzen 7 3800xt,23458
+amd ryzen 7 4700g,20139
+amd ryzen 7 4700ge,19674
+amd ryzen 7 4700u,13188
+amd ryzen 7 4800h,18194
+amd ryzen 7 4800hs,18098
+amd ryzen 7 4800u,16530
+amd ryzen 7 4850u mobile,17110
+amd ryzen 7 4980u microsoft surface edition,17469
+amd ryzen 7 5700,24319
+amd ryzen 7 5700g,24402
+amd ryzen 7 5700ge,21857
+amd ryzen 7 5700u,15589
+amd ryzen 7 5700x,26613
+amd ryzen 7 5700x3d,26305
+amd ryzen 7 5800,25816
+amd ryzen 7 5800h,20761
+amd ryzen 7 5800hs,19585
+amd ryzen 7 5800hs creator edition,21166
+amd ryzen 7 5800u,18149
+amd ryzen 7 5800x,27724
+amd ryzen 7 5800x3d,28305
+amd ryzen 7 5800xt,27979
+amd ryzen 7 5825c,14561
+amd ryzen 7 5825u,18083
+amd ryzen 7 6800h,23026
+amd ryzen 7 6800hs,22754
+amd ryzen 7 6800hs creator edition,21507
+amd ryzen 7 6800u,20526
+amd ryzen 7 6810u,22741
+amd ryzen 7 7435h,22954
+amd ryzen 7 7435hs,23336
+amd ryzen 7 7445hs,19284
+amd ryzen 7 7700,34471
+amd ryzen 7 7700x,35639
+amd ryzen 7 7730u,18003
+amd ryzen 7 7735h,23616
+amd ryzen 7 7735hs,23119
+amd ryzen 7 7735u,20690
+amd ryzen 7 7736u,21725
+amd ryzen 7 7745hx,32589
+amd ryzen 7 7800x3d,34294
+amd ryzen 7 7840h,27919
+amd ryzen 7 7840hs,28608
+amd ryzen 7 7840hx,42698
+amd ryzen 7 7840s,23744
+amd ryzen 7 7840u,24726
+amd ryzen 7 8700f,31360
+amd ryzen 7 8700g,31647
+amd ryzen 7 8745h,29645
+amd ryzen 7 8745hs,29205
+amd ryzen 7 8840hs,25013
+amd ryzen 7 8840u,23300
+amd ryzen 7 8845h,27347
+amd ryzen 7 8845hs,28471
+amd ryzen 7 9700x,37170
+amd ryzen 7 9800x3d,39984
+amd ryzen 7 extreme edition,16224
+amd ryzen 7 h 255,20686
+amd ryzen 7 h 260,30214
+amd ryzen 7 pro 1700,14696
+amd ryzen 7 pro 1700x,15562
+amd ryzen 7 pro 250,22450
+amd ryzen 7 pro 2700,15342
+amd ryzen 7 pro 2700u,7011
+amd ryzen 7 pro 2700x,16959
+amd ryzen 7 pro 3700,22810
+amd ryzen 7 pro 3700u,7276
+amd ryzen 7 pro 4700g,19715
+amd ryzen 7 pro 4750g,20239
+amd ryzen 7 pro 4750ge,18470
+amd ryzen 7 pro 4750u,14858
+amd ryzen 7 pro 5750g,24122
+amd ryzen 7 pro 5750ge,21443
+amd ryzen 7 pro 5755g with radeon graphics,24216
+amd ryzen 7 pro 5755ge,20894
+amd ryzen 7 pro 5800h,19461
+amd ryzen 7 pro 5845,26054
+amd ryzen 7 pro 5850u,16912
+amd ryzen 7 pro 5875u,16496
+amd ryzen 7 pro 6850h,23405
+amd ryzen 7 pro 6850hs,22330
+amd ryzen 7 pro 6850u,20651
+amd ryzen 7 pro 6860z,20451
+amd ryzen 7 pro 7730u,18242
+amd ryzen 7 pro 7735u,18715
+amd ryzen 7 pro 7745,34827
+amd ryzen 7 pro 7840hs,26802
+amd ryzen 7 pro 7840u,24643
+amd ryzen 7 pro 8700g,31082
+amd ryzen 7 pro 8700ge,28155
+amd ryzen 7 pro 8840hs,26986
+amd ryzen 7 pro 8840u,23944
+amd ryzen 7 pro 8845hs,28978
+amd ryzen 9 270,29157
+amd ryzen 9 3900,30584
+amd ryzen 9 3900x,32536
+amd ryzen 9 3900xt,32571
+amd ryzen 9 3950x,38571
+amd ryzen 9 4900h,18987
+amd ryzen 9 4900hs,18856
+amd ryzen 9 4950u mobile,16290
+amd ryzen 9 5900,33919
+amd ryzen 9 5900h,15207
+amd ryzen 9 5900hs,21317
+amd ryzen 9 5900hs creator edition,18747
+amd ryzen 9 5900hx,22297
+amd ryzen 9 5900x,38986
+amd ryzen 9 5900xt,44068
+amd ryzen 9 5950x,45413
+amd ryzen 9 5980hs,20309
+amd ryzen 9 5980hx,23322
+amd ryzen 9 6900hs,23142
+amd ryzen 9 6900hs creator edition,21324
+amd ryzen 9 6900hx,24336
+amd ryzen 9 7845hx,44929
+amd ryzen 9 7900,48318
+amd ryzen 9 7900x,51394
+amd ryzen 9 7900x3d,50300
+amd ryzen 9 7940h,29063
+amd ryzen 9 7940hs,30084
+amd ryzen 9 7940hx,53740
+amd ryzen 9 7945hx,54585
+amd ryzen 9 7945hx3d,57517
+amd ryzen 9 7950x,62450
+amd ryzen 9 7950x3d,62358
+amd ryzen 9 8940hx,52121
+amd ryzen 9 8945h,30353
+amd ryzen 9 8945hs,29717
+amd ryzen 9 8945hx,51777
+amd ryzen 9 9850hx 12-core,52693
+amd ryzen 9 9900x,54627
+amd ryzen 9 9900x3d,56217
+amd ryzen 9 9950x,66023
+amd ryzen 9 9950x3d,70221
+amd ryzen 9 9955hx,56825
+amd ryzen 9 9955hx3d,61273
+amd ryzen 9 pro 3900,31333
+amd ryzen 9 pro 5945,34549
+amd ryzen 9 pro 6950h,23776
+amd ryzen 9 pro 6950hs,22745
+amd ryzen 9 pro 7940hs,27848
+amd ryzen 9 pro 7945,46651
+amd ryzen 9 pro 8945hs,29944
+amd ryzen ai 5 340,19937
+amd ryzen ai 5 pro 340,18956
+amd ryzen ai 7 350,24447
+amd ryzen ai 7 h 350,27316
+amd ryzen ai 7 pro 350,24011
+amd ryzen ai 7 pro 360,22105
+amd ryzen ai 9 365,29638
+amd ryzen ai 9 h 365,28941
+amd ryzen ai 9 hx 370,35174
+amd ryzen ai 9 hx 375,32875
+amd ryzen ai 9 hx pro 370,32407
+amd ryzen ai 9 hx pro 375,33563
+amd ryzen ai max 385,30628
+amd ryzen ai max 390,42352
+amd ryzen ai max pro 385,28702
+amd ryzen ai max pro 390,43799
+amd ryzen ai max+ 395,53537
+amd ryzen ai max+ pro 395,51689
+amd ryzen embedded r1305g,3142
+amd ryzen embedded r1505g,3790
+amd ryzen embedded r1600,3276
+amd ryzen embedded r1606g,4153
+amd ryzen embedded r2312,3952
+amd ryzen embedded r2314,5757
+amd ryzen embedded r2514,7040
+amd ryzen embedded r2544,8486
+amd ryzen embedded v1202b,3512
+amd ryzen embedded v1404i,6007
+amd ryzen embedded v1500b,4557
+amd ryzen embedded v1605b,6727
+amd ryzen embedded v1756b,8060
+amd ryzen embedded v1780b,6219
+amd ryzen embedded v1807b,8185
+amd ryzen embedded v1807f,7775
+amd ryzen embedded v2516,13329
+amd ryzen embedded v2546,9656
+amd ryzen embedded v2718,15761
+amd ryzen embedded v2748,18434
+amd ryzen embedded v2a46,4999
+amd ryzen embedded v3c14,11882
+amd ryzen embedded v3c18i,13856
+amd ryzen embedded v3c48,20203
+amd ryzen threadripper 1900x,16804
+amd ryzen threadripper 1920,22066
+amd ryzen threadripper 1920x,23128
+amd ryzen threadripper 1950x,27523
+amd ryzen threadripper 2920x,25153
+amd ryzen threadripper 2950x,29440
+amd ryzen threadripper 2970wx,30948
+amd ryzen threadripper 2990wx,32202
+amd ryzen threadripper 2990x,25874
+amd ryzen threadripper 3960x,54785
+amd ryzen threadripper 3970x,63062
+amd ryzen threadripper 3990x,79908
+amd ryzen threadripper 7960x,83615
+amd ryzen threadripper 7970x,99051
+amd ryzen threadripper 7980x,136253
+amd ryzen threadripper 9960x 24-cores,92787
+amd ryzen threadripper 9970x,110850
+amd ryzen threadripper 9980x,149347
+amd ryzen threadripper pro 3945wx,33490
+amd ryzen threadripper pro 3955wx,40098
+amd ryzen threadripper pro 3975wx,62275
+amd ryzen threadripper pro 3995wx,83928
+amd ryzen threadripper pro 5945wx,40191
+amd ryzen threadripper pro 5955wx,48877
+amd ryzen threadripper pro 5965wx,66399
+amd ryzen threadripper pro 5975wx,75384
+amd ryzen threadripper pro 5995wx,95298
+amd ryzen threadripper pro 7945wx,49830
+amd ryzen threadripper pro 7955wx,59950
+amd ryzen threadripper pro 7965wx,82349
+amd ryzen threadripper pro 7975wx,96049
+amd ryzen threadripper pro 7985wx,133644
+amd ryzen threadripper pro 7995wx,144851
+amd ryzen threadripper pro 9945wx,56854
+amd ryzen threadripper pro 9955wx,69993
+amd ryzen threadripper pro 9965wx,94664
+amd ryzen threadripper pro 9975wx,110063
+amd ryzen threadripper pro 9985wx,156223
+amd ryzen threadripper pro 9995wx,175727
+amd ryzen z1,18496
+amd ryzen z1 extreme,24870
+amd ryzen z2 extreme,26504
+amd ryzen z2 go,12270
+amd sempron 130,511
+amd sempron 140,511
+amd sempron 145,537
+amd sempron 150,597
+amd sempron 200u,125
+amd sempron 210u,267
+amd sempron 2200+,184
+amd sempron 2300+,207
+amd sempron 240,1278
+amd sempron 2400+,205
+amd sempron 2500+,207
+amd sempron 2600+,253
+amd sempron 2650 apu,551
+amd sempron 2800+,243
+amd sempron 3000+,299
+amd sempron 3100+,298
+amd sempron 3200+,251
+amd sempron 3300+,315
+amd sempron 3400+,292
+amd sempron 3500+,232
+amd sempron 3600+,364
+amd sempron 3800+,360
+amd sempron 3850 apu,1168
+amd sempron dual core 2100,506
+amd sempron dual core 2200,563
+amd sempron dual core 2300,555
+amd sempron le-1100,315
+amd sempron le-1150,251
+amd sempron le-1200,349
+amd sempron le-1250,301
+amd sempron le-1300,417
+amd sempron m100,332
+amd sempron m120,281
+amd sempron si-40,288
+amd sempron si-42,245
+amd sempron x2 180,826
+amd sempron x2 190,879
+amd sempron x2 198 dual-core,930
+amd turion 64 mobile mk-36,334
+amd turion 64 mobile mk-38,362
+amd turion 64 mobile ml-28,254
+amd turion 64 mobile ml-30,277
+amd turion 64 mobile ml-32,285
+amd turion 64 mobile ml-34,319
+amd turion 64 mobile ml-37,334
+amd turion 64 mobile ml-40,336
+amd turion 64 mobile ml-42,400
+amd turion 64 mobile ml-44,384
+amd turion 64 mobile mt-30,246
+amd turion 64 mobile mt-32,286
+amd turion 64 mobile mt-34,279
+amd turion 64 mobile mt-37,274
+amd turion 64 x2 mobile tl-50,474
+amd turion 64 x2 mobile tl-52,534
+amd turion 64 x2 mobile tl-56,514
+amd turion 64 x2 mobile tl-58,485
+amd turion 64 x2 mobile tl-60,635
+amd turion 64 x2 mobile tl-62,649
+amd turion 64 x2 mobile tl-64,675
+amd turion 64 x2 mobile tl-66,716
+amd turion 64 x2 mobile tl-68,866
+amd turion dual-core rm-70,561
+amd turion dual-core rm-72,649
+amd turion dual-core rm-74,588
+amd turion dual-core rm-75,659
+amd turion ii dual-core mobile m500,756
+amd turion ii dual-core mobile m520,855
+amd turion ii dual-core mobile m540,912
+amd turion ii n530 dual-core,855
+amd turion ii n550 dual-core,877
+amd turion ii neo k625 dual-core,618
+amd turion ii neo k685 dual-core,684
+amd turion ii neo n40l dual-core,624
+amd turion ii neo n54l dual-core,853
+amd turion ii p520 dual-core,870
+amd turion ii p540 dual-core,922
+amd turion ii p560 dual-core,913
+amd turion ii ultra dual-core mobile m600,955
+amd turion ii ultra dual-core mobile m620,814
+amd turion ii ultra dual-core mobile m640,1034
+amd turion ii ultra dual-core mobile m660,1011
+amd turion neo x2 dual core l625,432
+amd turion x2 dual core l510,603
+amd turion x2 dual core mobile rm-70,497
+amd turion x2 dual core mobile rm-76,691
+amd turion x2 dual-core mobile rm-70,612
+amd turion x2 dual-core mobile rm-72,653
+amd turion x2 dual-core mobile rm-74,655
+amd turion x2 dual-core mobile rm-75,727
+amd turion x2 dual-core mobile rm-76,799
+amd turion x2 dual-core mobile rm-77,562
+amd turion x2 ultra dual-core mobile zm-80,506
+amd turion x2 ultra dual-core mobile zm-82,645
+amd turion x2 ultra dual-core mobile zm-84,802
+amd turion x2 ultra dual-core mobile zm-85,828
+amd turion x2 ultra dual-core mobile zm-86,695
+amd turion x2 ultra dual-core mobile zm-87,783
+amd turionx2 dual core mobile rm-70,536
+amd turionx2 dual core mobile rm-72,471
+amd turionx2 ultra dualcore mobile zm-85,841
+amd turionx2 ultra dualcore mobile zm-87,599
+amd v105,184
+amd v120,385
+amd v140,422
+amd v160,371
+amd z-01,305
+amd z-60 apu,262
+amlogic,650
+amlogic amla311d2,3522
+amlogic amls905d3,815
+amlogic amls905x2,754
+amlogic amls905x4,500
+amlogic amls905x5,1699
+amlogic amlt982,972
+ampere arm - 192 core 3200 mhz,57444
+aosp ranchu,2270
+ap201,565
+apple a11 bionic,4429
+apple a12 bionic,5025
+apple a12x bionic,11079
+apple a12z bionic,9365
+apple a13 bionic,5754
+apple a14 bionic,8554
+apple a15 bionic,9890
+apple a16,9898
+apple a16 bionic,10983
+apple a17 pro,12216
+apple a18,12463
+apple a18 pro,12937
+apple a8,1527
+apple a8x,2382
+apple a9,2071
+apple a9x,2514
+apple m1 8 core 3200 mhz,14149
+apple m1 max 10 core 3200 mhz,22145
+apple m1 pro 10 core 3200 mhz,21920
+apple m1 pro 8 core 3200 mhz,17206
+apple m1 ultra 20 core,41392
+apple m2 8 core 3500 mhz,15654
+apple m2 max 12 core 3680 mhz,26774
+apple m2 pro 10 core 3480 mhz,21896
+apple m2 pro 12 core 3480 mhz,26702
+apple m2 ultra 24 core,50745
+apple m3 8 core,19179
+apple m3 max 14 core,36469
+apple m3 max 16 core,41227
+apple m3 pro 11 core,24882
+apple m3 pro 12 core,24031
+apple m3 ultra 28 core,68759
+apple m3 ultra 32 core,73785
+apple m4 10 core,23915
+apple m4 8 core,20795
+apple m4 9 core,22274
+apple m4 max 14 core,38503
+apple m4 max 16 core,43844
+apple m4 pro 12 core,32932
+apple m4 pro 14 core,38218
+arm - 10 core 2000 mhz,9787
+arm - 12 core 0 mhz,14352
+arm - 12 core 2000 mhz,16944
+arm - 16 core 0 mhz,19753
+arm - 2 core 0 mhz,2368
+arm - 20 core 0 mhz,22504
+arm - 32 core 2911 mhz,8132
+arm - 32 core 3300 mhz,8684
+arm - 4 core 0 mhz,5650
+arm - 4 core 1804 mhz,3336
+arm - 4 core 2016 mhz,3653
+arm - 6 core 0 mhz,8515
+arm - 6 core 1800 mhz,2039
+arm - 8 core 0 mhz,8515
+arm - 8 core 1766 mhz,4080
+arm - 8 core 1800 mhz,3192
+arm - 8 core 2208 mhz,2270
+arm - 8 core 2424 mhz,8610
+arm ampere-1 4 core 0 mhz,3034
+arm ampere-1a 192 core 2600 mhz,47202
+arm apple m1 (virtual) 4 core 0 mhz,10123
+arm apple m1 max (virtual) 10 core 0 mhz,21197
+arm armv7 rev 1 (v7l) 4 core 1608 mhz,776
+arm armv7 rev 1 (v7l) 4 core 1800 mhz,843
+arm armv7 rev 3 (v7l) 4 core 2065 mhz,984
+arm armv7 rev 4 (v7l) 4 core 1200 mhz,403
+arm armv7 rev 4 (v7l) 4 core 1400 mhz,399
+arm armv7 rev 5 (v7l) 2 core 0 mhz,113
+arm armv7 rev 5 (v7l) 4 core 1200 mhz,325
+arm armv8 8 core 2500 mhz,4102
+arm armv8 rev 1 (v8l) 4 core 1510 mhz,1042
+arm armv8 rev 1 (v8l) 4 core 1984 mhz,1473
+arm armv8 rev 1 (v8l) 6 core 1510 mhz,2553
+arm armv8 rev 1 (v8l) 6 core 1984 mhz,2776
+arm avalanche-m2 4 core 2424 mhz,8017
+arm cix p1 cd8180 7 core 2500 mhz,5505
+arm cortex-a15 4 core 1400 mhz,1141
+arm cortex-a15 4 core 1500 mhz,1304
+arm cortex-a15 4 core 2000 mhz,923
+arm cortex-a15 8 core 1400 mhz,1160
+arm cortex-a17 4 core 1800 mhz,781
+arm cortex-a35 4 core 0 mhz,413
+arm cortex-a35 4 core 1200 mhz,329
+arm cortex-a35 4 core 1296 mhz,334
+arm cortex-a35 4 core 2004 mhz,546
+arm cortex-a53 2 core 0 mhz,161
+arm cortex-a53 4 core 0 mhz,337
+arm cortex-a53 4 core 1000 mhz,215
+arm cortex-a53 4 core 1008 mhz,313
+arm cortex-a53 4 core 1152 mhz,339
+arm cortex-a53 4 core 1199 mhz,408
+arm cortex-a53 4 core 1200 mhz,274
+arm cortex-a53 4 core 1296 mhz,418
+arm cortex-a53 4 core 1300 mhz,438
+arm cortex-a53 4 core 1333 mhz,207
+arm cortex-a53 4 core 1368 mhz,385
+arm cortex-a53 4 core 1392 mhz,417
+arm cortex-a53 4 core 1400 mhz,271
+arm cortex-a53 4 core 1416 mhz,468
+arm cortex-a53 4 core 1500 mhz,340
+arm cortex-a53 4 core 1512 mhz,467
+arm cortex-a53 4 core 1536 mhz,222
+arm cortex-a53 4 core 1600 mhz,470
+arm cortex-a53 4 core 1608 mhz,462
+arm cortex-a53 4 core 1704 mhz,556
+arm cortex-a53 4 core 1800 mhz,519
+arm cortex-a53 4 core 1908 mhz,638
+arm cortex-a53 4 core 1968 mhz,571
+arm cortex-a53 4 core 2016 mhz,417
+arm cortex-a53 4 core 2040 mhz,593
+arm cortex-a53 4 core 600 mhz,220
+arm cortex-a53 6 core 1896 mhz,1851
+arm cortex-a53 8 core 1512 mhz,739
+arm cortex-a55 4 core 0 mhz,258
+arm cortex-a55 4 core 1416 mhz,505
+arm cortex-a55 4 core 1800 mhz,632
+arm cortex-a55 4 core 1908 mhz,707
+arm cortex-a55 4 core 1992 mhz,679
+arm cortex-a55 4 core 2000 mhz,711
+arm cortex-a55 4 core 2016 mhz,755
+arm cortex-a55 4 core 2100 mhz,691
+arm cortex-a55 4 core 2124 mhz,742
+arm cortex-a55 4 core 2208 mhz,798
+arm cortex-a55 6 core 1800 mhz,984
+arm cortex-a55 8 core 1416 mhz,1123
+arm cortex-a55 8 core 1800 mhz,3163
+arm cortex-a57 2 core 1479 mhz,318
+arm cortex-a57 4 core 0 mhz,866
+arm cortex-a57 4 core 1479 mhz,956
+arm cortex-a57 4 core 1734 mhz,1170
+arm cortex-a57 4 core 1912 mhz,990
+arm cortex-a57 4 core 2014 mhz,1229
+arm cortex-a57 4 core 2091 mhz,1192
+arm cortex-a57 8 core 1500 mhz,1022
+arm cortex-a57 8 core 1766 mhz,3766
+arm cortex-a7 2 core 1080 mhz,142
+arm cortex-a7 2 core 960 mhz,111
+arm cortex-a7 2 core 996 mhz,138
+arm cortex-a7 4 core 1000 mhz,278
+arm cortex-a7 4 core 1008 mhz,269
+arm cortex-a7 4 core 1200 mhz,219
+arm cortex-a7 4 core 1296 mhz,253
+arm cortex-a7 4 core 1300 mhz,343
+arm cortex-a7 4 core 1368 mhz,354
+arm cortex-a7 4 core 1392 mhz,318
+arm cortex-a7 4 core 900 mhz,230
+arm cortex-a715 4 core 2200 mhz,3432
+arm cortex-a72 1 core 0 mhz,400
+arm cortex-a72 16 core 0 mhz,5192
+arm cortex-a72 16 core 2000 mhz,5110
+arm cortex-a72 16 core 2200 mhz,5470
+arm cortex-a72 2 core 0 mhz,693
+arm cortex-a72 2 core 1703 mhz,1005
+arm cortex-a72 4 core 0 mhz,2088
+arm cortex-a72 4 core 1000 mhz,608
+arm cortex-a72 4 core 1200 mhz,174
+arm cortex-a72 4 core 1416 mhz,927
+arm cortex-a72 4 core 1500 mhz,617
+arm cortex-a72 4 core 1600 mhz,667
+arm cortex-a72 4 core 1700 mhz,541
+arm cortex-a72 4 core 1750 mhz,335
+arm cortex-a72 4 core 1800 mhz,679
+arm cortex-a72 4 core 1850 mhz,199
+arm cortex-a72 4 core 1900 mhz,742
+arm cortex-a72 4 core 2000 mhz,766
+arm cortex-a72 4 core 2016 mhz,2201
+arm cortex-a72 4 core 2100 mhz,674
+arm cortex-a72 4 core 2200 mhz,798
+arm cortex-a72 4 core 2208 mhz,2290
+arm cortex-a72 4 core 2300 mhz,915
+arm cortex-a72 4 core 2394 mhz,1254
+arm cortex-a72 4 core 2400 mhz,1295
+arm cortex-a72 4 core 2800 mhz,314
+arm cortex-a72 4 core 800 mhz,279
+arm cortex-a72 6 core 1008 mhz,734
+arm cortex-a72 6 core 1416 mhz,1071
+arm cortex-a72 6 core 1512 mhz,1183
+arm cortex-a72 8 core 0 mhz,3254
+arm cortex-a72 8 core 2016 mhz,2208
+arm cortex-a720 8 core 2600 mhz,6141
+arm cortex-a73 4 core 0 mhz,908
+arm cortex-a73 4 core 1800 mhz,891
+arm cortex-a73 4 core 1844 mhz,1368
+arm cortex-a73 4 core 1900 mhz,1547
+arm cortex-a73 4 core 1989 mhz,1815
+arm cortex-a73 4 core 2100 mhz,1185
+arm cortex-a73 6 core 1896 mhz,1242
+arm cortex-a73 6 core 1992 mhz,1311
+arm cortex-a73 6 core 2016 mhz,1445
+arm cortex-a73 8 core 1989 mhz,1803
+arm cortex-a76 2 core 0 mhz,1949
+arm cortex-a76 4 core 1500 mhz,1488
+arm cortex-a76 4 core 1608 mhz,2698
+arm cortex-a76 4 core 1800 mhz,3114
+arm cortex-a76 4 core 2000 mhz,1513
+arm cortex-a76 4 core 2400 mhz,2174
+arm cortex-a76 4 core 2500 mhz,2342
+arm cortex-a76 4 core 2600 mhz,2327
+arm cortex-a76 4 core 2700 mhz,2383
+arm cortex-a76 4 core 2800 mhz,2469
+arm cortex-a76 4 core 2900 mhz,2615
+arm cortex-a76 4 core 3000 mhz,2594
+arm cortex-a76 4 core 3100 mhz,2734
+arm cortex-a76 4 core 3200 mhz,2579
+arm cortex-a76 4 core 3300 mhz,2493
+arm cortex-a76 4 core 3400 mhz,2580
+arm cortex-a76 8 core 0 mhz,1917
+arm cortex-a76 8 core 1800 mhz,2975
+arm cortex-a78 4 core 1958 mhz,3150
+arm cortex-a78 4 core 2000 mhz,3016
+arm cortex-a78 8 core,2845
+arm cortex-a78ae 10 core 2112 mhz,5520
+arm cortex-a78ae 12 core 2201 mhz,6849
+arm cortex-a78ae 6 core 1510 mhz,2631
+arm cortex-a78ae 6 core 1728 mhz,2839
+arm cortex-a78ae 8 core 1984 mhz,3764
+arm cortex-a78ae 8 core 2201 mhz,3788
+arm cortex-x1 4 core 0 mhz,2326
+arm cortex-x1 4 core 1803 mhz,2348
+arm cortex-x1c 4 core 2438 mhz,6007
+arm d2000/8 8 core 2300 mhz,2674
+arm falkor v1/kryo 4 core 1612 mhz,1453
+arm falkor v1/kryo 8 core 1900 mhz,1652
+arm falkor-v1/kryo 4 core 1900 mhz,1656
+arm firestorm 4 core 2064 mhz,7804
+arm firestorm 8 core 2064 mhz,6775
+arm firestorm-m1 4 core 2064 mhz,7752
+arm firestorm-m1-pro 8 core 2064 mhz,9872
+arm ft-2000+/64 64 core 0 mhz,9605
+arm ft-2000/4 4 core 2200 mhz,881
+arm ftc662 64 core 0 mhz,8008
+arm ftc663 8 core 0 mhz,2408
+"arm huawei,kunpeng 920 24 core 2600 mhz",9496
+arm krait 4 core 0 mhz,393
+arm kryo-3xx-gold 4 core 1766 mhz,2222
+arm kryo-3xx-gold 8 core 1766 mhz,2372
+arm kryo-4xx-gold 1 core 0 mhz,769
+arm kryo-4xx-gold 8 core 0 mhz,3864
+arm kryo-4xx-gold 8 core 1804 mhz,2531
+arm kryo-4xx-silver 4 core 1804 mhz,3425
+arm kunpeng-920 24 core 0 mhz,8870
+arm kunpeng-920 24 core 2600 mhz,9841
+arm kunpeng-920 8 core 0 mhz,3989
+arm kunpeng-920 8 core 2600 mhz,3910
+arm neoverse-n1 1 core 0 mhz,724
+arm neoverse-n1 10 core 0 mhz,7390
+arm neoverse-n1 12 core 0 mhz,8994
+arm neoverse-n1 128 core 2800 mhz,43111
+arm neoverse-n1 128 core 3000 mhz,39163
+arm neoverse-n1 16 core 0 mhz,11459
+arm neoverse-n1 2 core 0 mhz,1518
+arm neoverse-n1 3 core 0 mhz,2385
+arm neoverse-n1 32 core 0 mhz,17384
+arm neoverse-n1 32 core 1700 mhz,11841
+arm neoverse-n1 4 core 0 mhz,3125
+arm neoverse-n1 48 core 0 mhz,27266
+arm neoverse-n1 6 core 0 mhz,4575
+arm neoverse-n1 60 core 0 mhz,30828
+arm neoverse-n1 64 core 0 mhz,28040
+arm neoverse-n1 64 core 2200 mhz,20250
+arm neoverse-n1 64 core 3000 mhz,17515
+arm neoverse-n1 8 core 0 mhz,5964
+arm neoverse-n1 80 core 0 mhz,34878
+arm neoverse-n1 80 core 2600 mhz,18823
+arm neoverse-n1 80 core 2800 mhz,11755
+arm neoverse-n1 80 core 3000 mhz,35253
+arm neoverse-n1 96 core 2800 mhz,29890
+arm neoverse-n2 16 core 0 mhz,14636
+arm neoverse-n2 2 core 0 mhz,1987
+arm neoverse-n2 8 core 2500 mhz,5544
+arm neoverse-v1 1 core 0 mhz,785
+arm neoverse-v1 16 core 0 mhz,11519
+arm neoverse-v1 2 core 0 mhz,1567
+arm neoverse-v1 4 core 0 mhz,3084
+arm neoverse-v2 1 core 0 mhz,944
+arm neoverse-v2 2 core 0 mhz,1991
+arm neoverse-v2 4 core 0 mhz,3940
+arm neoverse-v2 72 core 3447 mhz,57299
+arm neoverse-v2 72 core 3465 mhz,57369
+arm neoverse-v2 72 core 3519 mhz,57240
+arm neoverse-v2 96 core 0 mhz,56557
+arm oryon 8 core 0 mhz,4955
+arm phytium d3000 8 core 2500 mhz,5528
+arm phytium ft1500a 4 core 2000 mhz,1579
+"arm phytium,d2000/8 8 core 2000 mhz",2409
+"arm phytium,d2000/8 8 core 2300 mhz",2690
+"arm phytium,d2000/8 e8c 8 core 2300 mhz",2522
+"arm phytium,ft-2000/4 4 core 0 mhz",1658
+"arm phytium,ft-2000/4 8 core 2300 mhz",2720
+arm phytium-d3000m 8-c 8 core 1800 mhz,4541
+arm x-gene 32 core 3000 mhz,8202
+arm x-gene 32 core 3300 mhz,8684
+arm x-gene 8 core 0 mhz,1091
+asus tinker board 2/2s,1771
+athlon 64 dual core 3800+,736
+athlon 64 dual core 5000+,850
+athlon 64 dual core 5600+,875
+athlon dual core 4050e,670
+athlon dual core 4450e,681
+athlon dual core 4850e,769
+bcm2711,852
+bcm2712,3284
+bcm2835,1239
+broadcom bcm2712,4309
+broadcom stb (flattened device tree),659
+celeron dual-core t3000 @ 1.80ghz,643
+celeron dual-core t3100 @ 1.90ghz,613
+celeron dual-core t3300 @ 2.00ghz,633
+celeron dual-core t3500 @ 2.10ghz,764
+centaurhauls @2000mhz,6549
+centaurhauls @2400mhz,7784
+centaurhauls @2500mhz,8014
+cix p1 cd8180,9277
+common kvm v2,2127
+cortex-a76,51
+dg1201slf87hw,2369
+dg1301sml87hy,3624
+dg1401snf87id,3645
+dg1701snf87ig,2981
+do-regular,1077
+dual-core amd opteron 1220 se,748
+essgoo,497
+fabrikams xy9 @ 3.15 ghz,6715
+firestorm-m1,4295
+general purpose,3396
+generic dt based system,632
+giada jhs558 (android),2022
+google gs201,7221
+google r11 btwifi evt1.1,187
+google tensor,6707
+google tensor g3,8064
+google tensor g4,8240
+grandstream gxv3480 video phone,1078
+hardkernel odroid-n2plus,2115
+"haydn based on qualcomm technologies, inc sm8350",5359
+hi6210sft,796
+hi6620oem,396
+high performance datacenter v,1610
+hisilicon kirin,6400
+hisilicon kirin 659,1893
+hisilicon kirin 925,1053
+hisilicon kirin 930,1415
+hisilicon kirin 935,1599
+hisilicon kirin 950,2457
+hisilicon kirin 955,2936
+hisilicon kirin 960,2897
+hisilicon kirin 970,2908
+hisilicon kirin 990,3965
+hisilicon kirin710,2447
+hisilicon kirin810,2945
+hisilicon kirin820,4188
+hisilicon kirin9000,5083
+hisilicon kirin970,2681
+hisilicon kirin980,4388
+hisilicon kirin985,4162
+hp hexa-core 2.0ghz,1741
+hygon c86 3185 8-core,9243
+hygon c86 3250 8-core,11476
+hygon c86 3330 4-core,6031
+hygon c86 3350 8-core,12292
+hygon c86 52xx series,4080
+hygon c86 7255 16-core,18831
+hygon c86-3g,12691
+hygon c86-3g (opn 3350m),4660
+hygon c86-3g (opn:3350),11305
+hygon c86-3g (opn:3350m),4658
+hygon c86-4g (opn:3490),21968
+intel 2.80ghz,341
+intel 3 n350,4877
+intel 3 n355,10481
+intel 300,7259
+intel 300t,6084
+intel atom 230 @ 1.60ghz,169
+intel atom 330 @ 1.60ghz,381
+intel atom c1110,3170
+intel atom c2338 @ 1.74ghz,584
+intel atom c2350 @ 1.74ghz,520
+intel atom c2358 @ 1.74ghz,562
+intel atom c2538 @ 2.40ghz,968
+intel atom c2550 @ 2.40ghz,1422
+intel atom c2558 @ 2.40ghz,1424
+intel atom c2750 @ 2.40ghz,2787
+intel atom c2750 @ 2.41ghz,2174
+intel atom c2758 @ 2.40ghz,2317
+intel atom c3338 @ 1.50ghz,1028
+intel atom c3508 @ 1.60ghz,1831
+intel atom c3538 @ 2.10ghz,1910
+intel atom c3558 @ 2.20ghz,2431
+intel atom c3708 @ 1.70ghz,3750
+intel atom c3758 @ 2.20ghz,4614
+intel atom c3758r @ 2.40ghz,5100
+intel atom c3808 @ 2.00ghz,5671
+intel atom c3858 @ 2.00ghz,5040
+intel atom c3958 @ 2.00ghz,3929
+intel atom c5125,8631
+intel atom d2500 @ 1.86ghz,251
+intel atom d2550 @ 1.86ghz,409
+intel atom d2560 @ 2.00ghz,433
+intel atom d2700 @ 2.13ghz,456
+intel atom d2701 @ 2.13ghz,515
+intel atom d410 @ 1.66ghz,180
+intel atom d425 @ 1.80ghz,188
+intel atom d510 @ 1.66ghz,406
+intel atom d525 @ 1.80ghz,396
+intel atom e3805 @ 1.33ghz,406
+intel atom e3815 @ 1.46ghz,193
+intel atom e3825 @ 1.33ghz,378
+intel atom e3826 @ 1.46ghz,304
+intel atom e3827 @ 1.74ghz,480
+intel atom e3840 @ 1.91ghz,704
+intel atom e3845 @ 1.91ghz,1069
+intel atom e3900 @ 1.60ghz,1953
+intel atom n2100 @ 1.60ghz,193
+intel atom n2600 @ 1.60ghz,316
+intel atom n270 @ 1.60ghz,136
+intel atom n280 @ 1.66ghz,157
+intel atom n2800 @ 1.86ghz,444
+intel atom n435 @ 1.33ghz,153
+intel atom n450 @ 1.66ghz,202
+intel atom n455 @ 1.66ghz,188
+intel atom n470 @ 1.83ghz,224
+intel atom n475 @ 1.83ghz,179
+intel atom n550 @ 1.50ghz,304
+intel atom n570 @ 1.66ghz,360
+intel atom p5322,7378
+intel atom p5342,13085
+intel atom p5362,17276
+intel atom s1260 @ 2.00ghz,526
+intel atom t5700 @ 1.70ghz,2363
+intel atom x5-e3930 @ 1.30ghz,928
+intel atom x5-e3940 @ 1.60ghz,1908
+intel atom x5-e8000 @ 1.04ghz,953
+intel atom x5-z8300 @ 1.44ghz,840
+intel atom x5-z8330 @ 1.44ghz,803
+intel atom x5-z8350 @ 1.44ghz,893
+intel atom x5-z8500 @ 1.44ghz,1242
+intel atom x5-z8550 @ 1.44ghz,1143
+intel atom x6211e @ 1.20ghz,1695
+intel atom x6211e @ 1.30ghz,1762
+intel atom x6214re @ 1.40ghz,1109
+intel atom x6413e @ 1.50ghz,3917
+intel atom x6414re @ 1.50ghz,2128
+intel atom x6425e @ 2.00ghz,3657
+intel atom x6425re @ 1.90ghz,2819
+intel atom x6427fe @ 1.90ghz,3196
+intel atom x7-e3950 @ 1.60ghz,2071
+intel atom x7-z8700 @ 1.60ghz,1323
+intel atom x7-z8750 @ 1.60ghz,1294
+intel atom x7211e,2553
+intel atom x7211re,2364
+intel atom x7213re,2256
+intel atom x7425e,5423
+intel atom x7433re,3684
+intel atom x7835re,6580
+intel atom z2760 @ 1.80ghz,298
+intel atom z3530 @ 1.33ghz,565
+intel atom z3560 @ 1.00ghz,749
+intel atom z3560 @ 1.83ghz,690
+intel atom z3580 @ 1.33ghz,802
+intel atom z3735d @ 1.33ghz,704
+intel atom z3735e @ 1.33ghz,557
+intel atom z3735f @ 1.33ghz,543
+intel atom z3735g @ 1.33ghz,772
+intel atom z3736f @ 1.33ghz,496
+intel atom z3740 @ 1.33ghz,638
+intel atom z3740d @ 1.33ghz,614
+intel atom z3745 @ 1.33ghz,621
+intel atom z3745d @ 1.33ghz,599
+intel atom z3770 @ 1.46ghz,728
+intel atom z3770d @ 1.49ghz,488
+intel atom z3775 @ 1.46ghz,702
+intel atom z3775d @ 1.49ghz,794
+intel atom z3795 @ 1.60ghz,1196
+intel atom z520 @ 1.33ghz,122
+intel atom z530 @ 1.60ghz,183
+intel atom z670 @ 1.50ghz,158
+intel cc150 @ 3.50ghz,14232
+intel celeron 1.70ghz,101
+intel celeron 1.80ghz,96
+intel celeron 1000m @ 1.80ghz,1070
+intel celeron 1000mhz,139
+intel celeron 1005m @ 1.90ghz,1115
+intel celeron 1007u @ 1.50ghz,846
+intel celeron 1017u @ 1.60ghz,877
+intel celeron 1019y @ 1.00ghz,576
+intel celeron 1020e @ 2.20ghz,1406
+intel celeron 1020m @ 2.10ghz,1275
+intel celeron 1037u @ 1.80ghz,1017
+intel celeron 1047ue @ 1.40ghz,748
+intel celeron 1100mhz,113
+intel celeron 1200mhz,159
+intel celeron 2.00ghz,125
+intel celeron 2.13ghz,166
+intel celeron 2.20ghz,139
+intel celeron 2.26ghz,182
+intel celeron 2.30ghz,148
+intel celeron 2.40ghz,143
+intel celeron 2.50ghz,164
+intel celeron 2.53ghz,222
+intel celeron 2.60ghz,143
+intel celeron 2.66ghz,131
+intel celeron 2.70ghz,159
+intel celeron 2.80ghz,190
+intel celeron 2.93ghz,230
+intel celeron 2000e @ 2.20ghz,1607
+intel celeron 2002e @ 1.50ghz,1091
+intel celeron 215 @ 1.33ghz,174
+intel celeron 220 @ 1.20ghz,209
+intel celeron 2950m @ 2.00ghz,1238
+intel celeron 2955u @ 1.40ghz,905
+intel celeron 2957u @ 1.40ghz,855
+intel celeron 2961y @ 1.10ghz,684
+intel celeron 2970m @ 2.20ghz,1501
+intel celeron 2980u @ 1.60ghz,1092
+intel celeron 2981u @ 1.60ghz,1036
+intel celeron 3.06ghz,307
+intel celeron 3.20ghz,267
+intel celeron 3.33ghz,263
+intel celeron 3205u @ 1.50ghz,960
+intel celeron 3215u @ 1.70ghz,1106
+intel celeron 3755u @ 1.70ghz,1182
+intel celeron 3765u @ 1.90ghz,1252
+intel celeron 3855u @ 1.60ghz,1215
+intel celeron 3865u @ 1.80ghz,1333
+intel celeron 3867u @ 1.80ghz,1454
+intel celeron 3955u @ 2.00ghz,1443
+intel celeron 3965u @ 2.20ghz,1746
+intel celeron 3965y @ 1.50ghz,1201
+intel celeron 420 @ 1.60ghz,257
+intel celeron 4205u @ 1.80ghz,1348
+intel celeron 430 @ 1.80ghz,303
+intel celeron 4305u @ 2.20ghz,1562
+intel celeron 4305ue @ 2.00ghz,1699
+intel celeron 440 @ 2.00ghz,368
+intel celeron 450 @ 2.20ghz,433
+intel celeron 5205u @ 1.90ghz,1435
+intel celeron 530 @ 1.73ghz,268
+intel celeron 5305u @ 2.30ghz,1684
+intel celeron 540 @ 1.86ghz,305
+intel celeron 550 @ 2.00ghz,334
+intel celeron 560 @ 2.13ghz,339
+intel celeron 570 @ 2.26ghz,344
+intel celeron 6305 @ 1.80ghz,2079
+intel celeron 6305e @ 1.80ghz,2021
+intel celeron 6600he @ 2.60ghz,3286
+intel celeron 723 @ 1.20ghz,213
+intel celeron 7305,2500
+intel celeron 7305e,2337
+intel celeron 743 @ 1.30ghz,275
+intel celeron 807 @ 1.50ghz,392
+intel celeron 807ue @ 1.00ghz,241
+intel celeron 827e @ 1.40ghz,371
+intel celeron 847 @ 1.10ghz,507
+intel celeron 847e @ 1.10ghz,584
+intel celeron 857 @ 1.20ghz,569
+intel celeron 867 @ 1.30ghz,588
+intel celeron 877 @ 1.40ghz,700
+intel celeron 887 @ 1.50ghz,764
+intel celeron 900 @ 2.20ghz,407
+intel celeron 925 @ 2.30ghz,450
+intel celeron @ 1.30ghz,572
+intel celeron b710 @ 1.60ghz,106
+intel celeron b800 @ 1.50ghz,677
+intel celeron b810 @ 1.60ghz,775
+intel celeron b815 @ 1.60ghz,747
+intel celeron b820 @ 1.70ghz,811
+intel celeron b830 @ 1.80ghz,872
+intel celeron b840 @ 1.90ghz,967
+intel celeron d 347 @ 3.06ghz,232
+intel celeron d 352 @ 3.20ghz,274
+intel celeron d 356 @ 3.33ghz,251
+intel celeron d 360 @ 3.46ghz,372
+intel celeron d 420 @ 1.60ghz,313
+intel celeron e1200 @ 1.60ghz,516
+intel celeron e1400 @ 2.00ghz,735
+intel celeron e1500 @ 2.20ghz,626
+intel celeron e1600 @ 2.40ghz,840
+intel celeron e3200 @ 2.40ghz,900
+intel celeron e3300 @ 2.50ghz,834
+intel celeron e3400 @ 2.60ghz,882
+intel celeron e3500 @ 2.70ghz,935
+intel celeron g1101 @ 2.27ghz,1086
+intel celeron g1610 @ 2.60ghz,1546
+intel celeron g1610t @ 2.30ghz,1333
+intel celeron g1620 @ 2.70ghz,1583
+intel celeron g1620t @ 2.40ghz,1532
+intel celeron g1630 @ 2.80ghz,1707
+intel celeron g1820 @ 2.70ghz,1711
+intel celeron g1820t @ 2.40ghz,1599
+intel celeron g1820te @ 2.20ghz,1020
+intel celeron g1830 @ 2.80ghz,1560
+intel celeron g1840 @ 2.80ghz,1780
+intel celeron g1840t @ 2.50ghz,1576
+intel celeron g1850 @ 2.90ghz,1911
+intel celeron g3900 @ 2.80ghz,2141
+intel celeron g3900e @ 2.40ghz,2034
+intel celeron g3900t @ 2.60ghz,1910
+intel celeron g3900te @ 2.30ghz,1850
+intel celeron g3920 @ 2.90ghz,2358
+intel celeron g3930 @ 2.90ghz,2257
+intel celeron g3930t @ 2.70ghz,2023
+intel celeron g3930te @ 2.70ghz,2218
+intel celeron g3950 @ 3.00ghz,2336
+intel celeron g440 @ 1.60ghz,420
+intel celeron g460 @ 1.80ghz,490
+intel celeron g465 @ 1.90ghz,547
+intel celeron g470 @ 2.00ghz,575
+intel celeron g4900 @ 3.10ghz,2366
+intel celeron g4900t @ 2.90ghz,2252
+intel celeron g4920 @ 3.20ghz,2558
+intel celeron g4930 @ 3.20ghz,2539
+intel celeron g4930t @ 3.00ghz,2283
+intel celeron g4950 @ 3.30ghz,2714
+intel celeron g530 @ 2.40ghz,1131
+intel celeron g530t @ 2.00ghz,1056
+intel celeron g540 @ 2.50ghz,1169
+intel celeron g540t @ 2.10ghz,1137
+intel celeron g550 @ 2.60ghz,1255
+intel celeron g550t @ 2.20ghz,1074
+intel celeron g555 @ 2.70ghz,1388
+intel celeron g5900 @ 3.40ghz,2677
+intel celeron g5900e @ 3.20ghz,1809
+intel celeron g5900t @ 3.20ghz,2192
+intel celeron g5905 @ 3.50ghz,2773
+intel celeron g5905t @ 3.30ghz,2304
+intel celeron g5920 @ 3.50ghz,2577
+intel celeron g5925 @ 3.60ghz,2808
+intel celeron g6900,4478
+intel celeron g6900e,4272
+intel celeron g6900t,3668
+intel celeron g6900te,2782
+intel celeron j1750 @ 2.41ghz,538
+intel celeron j1800 @ 2.41ghz,571
+intel celeron j1850 @ 1.99ghz,942
+intel celeron j1900 @ 1.99ghz,1153
+intel celeron j3060 @ 1.60ghz,679
+intel celeron j3160 @ 1.60ghz,1249
+intel celeron j3355 @ 2.00ghz,1189
+intel celeron j3455 @ 1.50ghz,2245
+intel celeron j3455e @ 1.50ghz,2193
+intel celeron j4005 @ 2.00ghz,1547
+intel celeron j4025 @ 2.00ghz,1451
+intel celeron j4105 @ 1.50ghz,2826
+intel celeron j4115 @ 1.80ghz,2688
+intel celeron j4125 @ 2.00ghz,2938
+intel celeron j6412 @ 2.00ghz,3842
+intel celeron j6413 @ 1.80ghz,4164
+intel celeron m 1.00ghz,149
+intel celeron m 1.30ghz,205
+intel celeron m 1.50ghz,192
+intel celeron m 1.60ghz,190
+intel celeron m 1.70ghz,252
+intel celeron m 1300mhz,197
+intel celeron m 1500mhz,217
+intel celeron m 360 1.40ghz,221
+intel celeron m 410 @ 1.46ghz,123
+intel celeron m 420 @ 1.60ghz,139
+intel celeron m 430 @ 1.73ghz,169
+intel celeron m 440 @ 1.86ghz,169
+intel celeron m 443 @ 1.20ghz,125
+intel celeron m 450 @ 2.00ghz,230
+intel celeron m 520 @ 1.60ghz,239
+intel celeron m 530 @ 1.73ghz,320
+intel celeron m 723 @ 1.20ghz,267
+intel celeron m 900mhz,123
+intel celeron n2805 @ 1.46ghz,335
+intel celeron n2806 @ 1.60ghz,486
+intel celeron n2807 @ 1.58ghz,487
+intel celeron n2808 @ 1.58ghz,499
+intel celeron n2810 @ 2.00ghz,396
+intel celeron n2815 @ 1.86ghz,495
+intel celeron n2820 @ 2.13ghz,502
+intel celeron n2830 @ 2.16ghz,547
+intel celeron n2840 @ 2.16ghz,584
+intel celeron n2910 @ 1.60ghz,788
+intel celeron n2920 @ 1.86ghz,957
+intel celeron n2930 @ 1.83ghz,1030
+intel celeron n2940 @ 1.83ghz,1047
+intel celeron n3000 @ 1.04ghz,646
+intel celeron n3010 @ 1.04ghz,611
+intel celeron n3050 @ 1.60ghz,591
+intel celeron n3060 @ 1.60ghz,655
+intel celeron n3150 @ 1.60ghz,1174
+intel celeron n3160 @ 1.60ghz,1202
+intel celeron n3350 @ 1.10ghz,1110
+intel celeron n3450 @ 1.10ghz,1984
+intel celeron n4000 @ 1.10ghz,1431
+intel celeron n4000c @ 1.10ghz,1430
+intel celeron n4020 @ 1.10ghz,1543
+intel celeron n4020c @ 1.10ghz,1537
+intel celeron n4100 @ 1.10ghz,2450
+intel celeron n4120 @ 1.10ghz,2461
+intel celeron n4500 @ 1.10ghz,1829
+intel celeron n4505 @ 2.00ghz,2136
+intel celeron n5095 @ 2.00ghz,4037
+intel celeron n5095a @ 2.00ghz,4059
+intel celeron n5100 @ 1.10ghz,3274
+intel celeron n5105 @ 2.00ghz,4016
+intel celeron n6210 @ 1.20ghz,1967
+intel celeron n6211 @ 1.20ghz,2245
+intel celeron p4500 @ 1.87ghz,848
+intel celeron p4505 @ 1.87ghz,689
+intel celeron p4600 @ 2.00ghz,877
+intel celeron su2300 @ 1.20ghz,462
+intel celeron t1600 @ 1.66ghz,553
+intel celeron u1900 @ 1.99ghz,1028
+intel celeron u3400 @ 1.07ghz,516
+intel celeron u3600 @ 1.20ghz,579
+intel core 3 100hl,17586
+intel core 3 100u,13813
+intel core 3 201e,14931
+intel core 3 n350,7455
+intel core 3 n355,10672
+intel core 5 120u,16810
+intel core 5 210h,18879
+intel core 5 211ef,23988
+intel core 5 220h,21268
+intel core 5 220u,14075
+intel core 5 221e,32388
+intel core 7 150u,15179
+intel core 7 160ul,11043
+intel core 7 240h,24912
+intel core 7 250h,25655
+intel core 860 @ 2.80ghz,2754
+intel core 9 270h,31517
+intel core duo l2300 @ 1.50ghz,387
+intel core duo l2400 @ 1.66ghz,348
+intel core duo l2500 @ 1.83ghz,404
+intel core duo t2050 @ 1.60ghz,333
+intel core duo t2250 @ 1.73ghz,350
+intel core duo t2300 @ 1.66ghz,325
+intel core duo t2350 @ 1.86ghz,385
+intel core duo t2400 @ 1.83ghz,365
+intel core duo t2450 @ 2.00ghz,411
+intel core duo t2500 @ 2.00ghz,408
+intel core duo t2600 @ 2.16ghz,460
+intel core duo t2700 @ 2.33ghz,498
+intel core duo u2400 @ 1.06ghz,255
+intel core duo u2500 @ 1.20ghz,223
+intel core i3-1000ng4 @ 1.10ghz,3530
+intel core i3-1005g1 @ 1.20ghz,4838
+intel core i3-10100 @ 3.60ghz,8543
+intel core i3-10100e @ 3.20ghz,7944
+intel core i3-10100f @ 3.60ghz,8712
+intel core i3-10100t @ 3.00ghz,7313
+intel core i3-10100te @ 2.30ghz,6371
+intel core i3-10100y @ 1.30ghz,2846
+intel core i3-10105 @ 3.70ghz,8229
+intel core i3-10105f @ 3.70ghz,8928
+intel core i3-10105t @ 3.00ghz,7849
+intel core i3-10110u @ 2.10ghz,3850
+intel core i3-10110y @ 1.00ghz,3264
+intel core i3-1025g1 @ 1.20ghz,6139
+intel core i3-10300 @ 3.70ghz,9288
+intel core i3-10300t @ 3.00ghz,7845
+intel core i3-10305 @ 3.80ghz,9357
+intel core i3-10305t @ 3.00ghz,8136
+intel core i3-10320 @ 3.80ghz,9984
+intel core i3-10325 @ 3.90ghz,10291
+intel core i3-11100b @ 3.60ghz,11357
+intel core i3-11100he @ 2.40ghz,11673
+intel core i3-1110g4 @ 1.80ghz,3979
+intel core i3-1115g4 @ 3.00ghz,5902
+intel core i3-1115g4e @ 3.00ghz,5350
+intel core i3-1115gre @ 3.00ghz,4484
+intel core i3-1125g4 @ 2.00ghz,9331
+intel core i3-12100,12188
+intel core i3-12100e,14026
+intel core i3-12100f,14011
+intel core i3-12100t,12516
+intel core i3-12100te,11224
+intel core i3-1210u,10173
+intel core i3-1215u,10441
+intel core i3-1215ue,8331
+intel core i3-1215ul,7817
+intel core i3-1220p,14493
+intel core i3-1220pe,16146
+intel core i3-12300,14352
+intel core i3-12300hl,20321
+intel core i3-12300t,13249
+intel core i3-1305u,8733
+intel core i3-13100,13739
+intel core i3-13100e,13727
+intel core i3-13100f,14679
+intel core i3-13100t,12848
+intel core i3-13100te,10612
+intel core i3-1315u,11424
+intel core i3-1315ue,8849
+intel core i3-1320pe,12116
+intel core i3-1320pre,17759
+intel core i3-14100,15204
+intel core i3-14100f,15420
+intel core i3-14100t,13540
+intel core i3-2100 @ 3.10ghz,1854
+intel core i3-2100t @ 2.50ghz,1518
+intel core i3-2102 @ 3.10ghz,2029
+intel core i3-2105 @ 3.10ghz,1837
+intel core i3-21050 @ 3.10ghz,2193
+intel core i3-2120 @ 3.30ghz,1973
+intel core i3-2120t @ 2.60ghz,1568
+intel core i3-2125 @ 3.30ghz,2082
+intel core i3-2130 @ 3.40ghz,2066
+intel core i3-2140 @ 3.50ghz,2307
+intel core i3-2310e @ 2.10ghz,1845
+intel core i3-2310m @ 2.10ghz,1221
+intel core i3-2312m @ 2.10ghz,1189
+intel core i3-2328m @ 2.20ghz,1235
+intel core i3-2330e @ 2.20ghz,1823
+intel core i3-2330m @ 2.20ghz,1250
+intel core i3-2332m @ 2.20ghz,1353
+intel core i3-2340ue @ 1.30ghz,976
+intel core i3-2348m @ 2.30ghz,1282
+intel core i3-2350m @ 2.30ghz,1262
+intel core i3-2357m @ 1.30ghz,788
+intel core i3-2365m @ 1.40ghz,814
+intel core i3-2367m @ 1.40ghz,859
+intel core i3-2370m @ 2.40ghz,1364
+intel core i3-2375m @ 1.50ghz,895
+intel core i3-2377m @ 1.50ghz,855
+intel core i3-3110m @ 2.40ghz,1651
+intel core i3-3120m @ 2.50ghz,1704
+intel core i3-3130m @ 2.60ghz,1906
+intel core i3-3210 @ 3.20ghz,2224
+intel core i3-3217u @ 1.80ghz,1226
+intel core i3-3217ue @ 1.60ghz,1362
+intel core i3-3220 @ 3.30ghz,2275
+intel core i3-3220t @ 2.80ghz,1947
+intel core i3-3225 @ 3.30ghz,2264
+intel core i3-3227u @ 1.90ghz,1299
+intel core i3-3229y @ 1.40ghz,1008
+intel core i3-3240 @ 3.40ghz,2347
+intel core i3-3240t @ 2.90ghz,2075
+intel core i3-3245 @ 3.40ghz,2412
+intel core i3-3250 @ 3.50ghz,2459
+intel core i3-3250t @ 3.00ghz,2650
+intel core i3-330e @ 2.13ghz,1260
+intel core i3-330m @ 2.13ghz,1034
+intel core i3-330um @ 1.20ghz,543
+intel core i3-350m @ 2.27ghz,1082
+intel core i3-370m @ 2.40ghz,1169
+intel core i3-380m @ 2.53ghz,1210
+intel core i3-380um @ 1.33ghz,748
+intel core i3-390m @ 2.67ghz,1292
+intel core i3-4000m @ 2.40ghz,1786
+intel core i3-4005u @ 1.70ghz,1655
+intel core i3-4010u @ 1.70ghz,1662
+intel core i3-4010y @ 1.30ghz,1358
+intel core i3-4012y @ 1.50ghz,1278
+intel core i3-4020y @ 1.50ghz,1459
+intel core i3-4025u @ 1.90ghz,1949
+intel core i3-4030u @ 1.90ghz,1879
+intel core i3-4030y @ 1.60ghz,1654
+intel core i3-4100e @ 2.40ghz,1848
+intel core i3-4100m @ 2.50ghz,2524
+intel core i3-4110m @ 2.60ghz,2678
+intel core i3-4110u @ 1.90ghz,1860
+intel core i3-4120u @ 2.00ghz,1948
+intel core i3-4130 @ 3.40ghz,3332
+intel core i3-4130t @ 2.90ghz,2895
+intel core i3-4150 @ 3.50ghz,3407
+intel core i3-4150t @ 3.00ghz,2888
+intel core i3-4158u @ 2.00ghz,1921
+intel core i3-4160 @ 3.60ghz,3509
+intel core i3-4160t @ 3.10ghz,3089
+intel core i3-4170 @ 3.70ghz,3588
+intel core i3-4170t @ 3.20ghz,3132
+intel core i3-4330 @ 3.50ghz,3482
+intel core i3-4330t @ 3.00ghz,3111
+intel core i3-4330te @ 2.40ghz,2022
+intel core i3-4340 @ 3.60ghz,3490
+intel core i3-4350 @ 3.60ghz,3611
+intel core i3-4350t @ 3.10ghz,3142
+intel core i3-4360 @ 3.70ghz,3631
+intel core i3-4360t @ 3.20ghz,3286
+intel core i3-4370 @ 3.80ghz,3853
+intel core i3-4370t @ 3.30ghz,3361
+intel core i3-4570t @ 2.90ghz,3244
+intel core i3-5005u @ 2.00ghz,2010
+intel core i3-5010u @ 2.10ghz,2179
+intel core i3-5015u @ 2.10ghz,1981
+intel core i3-5020u @ 2.20ghz,2217
+intel core i3-5157u @ 2.50ghz,2593
+intel core i3-530 @ 2.93ghz,1507
+intel core i3-540 @ 3.07ghz,1543
+intel core i3-550 @ 3.20ghz,1628
+intel core i3-560 @ 3.33ghz,1642
+intel core i3-6006u @ 2.00ghz,2271
+intel core i3-6098p @ 3.60ghz,3973
+intel core i3-6100 @ 3.70ghz,4121
+intel core i3-6100e @ 2.70ghz,3315
+intel core i3-6100h @ 2.70ghz,3027
+intel core i3-6100t @ 3.20ghz,3640
+intel core i3-6100te @ 2.70ghz,3152
+intel core i3-6100u @ 2.30ghz,2629
+intel core i3-6102e @ 1.90ghz,2349
+intel core i3-6157u @ 2.40ghz,2777
+intel core i3-6167u @ 2.70ghz,3128
+intel core i3-6300 @ 3.80ghz,4341
+intel core i3-6300t @ 3.30ghz,4002
+intel core i3-6320 @ 3.90ghz,4402
+intel core i3-7020u @ 2.30ghz,2570
+intel core i3-7100 @ 3.90ghz,4307
+intel core i3-7100h @ 3.00ghz,3430
+intel core i3-7100t @ 3.40ghz,3752
+intel core i3-7100u @ 2.40ghz,2722
+intel core i3-7101e @ 3.90ghz,4430
+intel core i3-7101te @ 3.40ghz,3956
+intel core i3-7102e @ 2.10ghz,2599
+intel core i3-7130u @ 2.70ghz,3041
+intel core i3-7167u @ 2.80ghz,3368
+intel core i3-7300 @ 4.00ghz,4519
+intel core i3-7300t @ 3.50ghz,4149
+intel core i3-7320 @ 4.10ghz,4831
+intel core i3-7350k @ 4.20ghz,4884
+intel core i3-8100 @ 3.60ghz,6076
+intel core i3-8100b @ 3.60ghz,5913
+intel core i3-8100h @ 3.00ghz,4435
+intel core i3-8100t @ 3.10ghz,5261
+intel core i3-8109u @ 3.00ghz,4167
+intel core i3-8121u @ 2.20ghz,4282
+intel core i3-8130u @ 2.20ghz,3530
+intel core i3-8140u @ 2.10ghz,4227
+intel core i3-8145u @ 2.10ghz,3784
+intel core i3-8145ue @ 2.20ghz,4123
+intel core i3-8300 @ 3.70ghz,6335
+intel core i3-8300t @ 3.20ghz,5523
+intel core i3-8350k @ 4.00ghz,6879
+intel core i3-9100 @ 3.60ghz,6585
+intel core i3-9100e @ 3.10ghz,6539
+intel core i3-9100f @ 3.60ghz,6708
+intel core i3-9100hl @ 1.60ghz,3024
+intel core i3-9100t @ 3.10ghz,5622
+intel core i3-9100te @ 2.20ghz,4382
+intel core i3-9300 @ 3.70ghz,7193
+intel core i3-9300t @ 3.20ghz,6358
+intel core i3-9320 @ 3.70ghz,7358
+intel core i3-9350k @ 4.00ghz,7662
+intel core i3-9350kf @ 4.00ghz,7564
+intel core i3-n300,8390
+intel core i3-n305,9650
+intel core i5 750s @ 2.40ghz,1326
+intel core i5 e 520 @ 2.40ghz,1619
+intel core i5-10200h @ 2.40ghz,8017
+intel core i5-10210u @ 1.60ghz,6098
+intel core i5-10210y @ 1.00ghz,4134
+intel core i5-10300h @ 2.50ghz,8257
+intel core i5-1030ng7 @ 1.10ghz,5635
+intel core i5-10310u @ 1.70ghz,5925
+intel core i5-1035g1 @ 1.00ghz,7209
+intel core i5-1035g4 @ 1.10ghz,7762
+intel core i5-1035g7 @ 1.20ghz,8042
+intel core i5-1038ng7 @ 2.00ghz,8846
+intel core i5-10400 @ 2.90ghz,12006
+intel core i5-10400f @ 2.90ghz,12118
+intel core i5-10400h @ 2.60ghz,8234
+intel core i5-10400t @ 2.00ghz,9726
+intel core i5-10500 @ 3.10ghz,13168
+intel core i5-10500e @ 3.10ghz,10785
+intel core i5-10500h @ 2.50ghz,11042
+intel core i5-10500t @ 2.30ghz,10129
+intel core i5-10500te @ 2.30ghz,9195
+intel core i5-10505 @ 3.20ghz,12041
+intel core i5-10600 @ 3.30ghz,13656
+intel core i5-10600k @ 4.10ghz,14260
+intel core i5-10600kf @ 4.10ghz,14163
+intel core i5-10600t @ 2.40ghz,11467
+intel core i5-11260h @ 2.60ghz,15502
+intel core i5-11300h @ 3.10ghz,10825
+intel core i5-1130g7 @ 1.10ghz,8316
+intel core i5-11320h @ 3.20ghz,10886
+intel core i5-1135g7 @ 2.40ghz,9489
+intel core i5-11400 @ 2.60ghz,16671
+intel core i5-11400f @ 2.60ghz,16896
+intel core i5-11400h @ 2.70ghz,15330
+intel core i5-11400t @ 1.30ghz,13091
+intel core i5-1140g7 @ 1.10ghz,8619
+intel core i5-1145g7 @ 2.60ghz,9382
+intel core i5-1145g7e @ 2.60ghz,8658
+intel core i5-1145gre @ 2.60ghz,8373
+intel core i5-11500 @ 2.70ghz,17118
+intel core i5-11500b @ 3.30ghz,17083
+intel core i5-11500h @ 2.90ghz,15816
+intel core i5-11500t @ 1.50ghz,12508
+intel core i5-1155g7 @ 2.50ghz,9707
+intel core i5-11600 @ 2.80ghz,17932
+intel core i5-11600k @ 3.90ghz,19527
+intel core i5-11600kf @ 3.90ghz,19507
+intel core i5-11600t @ 1.70ghz,14447
+intel core i5-1230u,10893
+intel core i5-1235u,12895
+intel core i5-12400,18752
+intel core i5-12400f,19458
+intel core i5-12400t,15789
+intel core i5-1240p,16439
+intel core i5-1240u,13406
+intel core i5-12450h,16232
+intel core i5-12450hx,18228
+intel core i5-1245u,13168
+intel core i5-1245ue,9473
+intel core i5-12490f,20205
+intel core i5-12500,19860
+intel core i5-12500e,20049
+intel core i5-12500h,20595
+intel core i5-12500t,16395
+intel core i5-12500te,14632
+intel core i5-1250p,19443
+intel core i5-1250pe,18365
+intel core i5-12600,21401
+intel core i5-12600h,21091
+intel core i5-12600he,22827
+intel core i5-12600hl,23615
+intel core i5-12600hx,24607
+intel core i5-12600k,27600
+intel core i5-12600kf,27607
+intel core i5-12600t,17446
+intel core i5-1334u,13434
+intel core i5-1335u,14242
+intel core i5-1335ue,10863
+intel core i5-13400,23740
+intel core i5-13400e,27000
+intel core i5-13400f,25036
+intel core i5-13400t,20355
+intel core i5-1340p,18729
+intel core i5-1340pe,17476
+intel core i5-13420h,17402
+intel core i5-13450hx,25075
+intel core i5-1345u,14426
+intel core i5-1345ue,10667
+intel core i5-1345ure,11565
+intel core i5-13490f,26590
+intel core i5-13500,31238
+intel core i5-13500e,23509
+intel core i5-13500h,21327
+intel core i5-13500hx,27711
+intel core i5-13500t,22630
+intel core i5-13500te,21383
+intel core i5-1350p,18909
+intel core i5-13600,31740
+intel core i5-13600h,23363
+intel core i5-13600he,23483
+intel core i5-13600hre,14591
+intel core i5-13600hx,27909
+intel core i5-13600k,37675
+intel core i5-13600kf,37487
+intel core i5-13600t,27098
+intel core i5-14400,25294
+intel core i5-14400f,25766
+intel core i5-14400t,21161
+intel core i5-14450hx,24534
+intel core i5-14490f,28662
+intel core i5-14500,31517
+intel core i5-14500hx,29131
+intel core i5-14500t,22923
+intel core i5-14600,33141
+intel core i5-14600k,38731
+intel core i5-14600kf,38676
+intel core i5-14600t,27057
+intel core i5-2300 @ 2.80ghz,3465
+intel core i5-2310 @ 2.90ghz,3660
+intel core i5-2320 @ 3.00ghz,3693
+intel core i5-2380p @ 3.10ghz,3636
+intel core i5-2390t @ 2.70ghz,2506
+intel core i5-2400 @ 3.10ghz,3871
+intel core i5-2400s @ 2.50ghz,3173
+intel core i5-24050s @ 2.50ghz,3061
+intel core i5-2405s @ 2.50ghz,3296
+intel core i5-2410m @ 2.30ghz,1949
+intel core i5-2415m @ 2.30ghz,1911
+intel core i5-2430m @ 2.40ghz,2012
+intel core i5-2435m @ 2.40ghz,2031
+intel core i5-2450m @ 2.50ghz,2079
+intel core i5-2450p @ 3.20ghz,4273
+intel core i5-2467m @ 1.60ghz,1426
+intel core i5-2500 @ 3.30ghz,4109
+intel core i5-2500k @ 3.30ghz,4139
+intel core i5-2500s @ 2.70ghz,3395
+intel core i5-2500t @ 2.30ghz,2929
+intel core i5-2510e @ 2.50ghz,1884
+intel core i5-2515e @ 2.50ghz,1882
+intel core i5-2520m @ 2.50ghz,2247
+intel core i5-2537m @ 1.40ghz,1194
+intel core i5-2540m @ 2.60ghz,2354
+intel core i5-2550k @ 3.40ghz,4197
+intel core i5-2557m @ 1.70ghz,1625
+intel core i5-2560m @ 2.70ghz,2397
+intel core i5-3170k @ 3.20ghz,8882
+intel core i5-3210m @ 2.50ghz,2468
+intel core i5-3230m @ 2.60ghz,2566
+intel core i5-3317u @ 1.70ghz,2014
+intel core i5-3320m @ 2.60ghz,2661
+intel core i5-3330 @ 3.00ghz,4103
+intel core i5-3330s @ 2.70ghz,3916
+intel core i5-3335s @ 2.70ghz,3793
+intel core i5-3337u @ 1.80ghz,2091
+intel core i5-3339y @ 1.50ghz,1589
+intel core i5-3340 @ 3.10ghz,4216
+intel core i5-3340m @ 2.70ghz,2690
+intel core i5-3340s @ 2.80ghz,3950
+intel core i5-3350p @ 3.10ghz,4309
+intel core i5-3360m @ 2.80ghz,2883
+intel core i5-3380m @ 2.90ghz,2930
+intel core i5-3427u @ 1.80ghz,2241
+intel core i5-3437u @ 1.90ghz,2167
+intel core i5-3439y @ 1.50ghz,1928
+intel core i5-3450 @ 3.10ghz,4509
+intel core i5-3450s @ 2.80ghz,4387
+intel core i5-3470 @ 3.20ghz,4666
+intel core i5-3470s @ 2.90ghz,4385
+intel core i5-3470t @ 2.90ghz,3003
+intel core i5-3475s @ 2.90ghz,4316
+intel core i5-3550 @ 3.30ghz,4770
+intel core i5-3550s @ 3.00ghz,4446
+intel core i5-3570 @ 3.40ghz,4938
+intel core i5-3570k @ 3.40ghz,4971
+intel core i5-3570s @ 3.10ghz,4684
+intel core i5-3570t @ 2.30ghz,3962
+intel core i5-3610me @ 2.70ghz,2652
+intel core i5-4200h @ 2.80ghz,3010
+intel core i5-4200m @ 2.50ghz,2809
+intel core i5-4200u @ 1.60ghz,2187
+intel core i5-4200y @ 1.40ghz,1558
+intel core i5-4202y @ 1.60ghz,1553
+intel core i5-4210h @ 2.90ghz,3075
+intel core i5-4210m @ 2.60ghz,2898
+intel core i5-4210u @ 1.70ghz,2316
+intel core i5-4210y @ 1.50ghz,1535
+intel core i5-4220y @ 1.60ghz,1652
+intel core i5-4230u @ 1.90ghz,1853
+intel core i5-4250u @ 1.30ghz,2149
+intel core i5-4258u @ 2.40ghz,2624
+intel core i5-4260u @ 1.40ghz,2308
+intel core i5-4278u @ 2.60ghz,2830
+intel core i5-4288u @ 2.60ghz,2657
+intel core i5-4300m @ 2.60ghz,2972
+intel core i5-4300u @ 1.90ghz,2484
+intel core i5-4300y @ 1.60ghz,1492
+intel core i5-4302y @ 1.60ghz,1580
+intel core i5-4308u @ 2.80ghz,2981
+intel core i5-430m @ 2.27ghz,1210
+intel core i5-430um @ 1.20ghz,627
+intel core i5-4310m @ 2.70ghz,3086
+intel core i5-4310u @ 2.00ghz,2532
+intel core i5-4330m @ 2.80ghz,3190
+intel core i5-4340m @ 2.90ghz,3380
+intel core i5-4350u @ 1.40ghz,2425
+intel core i5-4400e @ 2.70ghz,3251
+intel core i5-4402e @ 1.60ghz,2681
+intel core i5-4422e @ 1.80ghz,1907
+intel core i5-4430 @ 3.00ghz,4659
+intel core i5-4430s @ 2.70ghz,4364
+intel core i5-4440 @ 3.10ghz,4786
+intel core i5-4440s @ 2.80ghz,4353
+intel core i5-4460 @ 3.20ghz,4912
+intel core i5-4460s @ 2.90ghz,4638
+intel core i5-4460t @ 1.90ghz,3643
+intel core i5-4470 @ 3.30ghz,4491
+intel core i5-4470s @ 3.00ghz,4742
+intel core i5-450m @ 2.40ghz,1261
+intel core i5-4570 @ 3.20ghz,5240
+intel core i5-4570r @ 2.70ghz,4584
+intel core i5-4570s @ 2.90ghz,5019
+intel core i5-4570t @ 2.90ghz,3234
+intel core i5-4570te @ 2.70ghz,3065
+intel core i5-4590 @ 3.30ghz,5371
+intel core i5-4590s @ 3.00ghz,5127
+intel core i5-4590t @ 2.00ghz,4066
+intel core i5-460m @ 2.53ghz,1316
+intel core i5-4670 @ 3.40ghz,5497
+intel core i5-4670k @ 3.40ghz,5579
+intel core i5-4670k cpt @ 3.40ghz,5034
+intel core i5-4670r @ 3.00ghz,5233
+intel core i5-4670s @ 3.10ghz,5247
+intel core i5-4670t @ 2.30ghz,4466
+intel core i5-4690 @ 3.50ghz,5580
+intel core i5-4690k @ 3.50ghz,5700
+intel core i5-4690s @ 3.20ghz,5474
+intel core i5-4690t @ 2.50ghz,4620
+intel core i5-470um @ 1.33ghz,782
+intel core i5-480m @ 2.67ghz,1322
+intel core i5-5200u @ 2.20ghz,2507
+intel core i5-520m @ 2.40ghz,1726
+intel core i5-520um @ 1.07ghz,908
+intel core i5-5250u @ 1.60ghz,2454
+intel core i5-5257u @ 2.70ghz,2837
+intel core i5-5287u @ 2.90ghz,3084
+intel core i5-5300u @ 2.30ghz,2712
+intel core i5-5350u @ 1.80ghz,2595
+intel core i5-540m @ 2.53ghz,1796
+intel core i5-540um @ 1.20ghz,1002
+intel core i5-5575r @ 2.80ghz,5083
+intel core i5-560m @ 2.67ghz,1895
+intel core i5-560um @ 1.33ghz,1015
+intel core i5-5675c @ 3.10ghz,5689
+intel core i5-5675r @ 3.10ghz,5562
+intel core i5-580m @ 2.67ghz,1968
+intel core i5-6198du @ 2.30ghz,3102
+intel core i5-6200u @ 2.30ghz,2990
+intel core i5-6260u @ 1.80ghz,3193
+intel core i5-6267u @ 2.90ghz,3345
+intel core i5-6287u @ 3.10ghz,3801
+intel core i5-6300hq @ 2.30ghz,4687
+intel core i5-6300u @ 2.40ghz,3210
+intel core i5-6350hq @ 2.30ghz,4255
+intel core i5-6360u @ 2.00ghz,3096
+intel core i5-6400 @ 2.70ghz,5169
+intel core i5-6400t @ 2.20ghz,4254
+intel core i5-6402p @ 2.80ghz,5360
+intel core i5-6440eq @ 2.70ghz,5408
+intel core i5-6440hq @ 2.60ghz,5013
+intel core i5-6442eq @ 1.90ghz,4483
+intel core i5-650 @ 3.20ghz,2248
+intel core i5-6500 @ 3.20ghz,5602
+intel core i5-6500t @ 2.50ghz,4756
+intel core i5-6500te @ 2.30ghz,4866
+intel core i5-655k @ 3.20ghz,2017
+intel core i5-660 @ 3.33ghz,2428
+intel core i5-6600 @ 3.30ghz,6052
+intel core i5-6600k @ 3.50ghz,6302
+intel core i5-6600t @ 2.70ghz,5570
+intel core i5-661 @ 3.33ghz,2438
+intel core i5-670 @ 3.47ghz,2553
+intel core i5-680 @ 3.60ghz,2669
+intel core i5-7200u @ 2.50ghz,3370
+intel core i5-7260u @ 2.20ghz,3981
+intel core i5-7267u @ 3.10ghz,3621
+intel core i5-7287u @ 3.30ghz,3743
+intel core i5-7300hq @ 2.50ghz,5081
+intel core i5-7300u @ 2.60ghz,3629
+intel core i5-7360u @ 2.30ghz,3828
+intel core i5-7400 @ 3.00ghz,5477
+intel core i5-7400t @ 2.40ghz,4696
+intel core i5-7440eq @ 2.90ghz,5711
+intel core i5-7440hq @ 2.80ghz,5481
+intel core i5-7442eq @ 2.10ghz,4834
+intel core i5-750 @ 2.67ghz,2538
+intel core i5-7500 @ 3.40ghz,6028
+intel core i5-7500t @ 2.70ghz,5200
+intel core i5-760 @ 2.80ghz,2661
+intel core i5-7600 @ 3.50ghz,6560
+intel core i5-7600k @ 3.80ghz,6804
+intel core i5-7600t @ 2.80ghz,5885
+intel core i5-760s @ 2.53ghz,5440
+intel core i5-7640x @ 4.00ghz,7060
+intel core i5-7y54 @ 1.20ghz,2611
+intel core i5-7y57 @ 1.20ghz,2583
+intel core i5-8200y @ 1.30ghz,2212
+intel core i5-8210y @ 1.60ghz,2730
+intel core i5-8250u @ 1.60ghz,5808
+intel core i5-8257u @ 1.40ghz,7428
+intel core i5-8259u @ 2.30ghz,7848
+intel core i5-8260u @ 1.60ghz,7316
+intel core i5-8265u @ 1.60ghz,5826
+intel core i5-8265uc @ 1.60ghz,5187
+intel core i5-8269u @ 2.60ghz,7111
+intel core i5-8279u @ 2.40ghz,7494
+intel core i5-8300h @ 2.30ghz,7384
+intel core i5-8305g @ 2.80ghz,6951
+intel core i5-8350u @ 1.70ghz,6119
+intel core i5-8365u @ 1.60ghz,5969
+intel core i5-8365ue @ 1.60ghz,5613
+intel core i5-8400 @ 2.80ghz,9225
+intel core i5-8400h @ 2.50ghz,7521
+intel core i5-8400t @ 1.70ghz,7410
+intel core i5-8500 @ 3.00ghz,9527
+intel core i5-8500b @ 3.00ghz,8876
+intel core i5-8500t @ 2.10ghz,7721
+intel core i5-8600 @ 3.10ghz,9961
+intel core i5-8600k @ 3.60ghz,10127
+intel core i5-8600t @ 2.30ghz,9229
+intel core i5-9300h @ 2.40ghz,7452
+intel core i5-9300hf @ 2.40ghz,7301
+intel core i5-9400 @ 2.90ghz,9382
+intel core i5-9400f @ 2.90ghz,9453
+intel core i5-9400h @ 2.50ghz,7790
+intel core i5-9400t @ 1.80ghz,8226
+intel core i5-9500 @ 3.00ghz,9822
+intel core i5-9500e @ 3.00ghz,8829
+intel core i5-9500f @ 3.00ghz,9947
+intel core i5-9500t @ 2.20ghz,8099
+intel core i5-9500te @ 2.20ghz,9782
+intel core i5-9600 @ 3.10ghz,10309
+intel core i5-9600k @ 3.70ghz,10641
+intel core i5-9600kf @ 3.70ghz,10667
+intel core i5-9600t @ 2.30ghz,9608
+intel core i5-l16g7 @ 1.40ghz,3291
+intel core i7-10510u @ 1.80ghz,6440
+intel core i7-10510y @ 1.20ghz,3560
+intel core i7-1060ng7 @ 1.20ghz,6517
+intel core i7-10610u @ 1.80ghz,6573
+intel core i7-1065g7 @ 1.30ghz,8177
+intel core i7-1068ng7 @ 2.30ghz,9205
+intel core i7-10700 @ 2.90ghz,16152
+intel core i7-10700e @ 2.90ghz,16086
+intel core i7-10700f @ 2.90ghz,16199
+intel core i7-10700k @ 3.80ghz,18590
+intel core i7-10700kf @ 3.80ghz,18411
+intel core i7-10700t @ 2.00ghz,12879
+intel core i7-10700te @ 2.00ghz,13505
+intel core i7-10710u @ 1.10ghz,9288
+intel core i7-10750h @ 2.60ghz,11602
+intel core i7-10810u @ 1.10ghz,8045
+intel core i7-10850h @ 2.70ghz,11633
+intel core i7-10870h @ 2.20ghz,14153
+intel core i7-10875h @ 2.30ghz,14599
+intel core i7-11370h @ 3.30ghz,11586
+intel core i7-11375h @ 3.30ghz,11729
+intel core i7-11390h @ 3.40ghz,9831
+intel core i7-11600h @ 2.90ghz,16022
+intel core i7-1160g7 @ 1.20ghz,8886
+intel core i7-1165g7 @ 2.80ghz,9938
+intel core i7-11700 @ 2.50ghz,20665
+intel core i7-11700b @ 3.20ghz,21810
+intel core i7-11700f @ 2.50ghz,20733
+intel core i7-11700k @ 3.60ghz,24396
+intel core i7-11700kf @ 3.60ghz,23787
+intel core i7-11700t @ 1.40ghz,15663
+intel core i7-11800h @ 2.30ghz,19979
+intel core i7-1180g7 @ 1.30ghz,7777
+intel core i7-11850h @ 2.50ghz,20022
+intel core i7-11850he @ 2.60ghz,21365
+intel core i7-1185g7 @ 3.00ghz,10098
+intel core i7-1185g7e @ 2.80ghz,9926
+intel core i7-1185gre @ 2.80ghz,7871
+intel core i7-1195g7 @ 2.90ghz,10541
+intel core i7-1250u,11318
+intel core i7-1255u,13207
+intel core i7-1260p,16717
+intel core i7-1260u,13669
+intel core i7-12650h,21884
+intel core i7-12650hx,22291
+intel core i7-1265u,13399
+intel core i7-1265ue,9077
+intel core i7-1265ul,18294
+intel core i7-12700,30219
+intel core i7-12700e,28193
+intel core i7-12700f,30422
+intel core i7-12700h,25565
+intel core i7-12700k,34378
+intel core i7-12700kf,34096
+intel core i7-12700t,21145
+intel core i7-12700te,19507
+intel core i7-1270p,16735
+intel core i7-1270pe,17960
+intel core i7-12800h,24339
+intel core i7-12800he,26907
+intel core i7-12800hx,31548
+intel core i7-1280p,20115
+intel core i7-12850hx,30641
+intel core i7-1355u,14252
+intel core i7-1360p,18616
+intel core i7-13620h,24148
+intel core i7-13650hx,30673
+intel core i7-1365u,13930
+intel core i7-1365ue,10019
+intel core i7-1365ure,10636
+intel core i7-13700,36379
+intel core i7-13700e,34110
+intel core i7-13700f,38316
+intel core i7-13700h,26358
+intel core i7-13700hx,32551
+intel core i7-13700k,45860
+intel core i7-13700kf,45805
+intel core i7-13700t,28090
+intel core i7-13700te,22582
+intel core i7-13705h,24703
+intel core i7-1370p,20184
+intel core i7-1370pe,21920
+intel core i7-1370pre,18420
+intel core i7-13790f,44737
+intel core i7-13800h,26434
+intel core i7-13800hre,19452
+intel core i7-13850hx,36621
+intel core i7-14650hx,34843
+intel core i7-14700,41540
+intel core i7-14700f,41579
+intel core i7-14700hx,37171
+intel core i7-14700k,52361
+intel core i7-14700kf,52397
+intel core i7-14700t,30797
+intel core i7-14701e,26097
+intel core i7-14701te,27519
+intel core i7-14790f,37542
+intel core i7-2600 @ 3.40ghz,5348
+intel core i7-2600k @ 3.40ghz,5485
+intel core i7-2600s @ 2.80ghz,4634
+intel core i7-2610ue @ 1.50ghz,1527
+intel core i7-2617m @ 1.50ghz,1687
+intel core i7-2620m @ 2.70ghz,2427
+intel core i7-2630qm @ 2.00ghz,3550
+intel core i7-2630um @ 1.60ghz,400
+intel core i7-2635qm @ 2.00ghz,3521
+intel core i7-2637m @ 1.70ghz,1909
+intel core i7-2640m @ 2.80ghz,2452
+intel core i7-2655le @ 2.20ghz,1999
+intel core i7-2670qm @ 2.20ghz,3752
+intel core i7-2675qm @ 2.20ghz,3913
+intel core i7-2677m @ 1.80ghz,1889
+intel core i7-2700k @ 3.50ghz,5704
+intel core i7-2710qe @ 2.10ghz,3749
+intel core i7-2715qe @ 2.10ghz,3221
+intel core i7-2720qm @ 2.20ghz,4032
+intel core i7-2760qm @ 2.40ghz,4353
+intel core i7-2820qm @ 2.30ghz,4383
+intel core i7-2840qm @ 2.40ghz,3842
+intel core i7-2860qm @ 2.50ghz,4595
+intel core i7-2920xm @ 2.50ghz,4336
+intel core i7-2960xm @ 2.70ghz,4698
+intel core i7-3517u @ 1.90ghz,2123
+intel core i7-3517ue @ 1.70ghz,2384
+intel core i7-3520m @ 2.90ghz,2840
+intel core i7-3537u @ 2.00ghz,2358
+intel core i7-3540m @ 3.00ghz,2983
+intel core i7-3555le @ 2.50ghz,2238
+intel core i7-3610qe @ 2.30ghz,5234
+intel core i7-3610qm @ 2.30ghz,5107
+intel core i7-3612qe @ 2.10ghz,4929
+intel core i7-3612qm @ 2.10ghz,4650
+intel core i7-3615qe @ 2.30ghz,5620
+intel core i7-3615qm @ 2.30ghz,5172
+intel core i7-3630qm @ 2.40ghz,5131
+intel core i7-3632qm @ 2.20ghz,4734
+intel core i7-3635qm @ 2.40ghz,4759
+intel core i7-3667u @ 2.00ghz,2448
+intel core i7-3687u @ 2.10ghz,2643
+intel core i7-3689y @ 1.50ghz,1967
+intel core i7-3720qm @ 2.60ghz,5611
+intel core i7-3740qm @ 2.70ghz,5702
+intel core i7-3770 @ 3.40ghz,6416
+intel core i7-3770k @ 3.50ghz,6488
+intel core i7-3770s @ 3.10ghz,6185
+intel core i7-3770t @ 2.50ghz,5453
+intel core i7-3820 @ 3.60ghz,5787
+intel core i7-3820qm @ 2.70ghz,5614
+intel core i7-3840qm @ 2.80ghz,5898
+intel core i7-3920xm @ 2.90ghz,5713
+intel core i7-3930k @ 3.20ghz,8200
+intel core i7-3940xm @ 3.00ghz,5949
+intel core i7-3960x @ 3.30ghz,8400
+intel core i7-3970x @ 3.50ghz,8588
+intel core i7-4500u @ 1.80ghz,2496
+intel core i7-4510u @ 2.00ghz,2633
+intel core i7-4550u @ 1.50ghz,2291
+intel core i7-4558u @ 2.80ghz,2962
+intel core i7-4560u @ 1.60ghz,2473
+intel core i7-4578u @ 3.00ghz,3088
+intel core i7-4600m @ 2.90ghz,3210
+intel core i7-4600u @ 2.10ghz,2723
+intel core i7-4610m @ 3.00ghz,3237
+intel core i7-4610y @ 1.70ghz,2446
+intel core i7-4650u @ 1.70ghz,2456
+intel core i7-4700eq @ 2.40ghz,5417
+intel core i7-4700hq @ 2.40ghz,5593
+intel core i7-4700mq @ 2.40ghz,5345
+intel core i7-4702hq @ 2.20ghz,5390
+intel core i7-4702mq @ 2.20ghz,5196
+intel core i7-4710hq @ 2.50ghz,5541
+intel core i7-4710mq @ 2.50ghz,5781
+intel core i7-4712hq @ 2.30ghz,5370
+intel core i7-4712mq @ 2.30ghz,5310
+intel core i7-4720hq @ 2.60ghz,5728
+intel core i7-4722hq @ 2.40ghz,5768
+intel core i7-4750hq @ 2.00ghz,5618
+intel core i7-4760hq @ 2.10ghz,6300
+intel core i7-4765t @ 2.00ghz,5034
+intel core i7-4770 @ 3.40ghz,7051
+intel core i7-4770hq @ 2.20ghz,6037
+intel core i7-4770k @ 3.50ghz,7138
+intel core i7-4770r @ 3.20ghz,6561
+intel core i7-4770s @ 3.10ghz,6751
+intel core i7-4770t @ 2.50ghz,5856
+intel core i7-4770te @ 2.30ghz,4983
+intel core i7-4771 @ 3.50ghz,7143
+intel core i7-4785t @ 2.20ghz,5521
+intel core i7-4790 @ 3.60ghz,7264
+intel core i7-4790k @ 4.00ghz,8061
+intel core i7-4790s @ 3.20ghz,6987
+intel core i7-4790t @ 2.70ghz,6303
+intel core i7-4800mq @ 2.70ghz,5762
+intel core i7-4810mq @ 2.80ghz,6070
+intel core i7-4820k @ 3.70ghz,6513
+intel core i7-4850hq @ 2.30ghz,6132
+intel core i7-4860eq @ 1.80ghz,5508
+intel core i7-4860hq @ 2.40ghz,6198
+intel core i7-4870hq @ 2.50ghz,6306
+intel core i7-4900mq @ 2.80ghz,6144
+intel core i7-4910mq @ 2.90ghz,6260
+intel core i7-4930k @ 3.40ghz,9385
+intel core i7-4930mx @ 3.00ghz,6473
+intel core i7-4940mx @ 3.10ghz,6765
+intel core i7-4960hq @ 2.60ghz,6365
+intel core i7-4960x @ 3.60ghz,9950
+intel core i7-4980hq @ 2.80ghz,6541
+intel core i7-5500u @ 2.40ghz,2799
+intel core i7-5550u @ 2.00ghz,2780
+intel core i7-5557u @ 3.10ghz,3146
+intel core i7-5600u @ 2.60ghz,3004
+intel core i7-5650u @ 2.20ghz,3008
+intel core i7-5675c @ 3.10ghz,6089
+intel core i7-5700eq @ 2.60ghz,5803
+intel core i7-5700hq @ 2.70ghz,6019
+intel core i7-5775c @ 3.30ghz,7702
+intel core i7-5775r @ 3.30ghz,7580
+intel core i7-5820k @ 3.30ghz,9816
+intel core i7-5850eq @ 2.70ghz,7036
+intel core i7-5850hq @ 2.70ghz,6866
+intel core i7-5930k @ 3.50ghz,10351
+intel core i7-5950hq @ 2.90ghz,7700
+intel core i7-5960x @ 3.00ghz,13441
+intel core i7-610e @ 2.53ghz,2071
+intel core i7-620lm @ 2.00ghz,1406
+intel core i7-620m @ 2.67ghz,1974
+intel core i7-620um @ 1.07ghz,1091
+intel core i7-640lm @ 2.13ghz,1528
+intel core i7-640m @ 2.80ghz,2085
+intel core i7-640um @ 1.20ghz,1168
+intel core i7-6498du @ 2.50ghz,3325
+intel core i7-6500u @ 2.50ghz,3275
+intel core i7-6560u @ 2.20ghz,3353
+intel core i7-6567u @ 3.30ghz,3667
+intel core i7-6600u @ 2.60ghz,3407
+intel core i7-660um @ 1.33ghz,1279
+intel core i7-6650u @ 2.20ghz,3547
+intel core i7-6660u @ 2.40ghz,3628
+intel core i7-6700 @ 3.40ghz,8052
+intel core i7-6700hq @ 2.60ghz,6522
+intel core i7-6700k @ 4.00ghz,8923
+intel core i7-6700t @ 2.80ghz,7000
+intel core i7-6700te @ 2.40ghz,6185
+intel core i7-6770hq @ 2.60ghz,7091
+intel core i7-6800k @ 3.40ghz,10708
+intel core i7-680um @ 1.47ghz,1196
+intel core i7-6820eq @ 2.80ghz,7025
+intel core i7-6820hk @ 2.70ghz,7033
+intel core i7-6820hq @ 2.70ghz,6749
+intel core i7-6822eq @ 2.00ghz,5550
+intel core i7-6850k @ 3.60ghz,11428
+intel core i7-6900k @ 3.20ghz,14572
+intel core i7-6920hq @ 2.90ghz,7247
+intel core i7-6950x @ 3.00ghz,17681
+intel core i7-6970hq @ 2.80ghz,4632
+intel core i7-720qm @ 1.60ghz,1667
+intel core i7-740qm @ 1.73ghz,1841
+intel core i7-7500u @ 2.70ghz,3632
+intel core i7-7560u @ 2.40ghz,3770
+intel core i7-7567u @ 3.50ghz,4102
+intel core i7-7600u @ 2.80ghz,3691
+intel core i7-7660u @ 2.50ghz,4066
+intel core i7-7700 @ 3.60ghz,8634
+intel core i7-7700hq @ 2.80ghz,6877
+intel core i7-7700k @ 4.20ghz,9620
+intel core i7-7700t @ 2.90ghz,7566
+intel core i7-7740x @ 4.30ghz,9658
+intel core i7-7800x @ 3.50ghz,12976
+intel core i7-7820eq @ 3.00ghz,7542
+intel core i7-7820hk @ 2.90ghz,7414
+intel core i7-7820hq @ 2.90ghz,7181
+intel core i7-7820x @ 3.60ghz,17181
+intel core i7-7900x @ 3.30ghz,21008
+intel core i7-7920hq @ 3.10ghz,7304
+intel core i7-7y75 @ 1.30ghz,2526
+intel core i7-8086k @ 4.00ghz,14060
+intel core i7-820qm @ 1.73ghz,1819
+intel core i7-840qm @ 1.87ghz,1970
+intel core i7-8500y @ 1.50ghz,2450
+intel core i7-8550u @ 1.80ghz,5824
+intel core i7-8557u @ 1.70ghz,7309
+intel core i7-8559u @ 2.70ghz,8260
+intel core i7-8565u @ 1.80ghz,5992
+intel core i7-8565uc @ 1.80ghz,6187
+intel core i7-8569u @ 2.80ghz,8150
+intel core i7-860 @ 2.80ghz,3018
+intel core i7-860s @ 2.53ghz,2324
+intel core i7-8650u @ 1.90ghz,6185
+intel core i7-8665u @ 1.90ghz,6217
+intel core i7-8665ue @ 1.70ghz,4852
+intel core i7-870 @ 2.93ghz,3160
+intel core i7-8700 @ 3.20ghz,12747
+intel core i7-8700b @ 3.20ghz,11767
+intel core i7-8700k @ 3.70ghz,13574
+intel core i7-8700t @ 2.40ghz,10177
+intel core i7-8705g @ 3.10ghz,7608
+intel core i7-8706g @ 3.10ghz,7615
+intel core i7-8709g @ 3.10ghz,7934
+intel core i7-870s @ 2.67ghz,2765
+intel core i7-8750h @ 2.20ghz,9786
+intel core i7-875k @ 2.93ghz,3142
+intel core i7-880 @ 3.07ghz,3427
+intel core i7-8809g @ 3.10ghz,8481
+intel core i7-8850h @ 2.60ghz,10119
+intel core i7-920 @ 2.67ghz,2862
+intel core i7-920xm @ 2.00ghz,2002
+intel core i7-930 @ 2.80ghz,2982
+intel core i7-940 @ 2.93ghz,3029
+intel core i7-940xm @ 2.13ghz,2312
+intel core i7-950 @ 3.07ghz,3253
+intel core i7-960 @ 3.20ghz,3371
+intel core i7-965 @ 3.20ghz,3424
+intel core i7-970 @ 3.20ghz,6535
+intel core i7-9700 @ 3.00ghz,13216
+intel core i7-9700e @ 2.60ghz,12658
+intel core i7-9700f @ 3.00ghz,13183
+intel core i7-9700k @ 3.60ghz,14407
+intel core i7-9700kf @ 3.60ghz,14244
+intel core i7-9700t @ 2.00ghz,10582
+intel core i7-9700te @ 1.80ghz,9930
+intel core i7-975 @ 3.33ghz,3518
+intel core i7-9750h @ 2.60ghz,10656
+intel core i7-9750hf @ 2.60ghz,10425
+intel core i7-980 @ 3.33ghz,6857
+intel core i7-9800x @ 3.80ghz,18094
+intel core i7-980x @ 3.33ghz,6843
+intel core i7-985 @ 3.47ghz,3928
+intel core i7-9850h @ 2.60ghz,10908
+intel core i7-9850he @ 2.70ghz,10411
+intel core i7-9850hl @ 1.90ghz,7897
+intel core i7-990x @ 3.47ghz,7116
+intel core i7-995x @ 3.60ghz,7862
+intel core i9-10850k @ 3.60ghz,22006
+intel core i9-10880h @ 2.30ghz,14235
+intel core i9-10885h @ 2.40ghz,14541
+intel core i9-10900 @ 2.80ghz,19281
+intel core i9-10900e @ 2.80ghz,19469
+intel core i9-10900f @ 2.80ghz,19802
+intel core i9-10900k @ 3.70ghz,22426
+intel core i9-10900kf @ 3.70ghz,22306
+intel core i9-10900t @ 1.90ghz,14714
+intel core i9-10900te @ 1.80ghz,14159
+intel core i9-10900x @ 3.70ghz,22381
+intel core i9-10910 @ 3.60ghz,21384
+intel core i9-10920x @ 3.50ghz,25933
+intel core i9-10940x @ 3.30ghz,27779
+intel core i9-10980hk @ 2.40ghz,15197
+intel core i9-10980xe @ 3.00ghz,32423
+intel core i9-11900 @ 2.50ghz,22477
+intel core i9-11900f @ 2.50ghz,22105
+intel core i9-11900h @ 2.50ghz,20119
+intel core i9-11900k @ 3.50ghz,25012
+intel core i9-11900kb @ 3.30ghz,22870
+intel core i9-11900kf @ 3.50ghz,24688
+intel core i9-11900t @ 1.50ghz,18461
+intel core i9-11950h @ 2.60ghz,20881
+intel core i9-11980hk @ 2.60ghz,22382
+intel core i9-12900,33662
+intel core i9-12900e,28170
+intel core i9-12900f,35888
+intel core i9-12900h,27282
+intel core i9-12900hk,25649
+intel core i9-12900hx,33060
+intel core i9-12900k,41198
+intel core i9-12900kf,40911
+intel core i9-12900ks,43674
+intel core i9-12900t,29601
+intel core i9-12900te,22887
+intel core i9-12950hx,31576
+intel core i9-13900,45648
+intel core i9-13900e,40476
+intel core i9-13900f,49521
+intel core i9-13900h,27602
+intel core i9-13900hk,27874
+intel core i9-13900hx,42986
+intel core i9-13900k,58530
+intel core i9-13900kf,57763
+intel core i9-13900ks,60580
+intel core i9-13900t,42718
+intel core i9-13900te,21981
+intel core i9-13905h,29859
+intel core i9-13950hx,41504
+intel core i9-13980hx,46333
+intel core i9-14900,45293
+intel core i9-14900f,47155
+intel core i9-14900hx,45196
+intel core i9-14900k,58623
+intel core i9-14900kf,58359
+intel core i9-14900ks,60531
+intel core i9-14900t,38668
+intel core i9-7900x @ 3.30ghz,20998
+intel core i9-7920x @ 2.90ghz,23564
+intel core i9-7940x @ 3.10ghz,25611
+intel core i9-7960x @ 2.80ghz,28122
+intel core i9-7980xe @ 2.60ghz,29742
+intel core i9-8950hk @ 2.90ghz,10380
+intel core i9-9820x @ 3.30ghz,20433
+intel core i9-9880h @ 2.30ghz,13573
+intel core i9-9900 @ 3.10ghz,16250
+intel core i9-9900b @ 3.10ghz,15893
+intel core i9-9900k @ 3.60ghz,18144
+intel core i9-9900kf @ 3.60ghz,18080
+intel core i9-9900ks @ 4.00ghz,19425
+intel core i9-9900t @ 2.10ghz,13280
+intel core i9-9900x @ 3.50ghz,21618
+intel core i9-9920x @ 3.50ghz,24935
+intel core i9-9940x @ 3.30ghz,28124
+intel core i9-9960x @ 3.10ghz,29914
+intel core i9-9980hk @ 2.40ghz,14011
+intel core i9-9980xe @ 3.00ghz,31484
+intel core i9-9990xe @ 4.00ghz,30162
+intel core m-5y10 @ 0.80ghz,1644
+intel core m-5y10a @ 0.80ghz,1905
+intel core m-5y10c @ 0.80ghz,1904
+intel core m-5y31 @ 0.90ghz,1896
+intel core m-5y51 @ 1.10ghz,2030
+intel core m-5y70 @ 1.10ghz,1872
+intel core m-5y71 @ 1.20ghz,1978
+intel core m3-6y30 @ 0.90ghz,2176
+intel core m3-7y30 @ 1.00ghz,2422
+intel core m3-7y32 @ 1.10ghz,2720
+intel core m3-8100y @ 1.10ghz,2753
+intel core m5-6y54 @ 1.10ghz,2290
+intel core m5-6y57 @ 1.10ghz,2338
+intel core m5-7y54 @ 1.20ghz,1475
+intel core m7-6y75 @ 1.20ghz,2362
+intel core solo t1300 @ 1.66ghz,210
+intel core solo t1350 @ 1.86ghz,194
+intel core solo t1400 @ 1.83ghz,253
+intel core solo u1300 @ 1.06ghz,127
+intel core solo u1400 @ 1.20ghz,130
+intel core solo u1500 @ 1.33ghz,164
+intel core ultra 5 115u,13024
+intel core ultra 5 125h,20962
+intel core ultra 5 125u,17366
+intel core ultra 5 134u,12470
+intel core ultra 5 135h,22435
+intel core ultra 5 135u,17320
+intel core ultra 5 225,31093
+intel core ultra 5 225f,31471
+intel core ultra 5 225h,28886
+intel core ultra 5 225t,21332
+intel core ultra 5 225u,18725
+intel core ultra 5 226v,18432
+intel core ultra 5 228v,17351
+intel core ultra 5 235,40137
+intel core ultra 5 235h,28777
+intel core ultra 5 235t,31710
+intel core ultra 5 235u,17599
+intel core ultra 5 236v,18691
+intel core ultra 5 238v,18113
+intel core ultra 5 245,40021
+intel core ultra 5 245hx,38825
+intel core ultra 5 245k,43497
+intel core ultra 5 245kf,43404
+intel core ultra 5 245t,32036
+intel core ultra 7 155h,24826
+intel core ultra 7 155u,16331
+intel core ultra 7 164u,12885
+intel core ultra 7 165h,26029
+intel core ultra 7 165u,16951
+intel core ultra 7 255h,30555
+intel core ultra 7 255hx,49467
+intel core ultra 7 255u,18601
+intel core ultra 7 256v,19861
+intel core ultra 7 258v,19140
+intel core ultra 7 265,49142
+intel core ultra 7 265f,48552
+intel core ultra 7 265h,34311
+intel core ultra 7 265hx,51739
+intel core ultra 7 265k,58823
+intel core ultra 7 265kf,58795
+intel core ultra 7 265t,39921
+intel core ultra 7 265u,18409
+intel core ultra 7 266v,20550
+intel core ultra 7 268v,20049
+intel core ultra 9 185h,29394
+intel core ultra 9 275hx,56321
+intel core ultra 9 285,57041
+intel core ultra 9 285h,33936
+intel core ultra 9 285hx,61770
+intel core ultra 9 285k,67708
+intel core ultra 9 285t,37028
+intel core ultra 9 288v,19660
+intel core2 6320 @ 1.86ghz,849
+intel core2 duo e4300 @ 1.80ghz,588
+intel core2 duo e4400 @ 2.00ghz,739
+intel core2 duo e4500 @ 2.20ghz,745
+intel core2 duo e4600 @ 2.40ghz,874
+intel core2 duo e4700 @ 2.60ghz,1011
+intel core2 duo e6300 @ 1.86ghz,648
+intel core2 duo e6320 @ 1.86ghz,728
+intel core2 duo e6400 @ 2.13ghz,778
+intel core2 duo e6420 @ 2.13ghz,762
+intel core2 duo e6540 @ 2.33ghz,808
+intel core2 duo e6550 @ 2.33ghz,910
+intel core2 duo e6600 @ 2.40ghz,934
+intel core2 duo e6700 @ 2.66ghz,975
+intel core2 duo e6750 @ 2.66ghz,1023
+intel core2 duo e6850 @ 3.00ghz,1158
+intel core2 duo e7200 @ 2.53ghz,1002
+intel core2 duo e7300 @ 2.66ghz,975
+intel core2 duo e7400 @ 2.80ghz,1041
+intel core2 duo e7500 @ 2.93ghz,1155
+intel core2 duo e7600 @ 3.06ghz,1149
+intel core2 duo e8135 @ 2.40ghz,973
+intel core2 duo e8135 @ 2.66ghz,1112
+intel core2 duo e8200 @ 2.66ghz,1141
+intel core2 duo e8235 @ 2.80ghz,1020
+intel core2 duo e8290 @ 2.83ghz,1408
+intel core2 duo e8300 @ 2.83ghz,1019
+intel core2 duo e8335 @ 2.66ghz,1121
+intel core2 duo e8335 @ 2.93ghz,1060
+intel core2 duo e8400 @ 3.00ghz,1215
+intel core2 duo e8435 @ 3.06ghz,1104
+intel core2 duo e8500 @ 3.16ghz,1296
+intel core2 duo e8600 @ 3.33ghz,1370
+intel core2 duo l7100 @ 1.20ghz,467
+intel core2 duo l7300 @ 1.40ghz,536
+intel core2 duo l7400 @ 1.50ghz,516
+intel core2 duo l7500 @ 1.60ghz,663
+intel core2 duo l7700 @ 1.80ghz,677
+intel core2 duo l7800 @ 2.00ghz,680
+intel core2 duo l9300 @ 1.60ghz,690
+intel core2 duo l9600 @ 2.13ghz,788
+intel core2 duo p7350 @ 2.00ghz,727
+intel core2 duo p7370 @ 2.00ghz,790
+intel core2 duo p7450 @ 2.13ghz,802
+intel core2 duo p7550 @ 2.26ghz,836
+intel core2 duo p7570 @ 2.26ghz,870
+intel core2 duo p8400 @ 2.26ghz,865
+intel core2 duo p8600 @ 2.40ghz,859
+intel core2 duo p8700 @ 2.53ghz,956
+intel core2 duo p8800 @ 2.66ghz,937
+intel core2 duo p9300 @ 2.26ghz,983
+intel core2 duo p9500 @ 2.53ghz,993
+intel core2 duo p9600 @ 2.53ghz,1040
+intel core2 duo p9600 @ 2.66ghz,1093
+intel core2 duo p9700 @ 2.80ghz,1178
+intel core2 duo sl9400 @ 1.86ghz,753
+intel core2 duo sp9400 @ 2.40ghz,878
+intel core2 duo su9400 @ 1.40ghz,521
+intel core2 duo t5200 @ 1.60ghz,470
+intel core2 duo t5250 @ 1.50ghz,556
+intel core2 duo t5270 @ 1.40ghz,427
+intel core2 duo t5300 @ 1.73ghz,530
+intel core2 duo t5450 @ 1.66ghz,584
+intel core2 duo t5470 @ 1.60ghz,590
+intel core2 duo t5500 @ 1.66ghz,572
+intel core2 duo t5550 @ 1.83ghz,634
+intel core2 duo t5600 @ 1.83ghz,675
+intel core2 duo t5670 @ 1.80ghz,620
+intel core2 duo t5750 @ 2.00ghz,710
+intel core2 duo t5800 @ 2.00ghz,637
+intel core2 duo t5850 @ 2.16ghz,721
+intel core2 duo t5870 @ 2.00ghz,705
+intel core2 duo t5900 @ 2.20ghz,677
+intel core2 duo t6400 @ 2.00ghz,733
+intel core2 duo t6500 @ 2.10ghz,738
+intel core2 duo t6570 @ 2.10ghz,774
+intel core2 duo t6600 @ 2.20ghz,797
+intel core2 duo t6670 @ 2.20ghz,839
+intel core2 duo t7100 @ 1.80ghz,607
+intel core2 duo t7200 @ 2.00ghz,735
+intel core2 duo t7250 @ 2.00ghz,694
+intel core2 duo t7300 @ 2.00ghz,693
+intel core2 duo t7400 @ 2.16ghz,759
+intel core2 duo t7500 @ 2.20ghz,826
+intel core2 duo t7600 @ 2.33ghz,800
+intel core2 duo t7700 @ 2.40ghz,946
+intel core2 duo t7800 @ 2.60ghz,897
+intel core2 duo t8100 @ 2.10ghz,786
+intel core2 duo t8300 @ 2.40ghz,902
+intel core2 duo t9300 @ 2.50ghz,984
+intel core2 duo t9400 @ 2.53ghz,1003
+intel core2 duo t9500 @ 2.60ghz,1041
+intel core2 duo t9550 @ 2.66ghz,989
+intel core2 duo t9600 @ 2.80ghz,1080
+intel core2 duo t9800 @ 2.93ghz,1193
+intel core2 duo t9900 @ 3.06ghz,1207
+intel core2 duo u7300 @ 1.30ghz,537
+intel core2 duo u7500 @ 1.06ghz,408
+intel core2 duo u7600 @ 1.20ghz,347
+intel core2 duo u7700 @ 1.33ghz,420
+intel core2 duo u9300 @ 1.20ghz,447
+intel core2 duo u9600 @ 1.60ghz,587
+intel core2 extreme q6800 @ 2.93ghz,2145
+intel core2 extreme q6850 @ 3.00ghz,2242
+intel core2 extreme q9200 @ 2.40ghz,2011
+intel core2 extreme q9300 @ 2.53ghz,2013
+intel core2 extreme x6800 @ 2.93ghz,1118
+intel core2 extreme x7800 @ 2.60ghz,1138
+intel core2 extreme x7900 @ 2.80ghz,1104
+intel core2 extreme x9000 @ 2.80ghz,1099
+intel core2 extreme x9100 @ 3.06ghz,1181
+intel core2 extreme x9650 @ 3.00ghz,2426
+intel core2 extreme x9750 @ 3.16ghz,2348
+intel core2 extreme x9770 @ 3.20ghz,2689
+intel core2 extreme x9775 @ 3.20ghz,2780
+intel core2 quad q6600 @ 2.40ghz,1837
+intel core2 quad q6700 @ 2.66ghz,2093
+intel core2 quad q8200 @ 2.33ghz,1801
+intel core2 quad q8300 @ 2.50ghz,1913
+intel core2 quad q8400 @ 2.66ghz,2073
+intel core2 quad q9000 @ 2.00ghz,1591
+intel core2 quad q9100 @ 2.26ghz,1806
+intel core2 quad q9300 @ 2.50ghz,2006
+intel core2 quad q9400 @ 2.66ghz,2158
+intel core2 quad q9450 @ 2.66ghz,2203
+intel core2 quad q9500 @ 2.83ghz,2251
+intel core2 quad q9505 @ 2.83ghz,2171
+intel core2 quad q9550 @ 2.83ghz,2356
+intel core2 quad q9650 @ 3.00ghz,2497
+intel core2 solo u2100 @ 1.06ghz,233
+intel core2 solo u3500 @ 1.40ghz,272
+intel coret i5-1350p,19429
+intel coretm ultra 5 115u,12771
+intel i3-1110g4,3716
+intel i7-1165g7,8956
+intel n100,5385
+intel n150,5474
+intel n200,4731
+intel n250,4858
+intel n50,2608
+intel n95,5327
+intel n97,5925
+intel pentium 1403 @ 2.60ghz,1851
+intel pentium 1403 v2 @ 2.60ghz,2284
+intel pentium 2020m @ 2.40ghz,1405
+intel pentium 2030m @ 2.50ghz,1389
+intel pentium 2117u @ 1.80ghz,1024
+intel pentium 2127u @ 1.90ghz,1076
+intel pentium 2129y @ 1.10ghz,587
+intel pentium 3550m @ 2.30ghz,1282
+intel pentium 3556u @ 1.70ghz,1068
+intel pentium 3558u @ 1.70ghz,1051
+intel pentium 3560m @ 2.40ghz,1345
+intel pentium 3560y @ 1.20ghz,887
+intel pentium 3805u @ 1.90ghz,1194
+intel pentium 3825u @ 1.90ghz,1402
+intel pentium 4 1.50ghz,86
+intel pentium 4 1.60ghz,84
+intel pentium 4 1.70ghz,86
+intel pentium 4 1.80ghz,115
+intel pentium 4 1.90ghz,104
+intel pentium 4 1300mhz,77
+intel pentium 4 1400mhz,83
+intel pentium 4 1500mhz,81
+intel pentium 4 1700mhz,100
+intel pentium 4 1800mhz,114
+intel pentium 4 2.00ghz,133
+intel pentium 4 2.20ghz,157
+intel pentium 4 2.26ghz,151
+intel pentium 4 2.40ghz,131
+intel pentium 4 2.50ghz,160
+intel pentium 4 2.53ghz,162
+intel pentium 4 2.60ghz,215
+intel pentium 4 2.66ghz,157
+intel pentium 4 2.80ghz,237
+intel pentium 4 2.93ghz,150
+intel pentium 4 3.00ghz,309
+intel pentium 4 3.06ghz,264
+intel pentium 4 3.20ghz,328
+intel pentium 4 3.40ghz,298
+intel pentium 4 3.46ghz,295
+intel pentium 4 3.60ghz,315
+intel pentium 4 3.73ghz,385
+intel pentium 4 3.80ghz,356
+intel pentium 4 3.83ghz,154
+intel pentium 4 mobile 1.60ghz,116
+intel pentium 4 mobile 1.80ghz,114
+intel pentium 4 mobile 1.90ghz,136
+intel pentium 4 mobile 2.00ghz,132
+intel pentium 4405u @ 2.10ghz,2119
+intel pentium 4405y @ 1.50ghz,1526
+intel pentium 4410y @ 1.50ghz,1435
+intel pentium 4415u @ 2.30ghz,2251
+intel pentium 4415y @ 1.60ghz,1574
+intel pentium 4417u @ 2.30ghz,2253
+intel pentium 4425y @ 1.70ghz,1697
+intel pentium 5405u @ 2.30ghz,2239
+intel pentium 6405u @ 2.40ghz,2360
+intel pentium 6805 @ 1.10ghz,4424
+intel pentium 957 @ 1.20ghz,622
+intel pentium 967 @ 1.30ghz,643
+intel pentium 987 @ 1.50ghz,701
+intel pentium 997 @ 1.60ghz,809
+intel pentium a1018 @ 2.10ghz,1188
+intel pentium a1020 @ 2.41ghz,1249
+intel pentium b940 @ 2.00ghz,879
+intel pentium b950 @ 2.10ghz,1018
+intel pentium b960 @ 2.20ghz,1016
+intel pentium b970 @ 2.30ghz,1090
+intel pentium b980 @ 2.40ghz,1101
+intel pentium d 3.40ghz,782
+intel pentium d 805 @ 2.66ghz,374
+intel pentium d 830 @ 3.00ghz,579
+intel pentium d 915 @ 2.80ghz,468
+intel pentium d 940 @ 3.20ghz,585
+intel pentium d 950 @ 3.40ghz,683
+intel pentium d 960 @ 3.60ghz,818
+intel pentium d1508 @ 2.20ghz,3240
+intel pentium dual t2390 @ 1.86ghz,745
+intel pentium e2140 @ 1.60ghz,532
+intel pentium e2160 @ 1.80ghz,663
+intel pentium e2180 @ 2.00ghz,679
+intel pentium e2200 @ 2.20ghz,735
+intel pentium e2210 @ 2.20ghz,702
+intel pentium e2220 @ 2.40ghz,855
+intel pentium e5200 @ 2.50ghz,932
+intel pentium e5300 @ 2.60ghz,931
+intel pentium e5400 @ 2.70ghz,1005
+intel pentium e5500 @ 2.80ghz,1057
+intel pentium e5700 @ 3.00ghz,1089
+intel pentium e5800 @ 3.20ghz,1181
+intel pentium e6300 @ 2.80ghz,1032
+intel pentium e6500 @ 2.93ghz,1175
+intel pentium e6600 @ 3.06ghz,1182
+intel pentium e6700 @ 3.20ghz,1215
+intel pentium e6800 @ 3.33ghz,1155
+intel pentium extreme edition 955 @ 3.46ghz,469
+intel pentium extreme edition 965 @ 3.73ghz,987
+intel pentium g2010 @ 2.80ghz,1611
+intel pentium g2020 @ 2.90ghz,1702
+intel pentium g2020t @ 2.50ghz,1430
+intel pentium g2030 @ 3.00ghz,1766
+intel pentium g2030t @ 2.60ghz,1597
+intel pentium g2100t @ 2.60ghz,1691
+intel pentium g2120 @ 3.10ghz,1896
+intel pentium g2120t @ 2.70ghz,1613
+intel pentium g2130 @ 3.20ghz,1906
+intel pentium g2140 @ 3.30ghz,2092
+intel pentium g3220 @ 3.00ghz,1882
+intel pentium g3220t @ 2.60ghz,1637
+intel pentium g3240 @ 3.10ghz,1954
+intel pentium g3240t @ 2.70ghz,1674
+intel pentium g3250 @ 3.20ghz,2019
+intel pentium g3250t @ 2.80ghz,1813
+intel pentium g3258 @ 3.20ghz,2060
+intel pentium g3260 @ 3.30ghz,2110
+intel pentium g3260t @ 2.90ghz,1856
+intel pentium g3320te @ 2.30ghz,1570
+intel pentium g3420 @ 3.20ghz,2020
+intel pentium g3420t @ 2.70ghz,1912
+intel pentium g3430 @ 3.30ghz,2127
+intel pentium g3440 @ 3.30ghz,2202
+intel pentium g3440t @ 2.80ghz,2107
+intel pentium g3450 @ 3.40ghz,2182
+intel pentium g3450t @ 2.90ghz,1904
+intel pentium g3460 @ 3.50ghz,2285
+intel pentium g3460t @ 3.00ghz,2036
+intel pentium g3470 @ 3.60ghz,2428
+intel pentium g4400 @ 3.30ghz,2554
+intel pentium g4400t @ 2.90ghz,2321
+intel pentium g4400te @ 2.40ghz,2190
+intel pentium g4500 @ 3.50ghz,2796
+intel pentium g4500t @ 3.00ghz,2399
+intel pentium g4520 @ 3.60ghz,2670
+intel pentium g4560 @ 3.50ghz,3538
+intel pentium g4560t @ 2.90ghz,2972
+intel pentium g4600 @ 3.60ghz,3613
+intel pentium g4600t @ 3.00ghz,3062
+intel pentium g4620 @ 3.70ghz,3761
+intel pentium g620 @ 2.60ghz,1227
+intel pentium g620t @ 2.20ghz,896
+intel pentium g630 @ 2.70ghz,1349
+intel pentium g630t @ 2.30ghz,1032
+intel pentium g640 @ 2.80ghz,1368
+intel pentium g640t @ 2.40ghz,1139
+intel pentium g645 @ 2.90ghz,1441
+intel pentium g645t @ 2.50ghz,1238
+intel pentium g6950 @ 2.80ghz,1252
+intel pentium g6951 @ 2.80ghz,1383
+intel pentium g6960 @ 2.93ghz,1433
+intel pentium g840 @ 2.80ghz,1345
+intel pentium g850 @ 2.90ghz,1480
+intel pentium g860 @ 3.00ghz,1493
+intel pentium g870 @ 3.10ghz,1546
+intel pentium gold 6500y @ 1.10ghz,3032
+intel pentium gold 7505 @ 2.00ghz,5190
+intel pentium gold 8500,5652
+intel pentium gold 8505,9198
+intel pentium gold g5400 @ 3.70ghz,3744
+intel pentium gold g5400t @ 3.10ghz,3144
+intel pentium gold g5420 @ 3.80ghz,3712
+intel pentium gold g5420t @ 3.20ghz,3400
+intel pentium gold g5500 @ 3.80ghz,3839
+intel pentium gold g5500t @ 3.20ghz,3311
+intel pentium gold g5600 @ 3.90ghz,3844
+intel pentium gold g5600f @ 3.90ghz,4060
+intel pentium gold g5600t @ 3.30ghz,3496
+intel pentium gold g5620 @ 4.00ghz,4251
+intel pentium gold g6400 @ 4.00ghz,4115
+intel pentium gold g6400e @ 3.80ghz,3908
+intel pentium gold g6400t @ 3.40ghz,3544
+intel pentium gold g6405 @ 4.10ghz,3789
+intel pentium gold g6405t @ 3.50ghz,3095
+intel pentium gold g6500 @ 4.10ghz,4163
+intel pentium gold g6500t @ 3.50ghz,3874
+intel pentium gold g6505 @ 4.20ghz,4371
+intel pentium gold g6505t @ 3.60ghz,3698
+intel pentium gold g6600 @ 4.20ghz,4223
+intel pentium gold g6605 @ 4.30ghz,4488
+intel pentium gold g7400,6705
+intel pentium gold g7400e,6134
+intel pentium gold g7400t,5259
+intel pentium iii 1400 @ 1400mhz,193
+intel pentium iii 1400s @ 1400mhz,194
+intel pentium iii mobile 1066mhz,160
+intel pentium iii mobile 1133mhz,164
+intel pentium iii mobile 1200mhz,156
+intel pentium iii mobile 800mhz,119
+intel pentium iii mobile 866mhz,99
+intel pentium j2850 @ 2.41ghz,1016
+intel pentium j2900 @ 2.41ghz,1247
+intel pentium j3710 @ 1.60ghz,1421
+intel pentium j4205 @ 1.50ghz,2314
+intel pentium j6426 @ 2.00ghz,4029
+intel pentium m 1.10ghz,184
+intel pentium m 1.20ghz,199
+intel pentium m 1.30ghz,196
+intel pentium m 1.40ghz,225
+intel pentium m 1.50ghz,240
+intel pentium m 1.60ghz,194
+intel pentium m 1.70ghz,239
+intel pentium m 1.73ghz,205
+intel pentium m 1.80ghz,280
+intel pentium m 1.86ghz,222
+intel pentium m 1000mhz,156
+intel pentium m 1200mhz,155
+intel pentium m 1300mhz,197
+intel pentium m 1400mhz,208
+intel pentium m 1500mhz,188
+intel pentium m 1600mhz,193
+intel pentium m 1700mhz,237
+intel pentium m 2.00ghz,270
+intel pentium m 2.10ghz,292
+intel pentium m 2.13ghz,234
+intel pentium m 2.26ghz,227
+intel pentium m 900mhz,141
+intel pentium n3510 @ 1.99ghz,878
+intel pentium n3520 @ 2.16ghz,1141
+intel pentium n3530 @ 2.16ghz,1166
+intel pentium n3540 @ 2.16ghz,1205
+intel pentium n3700 @ 1.60ghz,1251
+intel pentium n3710 @ 1.60ghz,1384
+intel pentium n4200 @ 1.10ghz,2160
+intel pentium n6415 @ 1.20ghz,2713
+intel pentium p6000 @ 1.87ghz,823
+intel pentium p6100 @ 2.00ghz,885
+intel pentium p6200 @ 2.13ghz,932
+intel pentium p6300 @ 2.27ghz,834
+intel pentium silver a1030 @ 2.00ghz,1380
+intel pentium silver j5005 @ 1.50ghz,3130
+intel pentium silver j5040 @ 2.00ghz,3263
+intel pentium silver n5000 @ 1.10ghz,2601
+intel pentium silver n5020 @ 1.10ghz,3404
+intel pentium silver n5030 @ 1.10ghz,2539
+intel pentium silver n6000 @ 1.10ghz,2990
+intel pentium silver n6005 @ 2.00ghz,5305
+intel pentium su2700 @ 1.30ghz,253
+intel pentium su4100 @ 1.30ghz,501
+intel pentium t2060 @ 1.60ghz,330
+intel pentium t2080 @ 1.73ghz,341
+intel pentium t2130 @ 1.86ghz,382
+intel pentium t2310 @ 1.46ghz,538
+intel pentium t2330 @ 1.60ghz,545
+intel pentium t2370 @ 1.73ghz,558
+intel pentium t2390 @ 1.86ghz,540
+intel pentium t2410 @ 2.00ghz,566
+intel pentium t3200 @ 2.00ghz,641
+intel pentium t3400 @ 2.16ghz,669
+intel pentium t4200 @ 2.00ghz,724
+intel pentium t4300 @ 2.10ghz,776
+intel pentium t4400 @ 2.20ghz,784
+intel pentium t4500 @ 2.30ghz,841
+intel pentium u5400 @ 1.20ghz,552
+intel pentium u5600 @ 1.33ghz,624
+intel t1400 @ 1.73ghz,548
+intel t1500 @ 1.86ghz,548
+intel t2050 @ 2.00ghz,516
+intel u300,8434
+intel u300e,8142
+intel u300l,7692
+intel u4100 @ 1.30ghz,610
+intel ultra 5 115u,12381
+intel xeon 2.00ghz,152
+intel xeon 2.20ghz,164
+intel xeon 2.40ghz,180
+intel xeon 2.80ghz,260
+intel xeon 3.00ghz,425
+intel xeon 3.20ghz,478
+intel xeon 3.40ghz,389
+intel xeon 3.60ghz,403
+intel xeon 3.73ghz,929
+intel xeon 3.80ghz,393
+intel xeon 3040 @ 1.86ghz,790
+intel xeon 3050 @ 2.13ghz,818
+intel xeon 3060 @ 2.40ghz,983
+intel xeon 3065 @ 2.33ghz,867
+intel xeon 3070 @ 2.66ghz,1025
+intel xeon 3075 @ 2.66ghz,1112
+intel xeon 3085 @ 3.00ghz,1070
+intel xeon 5110 @ 1.60ghz,405
+intel xeon 5120 @ 1.86ghz,763
+intel xeon 5130 @ 2.00ghz,795
+intel xeon 5133 @ 2.20ghz,887
+intel xeon 5140 @ 2.33ghz,857
+intel xeon 5148 @ 2.33ghz,912
+intel xeon 5150 @ 2.66ghz,880
+intel xeon 5160 @ 3.00ghz,963
+intel xeon 6315p,11179
+intel xeon 6325p,16045
+intel xeon 6333p,18751
+intel xeon 6337p,19257
+intel xeon 6353p,27662
+intel xeon 6369p,27283
+intel xeon 6507p,31233
+intel xeon 6517p,49572
+intel xeon 6521p,57970
+intel xeon 6740e,76167
+intel xeon 6741p,100660
+intel xeon 6747p,100964
+intel xeon @ 2.00ghz,7363
+intel xeon @ 2.20ghz,1324
+intel xeon bronze 3104 @ 1.70ghz,4392
+intel xeon bronze 3106 @ 1.70ghz,5789
+intel xeon bronze 3204 @ 1.90ghz,4778
+intel xeon bronze 3408u,9969
+intel xeon bronze 3508u,11248
+intel xeon d-1518 @ 2.20ghz,4562
+intel xeon d-1520 @ 2.20ghz,4917
+intel xeon d-1521 @ 2.40ghz,5699
+intel xeon d-1527 @ 2.20ghz,5213
+intel xeon d-1528 @ 1.90ghz,6823
+intel xeon d-1531 @ 2.20ghz,7592
+intel xeon d-1537 @ 1.70ghz,7444
+intel xeon d-1539 @ 1.60ghz,7572
+intel xeon d-1540 @ 2.00ghz,10037
+intel xeon d-1541 @ 2.10ghz,9980
+intel xeon d-1548 @ 2.00ghz,9075
+intel xeon d-1557 @ 1.50ghz,9285
+intel xeon d-1559 @ 1.50ghz,8015
+intel xeon d-1567 @ 2.10ghz,10447
+intel xeon d-1577 @ 1.30ghz,11645
+intel xeon d-1581 @ 1.80ghz,13173
+intel xeon d-1587 @ 1.70ghz,13352
+intel xeon d-1602 @ 2.50ghz,2459
+intel xeon d-1622 @ 2.60ghz,6205
+intel xeon d-1715ter @ 2.40ghz,9104
+intel xeon d-1718t @ 2.60ghz,9674
+intel xeon d-1726 @ 2.90ghz,15511
+intel xeon d-1732te @ 1.90ghz,14254
+intel xeon d-1733nt @ 2.00ghz,14849
+intel xeon d-1736nt @ 2.70ghz,17826
+intel xeon d-1746ter @ 2.00ghz,15660
+intel xeon d-1747nte @ 2.50ghz,20279
+intel xeon d-1813nt @ 2.20ghz,7732
+intel xeon d-1823nt @ 2.80ghz,13673
+intel xeon d-2123it @ 2.20ghz,6697
+intel xeon d-2141i @ 2.20ghz,12117
+intel xeon d-2143it @ 2.20ghz,12207
+intel xeon d-2146nt @ 2.30ghz,11736
+intel xeon d-2166nt @ 2.00ghz,15105
+intel xeon d-2183it @ 2.20ghz,19377
+intel xeon d-2187nt @ 2.00ghz,18070
+intel xeon d-2712t @ 1.90ghz,7990
+intel xeon d-2733nt @ 2.10ghz,16206
+intel xeon d-2752ter @ 1.80ghz,19102
+intel xeon d-2753nt @ 2.00ghz,20626
+intel xeon d-2766nt @ 2.00ghz,24013
+intel xeon d-2775te @ 2.00ghz,27299
+intel xeon d-2795nt @ 2.00ghz,28463
+intel xeon d-2796te @ 2.00ghz,26342
+intel xeon d-2799 @ 2.40ghz,33792
+intel xeon e e-2414,11929
+intel xeon e e-2434,15188
+intel xeon e e-2486,23605
+intel xeon e-2104g @ 3.20ghz,5877
+intel xeon e-2124 @ 3.30ghz,6908
+intel xeon e-2124g @ 3.40ghz,7294
+intel xeon e-2126g @ 3.30ghz,10365
+intel xeon e-2134 @ 3.50ghz,9338
+intel xeon e-2136 @ 3.30ghz,13321
+intel xeon e-2144g @ 3.60ghz,9397
+intel xeon e-2146g @ 3.50ghz,13234
+intel xeon e-2174g @ 3.80ghz,9622
+intel xeon e-2176g @ 3.70ghz,13580
+intel xeon e-2176m @ 2.70ghz,10857
+intel xeon e-2186g @ 3.80ghz,13741
+intel xeon e-2186m @ 2.90ghz,11375
+intel xeon e-2224 @ 3.40ghz,7274
+intel xeon e-2224g @ 3.50ghz,7552
+intel xeon e-2226g @ 3.40ghz,11149
+intel xeon e-2226ge @ 3.40ghz,9090
+intel xeon e-2234 @ 3.60ghz,9473
+intel xeon e-2236 @ 3.40ghz,13922
+intel xeon e-2244g @ 3.80ghz,9666
+intel xeon e-2246g @ 3.60ghz,13863
+intel xeon e-2254ml @ 1.70ghz,6333
+intel xeon e-2274g @ 4.00ghz,9764
+intel xeon e-2276g @ 3.80ghz,14034
+intel xeon e-2276m @ 2.80ghz,11650
+intel xeon e-2276me @ 2.80ghz,8167
+intel xeon e-2276ml @ 2.00ghz,6353
+intel xeon e-2278g @ 3.40ghz,16964
+intel xeon e-2278ge @ 3.30ghz,15765
+intel xeon e-2278gel @ 2.00ghz,12024
+intel xeon e-2286g @ 4.00ghz,14019
+intel xeon e-2286m @ 2.40ghz,15156
+intel xeon e-2288g @ 3.70ghz,17457
+intel xeon e-2314 @ 2.80ghz,7750
+intel xeon e-2324g @ 3.10ghz,10198
+intel xeon e-2334 @ 3.40ghz,12674
+intel xeon e-2336 @ 2.90ghz,16136
+intel xeon e-2356g @ 3.20ghz,18459
+intel xeon e-2374g @ 3.70ghz,13726
+intel xeon e-2378 @ 2.60ghz,17332
+intel xeon e-2378g @ 2.80ghz,21153
+intel xeon e-2386g @ 3.50ghz,19506
+intel xeon e-2388g @ 3.20ghz,23543
+intel xeon e-2436,21708
+intel xeon e-2456,20507
+intel xeon e-2468,26224
+intel xeon e-2478,27370
+intel xeon e-2488,32045
+intel xeon e3-1205 v6 @ 3.00ghz,5682
+intel xeon e3-1220 @ 3.10ghz,3910
+intel xeon e3-1220 v2 @ 3.10ghz,4676
+intel xeon e3-1220 v3 @ 3.10ghz,5176
+intel xeon e3-1220 v5 @ 3.00ghz,5752
+intel xeon e3-1220 v6 @ 3.00ghz,5593
+intel xeon e3-1220l @ 2.20ghz,2263
+intel xeon e3-1220l v2 @ 2.30ghz,2397
+intel xeon e3-1220l v3 @ 1.10ghz,1407
+intel xeon e3-1225 @ 3.10ghz,3903
+intel xeon e3-1225 v2 @ 3.20ghz,4715
+intel xeon e3-1225 v3 @ 3.20ghz,5328
+intel xeon e3-1225 v5 @ 3.30ghz,5951
+intel xeon e3-1225 v6 @ 3.30ghz,5647
+intel xeon e3-1226 v3 @ 3.30ghz,5540
+intel xeon e3-1230 @ 3.20ghz,5131
+intel xeon e3-1230 v2 @ 3.30ghz,6185
+intel xeon e3-1230 v3 @ 3.30ghz,6834
+intel xeon e3-1230 v5 @ 3.40ghz,8007
+intel xeon e3-1230 v6 @ 3.50ghz,8148
+intel xeon e3-1230l v3 @ 1.80ghz,5282
+intel xeon e3-1231 v3 @ 3.40ghz,7035
+intel xeon e3-1235 @ 3.20ghz,5112
+intel xeon e3-1235l v5 @ 2.00ghz,5013
+intel xeon e3-1240 @ 3.30ghz,5361
+intel xeon e3-1240 v2 @ 3.40ghz,6383
+intel xeon e3-1240 v3 @ 3.40ghz,7021
+intel xeon e3-1240 v5 @ 3.50ghz,8268
+intel xeon e3-1240 v6 @ 3.70ghz,8703
+intel xeon e3-1240l v3 @ 2.00ghz,5651
+intel xeon e3-1240l v5 @ 2.10ghz,6547
+intel xeon e3-1241 v3 @ 3.50ghz,7155
+intel xeon e3-1245 @ 3.30ghz,5355
+intel xeon e3-1245 v2 @ 3.40ghz,6354
+intel xeon e3-1245 v3 @ 3.40ghz,7043
+intel xeon e3-1245 v5 @ 3.50ghz,8037
+intel xeon e3-1245 v6 @ 3.70ghz,8739
+intel xeon e3-1246 v3 @ 3.50ghz,7248
+intel xeon e3-1260l @ 2.40ghz,4076
+intel xeon e3-1260l v5 @ 2.90ghz,8237
+intel xeon e3-1265l @ 2.40ghz,3912
+intel xeon e3-1265l v2 @ 2.50ghz,5038
+intel xeon e3-1265l v3 @ 2.50ghz,6187
+intel xeon e3-1265l v4 @ 2.30ghz,6954
+intel xeon e3-1268l v3 @ 2.30ghz,5574
+intel xeon e3-1268l v5 @ 2.40ghz,6334
+intel xeon e3-1270 @ 3.40ghz,5372
+intel xeon e3-1270 v2 @ 3.50ghz,6498
+intel xeon e3-1270 v3 @ 3.50ghz,7255
+intel xeon e3-1270 v5 @ 3.60ghz,8307
+intel xeon e3-1270 v6 @ 3.80ghz,8866
+intel xeon e3-1270l v4 @ 3.00ghz,7662
+intel xeon e3-1271 v3 @ 3.60ghz,7513
+intel xeon e3-1275 @ 3.40ghz,5498
+intel xeon e3-1275 v2 @ 3.50ghz,6633
+intel xeon e3-1275 v3 @ 3.50ghz,7203
+intel xeon e3-1275 v5 @ 3.60ghz,8256
+intel xeon e3-1275 v6 @ 3.80ghz,9217
+intel xeon e3-1275l v3 @ 2.70ghz,6327
+intel xeon e3-1276 v3 @ 3.60ghz,7543
+intel xeon e3-1280 @ 3.50ghz,5612
+intel xeon e3-1280 v2 @ 3.60ghz,6611
+intel xeon e3-1280 v3 @ 3.60ghz,7252
+intel xeon e3-1280 v5 @ 3.70ghz,8254
+intel xeon e3-1280 v6 @ 3.90ghz,9093
+intel xeon e3-1281 v3 @ 3.70ghz,7550
+intel xeon e3-1285 v3 @ 3.60ghz,7211
+intel xeon e3-1285 v4 @ 3.50ghz,7716
+intel xeon e3-1285 v6 @ 4.10ghz,9478
+intel xeon e3-1285l v3 @ 3.10ghz,6874
+intel xeon e3-1285l v4 @ 3.40ghz,8092
+intel xeon e3-1286 v3 @ 3.70ghz,7879
+intel xeon e3-1286l v3 @ 3.20ghz,6929
+intel xeon e3-1290 @ 3.60ghz,5429
+intel xeon e3-1290 v2 @ 3.70ghz,6315
+intel xeon e3-1505l v5 @ 2.00ghz,5083
+intel xeon e3-1505l v6 @ 2.20ghz,5540
+intel xeon e3-1505m v5 @ 2.80ghz,7008
+intel xeon e3-1505m v6 @ 3.00ghz,7409
+intel xeon e3-1515m v5 @ 2.80ghz,5925
+intel xeon e3-1535m v5 @ 2.90ghz,7489
+intel xeon e3-1535m v6 @ 3.10ghz,8074
+intel xeon e3-1545m v5 @ 2.90ghz,7702
+intel xeon e3-1565l v5 @ 2.50ghz,7325
+intel xeon e3-1575m v5 @ 3.00ghz,7818
+intel xeon e3-1585 v5 @ 3.50ghz,8408
+intel xeon e3-1585l v5 @ 3.00ghz,7959
+intel xeon e3110 @ 3.00ghz,1295
+intel xeon e3113 @ 3.00ghz,1429
+intel xeon e3120 @ 3.16ghz,1408
+intel xeon e5-1410 @ 2.80ghz,4852
+intel xeon e5-1410 v2 @ 2.80ghz,5715
+intel xeon e5-1428l v2 @ 2.20ghz,6255
+intel xeon e5-1603 @ 2.80ghz,3476
+intel xeon e5-1603 v3 @ 2.80ghz,4448
+intel xeon e5-1603 v4 @ 2.80ghz,4681
+intel xeon e5-1607 @ 3.00ghz,3776
+intel xeon e5-1607 v2 @ 3.00ghz,4138
+intel xeon e5-1607 v3 @ 3.10ghz,4953
+intel xeon e5-1607 v4 @ 3.10ghz,5197
+intel xeon e5-1620 @ 3.60ghz,5848
+intel xeon e5-1620 v2 @ 3.70ghz,6546
+intel xeon e5-1620 v3 @ 3.50ghz,6968
+intel xeon e5-1620 v4 @ 3.50ghz,7366
+intel xeon e5-1630 v3 @ 3.70ghz,7417
+intel xeon e5-1630 v4 @ 3.70ghz,7556
+intel xeon e5-1650 @ 3.20ghz,8077
+intel xeon e5-1650 v2 @ 3.50ghz,9332
+intel xeon e5-1650 v3 @ 3.50ghz,10393
+intel xeon e5-1650 v4 @ 3.60ghz,11379
+intel xeon e5-1660 @ 3.30ghz,8345
+intel xeon e5-1660 v2 @ 3.70ghz,10338
+intel xeon e5-1660 v3 @ 3.00ghz,12576
+intel xeon e5-1660 v4 @ 3.20ghz,13479
+intel xeon e5-1680 v2 @ 3.00ghz,12498
+intel xeon e5-1680 v3 @ 3.20ghz,13273
+intel xeon e5-1680 v4 @ 3.40ghz,14246
+intel xeon e5-1681 v3 @ 2.90ghz,14820
+intel xeon e5-2403 @ 1.80ghz,2367
+intel xeon e5-2403 v2 @ 1.80ghz,2672
+intel xeon e5-2407 @ 2.20ghz,2675
+intel xeon e5-2407 v2 @ 2.40ghz,3287
+intel xeon e5-2418l @ 2.00ghz,3518
+intel xeon e5-2418l v2 @ 2.00ghz,5380
+intel xeon e5-2420 @ 1.90ghz,5012
+intel xeon e5-2420 v2 @ 2.20ghz,6347
+intel xeon e5-2430 @ 2.20ghz,5702
+intel xeon e5-2430 v2 @ 2.50ghz,7179
+intel xeon e5-2430l @ 2.00ghz,5300
+intel xeon e5-2430l v2 @ 2.40ghz,6190
+intel xeon e5-2440 @ 2.40ghz,6091
+intel xeon e5-2440 v2 @ 1.90ghz,7473
+intel xeon e5-2448l v2 @ 1.80ghz,6774
+intel xeon e5-2450 @ 2.10ghz,7534
+intel xeon e5-2450 v2 @ 2.50ghz,8993
+intel xeon e5-2450l @ 1.80ghz,5880
+intel xeon e5-2470 @ 2.30ghz,8300
+intel xeon e5-2470 v2 @ 2.40ghz,10657
+intel xeon e5-2603 @ 1.80ghz,2325
+intel xeon e5-2603 v2 @ 1.80ghz,2735
+intel xeon e5-2603 v3 @ 1.60ghz,3825
+intel xeon e5-2603 v4 @ 1.70ghz,4695
+intel xeon e5-2608l v3 @ 2.00ghz,6415
+intel xeon e5-2608l v4 @ 1.60ghz,7447
+intel xeon e5-2609 @ 2.40ghz,2908
+intel xeon e5-2609 v2 @ 2.50ghz,3369
+intel xeon e5-2609 v3 @ 1.90ghz,4462
+intel xeon e5-2609 v4 @ 1.70ghz,5418
+intel xeon e5-2618l v3 @ 2.30ghz,11310
+intel xeon e5-2618l v4 @ 2.20ghz,12429
+intel xeon e5-2620 @ 2.00ghz,5322
+intel xeon e5-2620 v2 @ 2.10ghz,6251
+intel xeon e5-2620 v3 @ 2.40ghz,7770
+intel xeon e5-2620 v4 @ 2.10ghz,9299
+intel xeon e5-2623 v3 @ 3.00ghz,6651
+intel xeon e5-2623 v4 @ 2.60ghz,6940
+intel xeon e5-2628 v3 @ 2.50ghz,8447
+intel xeon e5-2628l v2 @ 1.90ghz,7181
+intel xeon e5-2628l v3 @ 2.00ghz,9949
+intel xeon e5-2628l v4 @ 1.90ghz,11079
+intel xeon e5-2629 v3 @ 2.40ghz,9139
+intel xeon e5-2630 @ 2.30ghz,6084
+intel xeon e5-2630 v2 @ 2.60ghz,7472
+intel xeon e5-2630 v3 @ 2.40ghz,10301
+intel xeon e5-2630 v4 @ 2.20ghz,11494
+intel xeon e5-2630l @ 2.00ghz,5305
+intel xeon e5-2630l v2 @ 2.40ghz,6640
+intel xeon e5-2630l v3 @ 1.80ghz,8661
+intel xeon e5-2630l v4 @ 1.80ghz,9966
+intel xeon e5-2637 @ 3.00ghz,2978
+intel xeon e5-2637 v2 @ 3.50ghz,6483
+intel xeon e5-2637 v3 @ 3.50ghz,7252
+intel xeon e5-2637 v4 @ 3.50ghz,7500
+intel xeon e5-2640 @ 2.50ghz,6293
+intel xeon e5-2640 v2 @ 2.00ghz,7625
+intel xeon e5-2640 v3 @ 2.60ghz,11042
+intel xeon e5-2640 v4 @ 2.40ghz,12466
+intel xeon e5-2643 @ 3.30ghz,5224
+intel xeon e5-2643 v2 @ 3.50ghz,9243
+intel xeon e5-2643 v3 @ 3.40ghz,10417
+intel xeon e5-2643 v4 @ 3.40ghz,11097
+intel xeon e5-2648l @ 1.80ghz,5262
+intel xeon e5-2648l v2 @ 1.90ghz,8828
+intel xeon e5-2648l v3 @ 1.80ghz,9847
+intel xeon e5-2648l v4 @ 1.80ghz,11839
+intel xeon e5-2649 v3 @ 2.30ghz,12399
+intel xeon e5-2650 @ 2.00ghz,7349
+intel xeon e5-2650 v2 @ 2.60ghz,9800
+intel xeon e5-2650 v3 @ 2.30ghz,11701
+intel xeon e5-2650 v4 @ 2.20ghz,13313
+intel xeon e5-2650l @ 1.80ghz,6192
+intel xeon e5-2650l v2 @ 1.70ghz,7586
+intel xeon e5-2650l v3 @ 1.80ghz,11865
+intel xeon e5-2650l v4 @ 1.70ghz,12734
+intel xeon e5-2651 v2 @ 1.80ghz,9551
+intel xeon e5-2658 @ 2.10ghz,6232
+intel xeon e5-2658 v2 @ 2.40ghz,10528
+intel xeon e5-2658 v3 @ 2.20ghz,13487
+intel xeon e5-2658 v4 @ 2.30ghz,14434
+intel xeon e5-2658a v3 @ 2.20ghz,14879
+intel xeon e5-2660 @ 2.20ghz,8077
+intel xeon e5-2660 v2 @ 2.20ghz,10352
+intel xeon e5-2660 v3 @ 2.60ghz,13063
+intel xeon e5-2660 v4 @ 2.00ghz,15702
+intel xeon e5-2663 v3 @ 2.80ghz,11777
+intel xeon e5-2665 @ 2.40ghz,8271
+intel xeon e5-2666 v3 @ 2.90ghz,14040
+intel xeon e5-2666 v4 @ 2.80ghz,17958
+intel xeon e5-2667 @ 2.90ghz,7442
+intel xeon e5-2667 v2 @ 3.30ghz,12261
+intel xeon e5-2667 v3 @ 3.20ghz,12523
+intel xeon e5-2667 v4 @ 3.20ghz,13774
+intel xeon e5-2669 v3 @ 2.30ghz,16107
+intel xeon e5-2670 @ 2.60ghz,8918
+intel xeon e5-2670 v2 @ 2.50ghz,11376
+intel xeon e5-2670 v3 @ 2.30ghz,13501
+intel xeon e5-2673 v2 @ 3.30ghz,12331
+intel xeon e5-2673 v3 @ 2.40ghz,14220
+intel xeon e5-2673 v4 @ 2.30ghz,21059
+intel xeon e5-2675 v3 @ 1.80ghz,13180
+intel xeon e5-2676 v3 @ 2.40ghz,13178
+intel xeon e5-2676 v4 @ 2.40ghz,18978
+intel xeon e5-2678 v3 @ 2.50ghz,14671
+intel xeon e5-2679 v4 @ 2.50ghz,24131
+intel xeon e5-2680 @ 2.70ghz,9350
+intel xeon e5-2680 v2 @ 2.80ghz,12641
+intel xeon e5-2680 v3 @ 2.50ghz,14909
+intel xeon e5-2680 v4 @ 2.40ghz,17357
+intel xeon e5-2680r v4 @ 2.40ghz,17487
+intel xeon e5-2682 v4 @ 2.50ghz,18617
+intel xeon e5-2683 v3 @ 2.00ghz,14711
+intel xeon e5-2683 v4 @ 2.10ghz,17591
+intel xeon e5-2685 v3 @ 2.60ghz,12944
+intel xeon e5-2686 v3 @ 2.00ghz,18148
+intel xeon e5-2686 v4 @ 2.30ghz,19904
+intel xeon e5-2687w @ 3.10ghz,10018
+intel xeon e5-2687w v2 @ 3.40ghz,12266
+intel xeon e5-2687w v3 @ 3.10ghz,14540
+intel xeon e5-2687w v4 @ 3.00ghz,17636
+intel xeon e5-2689 @ 2.60ghz,9488
+intel xeon e5-2689 v4 @ 3.10ghz,17084
+intel xeon e5-2690 @ 2.90ghz,9778
+intel xeon e5-2690 v2 @ 3.00ghz,13391
+intel xeon e5-2690 v3 @ 2.60ghz,16049
+intel xeon e5-2690 v4 @ 2.60ghz,19293
+intel xeon e5-2692 v2 @ 2.20ghz,12119
+intel xeon e5-2695 v2 @ 2.40ghz,13402
+intel xeon e5-2695 v3 @ 2.30ghz,16607
+intel xeon e5-2695 v4 @ 2.10ghz,18963
+intel xeon e5-2696 v2 @ 2.50ghz,14066
+intel xeon e5-2696 v3 @ 2.30ghz,21518
+intel xeon e5-2696 v4 @ 2.20ghz,25029
+intel xeon e5-2697 v2 @ 2.70ghz,14280
+intel xeon e5-2697 v3 @ 2.60ghz,18169
+intel xeon e5-2697 v4 @ 2.30ghz,20951
+intel xeon e5-2697a v4 @ 2.60ghz,21627
+intel xeon e5-2697r v4 @ 2.30ghz,20843
+intel xeon e5-2698 v3 @ 2.30ghz,18817
+intel xeon e5-2698 v4 @ 2.20ghz,22893
+intel xeon e5-2698b v3 @ 2.00ghz,16287
+intel xeon e5-2698r v4 @ 2.20ghz,25605
+intel xeon e5-2699 v3 @ 2.30ghz,20010
+intel xeon e5-2699 v4 @ 2.20ghz,25039
+intel xeon e5-2699a v4 @ 2.40ghz,26766
+intel xeon e5-2699c v4 @ 2.20ghz,21113
+intel xeon e5-4603 @ 2.00ghz,3391
+intel xeon e5-4607 v2 @ 2.60ghz,6986
+intel xeon e5-4610 @ 2.40ghz,6460
+intel xeon e5-4610 v3 @ 1.70ghz,7229
+intel xeon e5-4617 @ 2.90ghz,6298
+intel xeon e5-4620 @ 2.20ghz,6872
+intel xeon e5-4620 v2 @ 2.60ghz,9424
+intel xeon e5-4620 v3 @ 2.00ghz,10525
+intel xeon e5-4627 v2 @ 3.30ghz,9425
+intel xeon e5-4627 v3 @ 2.60ghz,11344
+intel xeon e5-4627 v4 @ 2.60ghz,12969
+intel xeon e5-4628l v4 @ 1.80ghz,11503
+intel xeon e5-4640 @ 2.40ghz,7012
+intel xeon e5-4640 v3 @ 1.90ghz,10372
+intel xeon e5-4648 v3 @ 1.70ghz,9061
+intel xeon e5-4650 @ 2.70ghz,8480
+intel xeon e5-4650 v2 @ 2.40ghz,10907
+intel xeon e5-4650 v3 @ 2.10ghz,10838
+intel xeon e5-4650 v4 @ 2.20ghz,16225
+intel xeon e5-4650l @ 2.60ghz,8533
+intel xeon e5-4655 v3 @ 2.90ghz,9377
+intel xeon e5-4655 v4 @ 2.50ghz,10912
+intel xeon e5-4657l v2 @ 2.40ghz,11613
+intel xeon e5-4660 v3 @ 2.10ghz,14256
+intel xeon e5-4660 v4 @ 2.20ghz,15375
+intel xeon e5-4667 v3 @ 2.00ghz,15397
+intel xeon e5-4667 v4 @ 2.20ghz,20319
+intel xeon e5-4669 v3 @ 2.10ghz,17430
+intel xeon e5-4669 v4 @ 2.20ghz,11523
+intel xeon e5205 @ 1.86ghz,838
+intel xeon e5240 @ 3.00ghz,1448
+intel xeon e5310 @ 1.60ghz,1306
+intel xeon e5320 @ 1.86ghz,1469
+intel xeon e5335 @ 2.00ghz,1549
+intel xeon e5345 @ 2.33ghz,1868
+intel xeon e5405 @ 2.00ghz,1753
+intel xeon e5410 @ 2.33ghz,2032
+intel xeon e5420 @ 2.50ghz,2022
+intel xeon e5430 @ 2.66ghz,2251
+intel xeon e5440 @ 2.83ghz,2367
+intel xeon e5450 @ 3.00ghz,2573
+intel xeon e5462 @ 2.80ghz,2231
+intel xeon e5472 @ 3.00ghz,2333
+intel xeon e5502 @ 1.87ghz,837
+intel xeon e5503 @ 2.00ghz,804
+intel xeon e5504 @ 2.00ghz,1489
+intel xeon e5506 @ 2.13ghz,1961
+intel xeon e5507 @ 2.27ghz,1905
+intel xeon e5520 @ 2.27ghz,2533
+intel xeon e5530 @ 2.40ghz,2739
+intel xeon e5540 @ 2.53ghz,2805
+intel xeon e5603 @ 1.60ghz,1935
+intel xeon e5606 @ 2.13ghz,2443
+intel xeon e5607 @ 2.27ghz,2686
+intel xeon e5620 @ 2.40ghz,3621
+intel xeon e5630 @ 2.53ghz,3773
+intel xeon e5640 @ 2.67ghz,3880
+intel xeon e5645 @ 2.40ghz,4972
+intel xeon e5649 @ 2.53ghz,5659
+intel xeon e7- 2830 @ 2.13ghz,2027
+intel xeon e7-4809 v2 @ 1.90ghz,16471
+intel xeon e7-8880 v3 @ 2.30ghz,18244
+intel xeon e7-8891 v3 @ 2.80ghz,21615
+intel xeon e7320 @ 2.13ghz,1469
+intel xeon gold 5115 @ 2.40ghz,14875
+intel xeon gold 5117 @ 2.00ghz,16897
+intel xeon gold 5118 @ 2.30ghz,16815
+intel xeon gold 5120 @ 2.20ghz,18132
+intel xeon gold 5120t @ 2.20ghz,18127
+intel xeon gold 5122 @ 3.60ghz,8883
+intel xeon gold 5215 @ 2.20ghz,16304
+intel xeon gold 5215 @ 2.50ghz,15719
+intel xeon gold 5217 @ 3.00ghz,15429
+intel xeon gold 5218 @ 2.30ghz,21728
+intel xeon gold 5218r @ 2.10ghz,25000
+intel xeon gold 5218t @ 2.10ghz,21433
+intel xeon gold 5220 @ 2.20ghz,24154
+intel xeon gold 5220r @ 2.20ghz,30372
+intel xeon gold 5222 @ 3.80ghz,9483
+intel xeon gold 5315y @ 3.20ghz,20477
+intel xeon gold 5317 @ 3.00ghz,27448
+intel xeon gold 5318h @ 2.50ghz,29301
+intel xeon gold 5318y @ 2.10ghz,33139
+intel xeon gold 5320 @ 2.20ghz,37558
+intel xeon gold 5320h @ 2.40ghz,31718
+intel xeon gold 5412u,52218
+intel xeon gold 5415+,24849
+intel xeon gold 5416s,35814
+intel xeon gold 5418y,45660
+intel xeon gold 5420+,58209
+intel xeon gold 5512u,60347
+intel xeon gold 5515+,26501
+intel xeon gold 5520+,61227
+intel xeon gold 6122 @ 1.80ghz,23781
+intel xeon gold 6126 @ 2.60ghz,17492
+intel xeon gold 6126t @ 2.60ghz,19424
+intel xeon gold 6128 @ 3.40ghz,12874
+intel xeon gold 6130 @ 2.10ghz,21490
+intel xeon gold 6130t @ 2.10ghz,21804
+intel xeon gold 6132 @ 2.60ghz,22326
+intel xeon gold 6134 @ 3.20ghz,16523
+intel xeon gold 6136 @ 3.00ghz,20973
+intel xeon gold 6137 @ 3.90ghz,19365
+intel xeon gold 6138 @ 2.00ghz,23850
+intel xeon gold 6138t @ 2.00ghz,20356
+intel xeon gold 6140 @ 2.30ghz,23927
+intel xeon gold 6142 @ 2.60ghz,25490
+intel xeon gold 6143 @ 2.80ghz,24786
+intel xeon gold 6144 @ 3.50ghz,17992
+intel xeon gold 6146 @ 3.20ghz,23388
+intel xeon gold 6148 @ 2.40ghz,29116
+intel xeon gold 6150 @ 2.70ghz,26447
+intel xeon gold 6152 @ 2.10ghz,24287
+intel xeon gold 6154 @ 3.00ghz,27560
+intel xeon gold 6208u @ 2.90ghz,24670
+intel xeon gold 6210u @ 2.50ghz,28219
+intel xeon gold 6212u @ 2.40ghz,27470
+intel xeon gold 6222v @ 1.80ghz,24254
+intel xeon gold 6226 @ 2.70ghz,20619
+intel xeon gold 6226r @ 2.90ghz,26405
+intel xeon gold 6230 @ 2.10ghz,26076
+intel xeon gold 6230r @ 2.10ghz,33608
+intel xeon gold 6234 @ 3.30ghz,17752
+intel xeon gold 6238 @ 2.10ghz,29118
+intel xeon gold 6238r @ 2.20ghz,34751
+intel xeon gold 6240 @ 2.60ghz,24677
+intel xeon gold 6240r @ 2.40ghz,33353
+intel xeon gold 6242 @ 2.80ghz,24994
+intel xeon gold 6242r @ 3.10ghz,36671
+intel xeon gold 6244 @ 3.60ghz,18734
+intel xeon gold 6246 @ 3.30ghz,22571
+intel xeon gold 6246r @ 3.40ghz,30468
+intel xeon gold 6248 @ 2.50ghz,29570
+intel xeon gold 6248r @ 3.00ghz,35434
+intel xeon gold 6250 @ 3.90ghz,20552
+intel xeon gold 6252 @ 2.10ghz,27148
+intel xeon gold 6253cl @ 3.10ghz,28549
+intel xeon gold 6254 @ 3.10ghz,32599
+intel xeon gold 6256 @ 3.60ghz,23287
+intel xeon gold 6258r @ 2.70ghz,40252
+intel xeon gold 6262 @ 1.90ghz,21823
+intel xeon gold 6266c @ 3.00ghz,29049
+intel xeon gold 6268cl @ 2.80ghz,34558
+intel xeon gold 6278c @ 2.60ghz,32835
+intel xeon gold 6312u @ 2.40ghz,42443
+intel xeon gold 6314u @ 2.30ghz,48916
+intel xeon gold 6326 @ 2.90ghz,33882
+intel xeon gold 6330 @ 2.00ghz,42072
+intel xeon gold 6330n @ 2.20ghz,36360
+intel xeon gold 6334 @ 3.60ghz,20512
+intel xeon gold 6336y @ 2.40ghz,45517
+intel xeon gold 6338 @ 2.00ghz,38520
+intel xeon gold 6338n @ 2.20ghz,42086
+intel xeon gold 6338t @ 2.10ghz,35801
+intel xeon gold 6342 @ 2.80ghz,47076
+intel xeon gold 6346 @ 3.10ghz,37727
+intel xeon gold 6348 @ 2.60ghz,51843
+intel xeon gold 6354 @ 3.00ghz,39400
+intel xeon gold 6414u,57200
+intel xeon gold 6416h,40606
+intel xeon gold 6418h,51711
+intel xeon gold 6421n,58797
+intel xeon gold 6423n,57434
+intel xeon gold 6426y,38783
+intel xeon gold 6430,51490
+intel xeon gold 6434,28111
+intel xeon gold 6438n,52789
+intel xeon gold 6438y+,62660
+intel xeon gold 6442y,58534
+intel xeon gold 6444y,47176
+intel xeon gold 6448h,70292
+intel xeon gold 6448y,60449
+intel xeon gold 6450c,38571
+intel xeon gold 6526y,45036
+intel xeon gold 6530,55177
+intel xeon gold 6534,29494
+intel xeon gold 6538n,44895
+intel xeon gold 6542y,59047
+intel xeon gold 6544y,50319
+intel xeon gold 6548y+,70439
+intel xeon gold 6554s,50777
+intel xeon l3110 @ 3.00ghz,1338
+intel xeon l3360 @ 2.83ghz,2412
+intel xeon l3406 @ 2.27ghz,1104
+intel xeon l3426 @ 1.87ghz,2742
+intel xeon l5240 @ 3.00ghz,1337
+intel xeon l5310 @ 1.60ghz,1385
+intel xeon l5320 @ 1.86ghz,1118
+intel xeon l5335 @ 2.00ghz,1737
+intel xeon l5408 @ 2.13ghz,1769
+intel xeon l5410 @ 2.33ghz,1853
+intel xeon l5420 @ 2.50ghz,2143
+intel xeon l5430 @ 2.66ghz,2260
+intel xeon l5520 @ 2.27ghz,2274
+intel xeon l5530 @ 2.40ghz,2522
+intel xeon l5609 @ 1.87ghz,3298
+intel xeon l5630 @ 2.13ghz,3048
+intel xeon l5638 @ 2.00ghz,3707
+intel xeon l5639 @ 2.13ghz,4419
+intel xeon l5640 @ 2.27ghz,4645
+intel xeon l7455 @ 2.13ghz,2494
+intel xeon max 9480,84512
+intel xeon mv 3.20ghz,756
+intel xeon phi 7210 @ 1.30ghz,7306
+intel xeon phi 7290 @ 1.50ghz,17839
+intel xeon platinum 8124m @ 3.00ghz,25350
+intel xeon platinum 8151 @ 3.40ghz,16208
+intel xeon platinum 8160 @ 2.10ghz,28900
+intel xeon platinum 8167m @ 2.00ghz,25396
+intel xeon platinum 8168 @ 2.70ghz,32373
+intel xeon platinum 8171m @ 2.60ghz,29613
+intel xeon platinum 8173m @ 2.00ghz,28025
+intel xeon platinum 8175m @ 2.50ghz,26659
+intel xeon platinum 8176 @ 2.10ghz,23179
+intel xeon platinum 8180 @ 2.50ghz,38259
+intel xeon platinum 8180m @ 2.50ghz,30313
+intel xeon platinum 8252c @ 3.80ghz,28147
+intel xeon platinum 8259cl @ 2.50ghz,31403
+intel xeon platinum 8260 @ 2.40ghz,30347
+intel xeon platinum 8260c @ 2.40ghz,34420
+intel xeon platinum 8260m @ 2.30ghz,33970
+intel xeon platinum 8260m @ 2.40ghz,34592
+intel xeon platinum 8268 @ 2.90ghz,34604
+intel xeon platinum 8270 @ 2.70ghz,29986
+intel xeon platinum 8273cl @ 2.20ghz,37320
+intel xeon platinum 8275cl @ 3.00ghz,40794
+intel xeon platinum 8280 @ 2.70ghz,36830
+intel xeon platinum 8347c @ 2.10ghz,49386
+intel xeon platinum 8358 @ 2.60ghz,54416
+intel xeon platinum 8360y @ 2.40ghz,54078
+intel xeon platinum 8362 @ 2.80ghz,56787
+intel xeon platinum 8368q @ 2.60ghz,46681
+intel xeon platinum 8375c @ 2.90ghz,56202
+intel xeon platinum 8380 @ 2.30ghz,62318
+intel xeon platinum 8454h,62347
+intel xeon platinum 8461v,74982
+intel xeon platinum 8470 @2.00ghz,89850
+intel xeon platinum 8475b,3280
+intel xeon platinum 8481c @ 2.70ghz,11681
+intel xeon platinum 8488c,88667
+intel xeon platinum 8571n,68385
+intel xeon platinum 8575c,3342
+intel xeon platinum 8581c @ 2.30ghz,8040
+intel xeon platinum 8592+,84013
+intel xeon platinum p-8124 @ 3.00ghz,22674
+intel xeon silver 4108 @ 1.80ghz,9131
+intel xeon silver 4109t @ 2.00ghz,10348
+intel xeon silver 4110 @ 2.10ghz,10306
+intel xeon silver 4112 @ 2.60ghz,6521
+intel xeon silver 4114 @ 2.20ghz,13086
+intel xeon silver 4116 @ 2.10ghz,14918
+intel xeon silver 4116t @ 2.10ghz,15187
+intel xeon silver 4123 @ 3.00ghz,14405
+intel xeon silver 4208 @ 2.10ghz,11095
+intel xeon silver 4209t @ 2.20ghz,11080
+intel xeon silver 4210 @ 2.20ghz,13652
+intel xeon silver 4210r @ 2.40ghz,15138
+intel xeon silver 4214 @ 2.20ghz,16320
+intel xeon silver 4214r @ 2.40ghz,17834
+intel xeon silver 4214y @ 2.20ghz,16442
+intel xeon silver 4215 @ 2.50ghz,13854
+intel xeon silver 4215r @ 3.20ghz,15002
+intel xeon silver 4216 @ 2.10ghz,20877
+intel xeon silver 4216r @ 2.20ghz,24027
+intel xeon silver 4309y @ 2.80ghz,18624
+intel xeon silver 4310 @ 2.10ghz,21903
+intel xeon silver 4310t @ 2.30ghz,20607
+intel xeon silver 4314 @ 2.40ghz,29095
+intel xeon silver 4316 @ 2.30ghz,31892
+intel xeon silver 4410t,28955
+intel xeon silver 4410y,24797
+intel xeon silver 4416+,44140
+intel xeon silver 4509y,18749
+intel xeon silver 4510,33004
+intel xeon silver 4510t,29119
+intel xeon silver 4514y,29032
+intel xeon w-10855m @ 2.80ghz,12364
+intel xeon w-10885m @ 2.40ghz,15505
+intel xeon w-11155mle @ 1.80ghz,8502
+intel xeon w-11555mle @ 1.90ghz,11864
+intel xeon w-11555mre @ 2.60ghz,17484
+intel xeon w-11855m @ 3.20ghz,17720
+intel xeon w-11865mle @ 1.50ghz,15917
+intel xeon w-11865mre @ 2.60ghz,19589
+intel xeon w-11955m @ 2.60ghz,21815
+intel xeon w-1250 @ 3.30ghz,13725
+intel xeon w-1250e @ 3.50ghz,12039
+intel xeon w-1250p @ 4.10ghz,14108
+intel xeon w-1270 @ 3.40ghz,17513
+intel xeon w-1270e @ 3.40ghz,18635
+intel xeon w-1270p @ 3.80ghz,17504
+intel xeon w-1270te @ 2.00ghz,13553
+intel xeon w-1290 @ 3.20ghz,20079
+intel xeon w-1290e @ 3.50ghz,19060
+intel xeon w-1290p @ 3.70ghz,22357
+intel xeon w-1290t @ 1.90ghz,18409
+intel xeon w-1290te @ 1.80ghz,14505
+intel xeon w-1350 @ 3.30ghz,18781
+intel xeon w-1350p @ 4.00ghz,19611
+intel xeon w-1370 @ 2.90ghz,22926
+intel xeon w-1370p @ 3.60ghz,23109
+intel xeon w-1390 @ 2.80ghz,23902
+intel xeon w-1390p @ 3.50ghz,25122
+intel xeon w-2102 @ 2.90ghz,5022
+intel xeon w-2104 @ 3.20ghz,5527
+intel xeon w-2123 @ 3.60ghz,8519
+intel xeon w-2125 @ 4.00ghz,10025
+intel xeon w-2133 @ 3.60ghz,12666
+intel xeon w-2135 @ 3.70ghz,14416
+intel xeon w-2140b @ 3.20ghz,17317
+intel xeon w-2145 @ 3.70ghz,18001
+intel xeon w-2150b @ 3.00ghz,20543
+intel xeon w-2155 @ 3.30ghz,21010
+intel xeon w-2170b @ 2.50ghz,24448
+intel xeon w-2175 @ 2.50ghz,23449
+intel xeon w-2191b @ 2.30ghz,28307
+intel xeon w-2195 @ 2.30ghz,27914
+intel xeon w-2223 @ 3.60ghz,8576
+intel xeon w-2225 @ 4.10ghz,10458
+intel xeon w-2235 @ 3.80ghz,14276
+intel xeon w-2245 @ 3.90ghz,19449
+intel xeon w-2255 @ 3.70ghz,22439
+intel xeon w-2265 @ 3.50ghz,25633
+intel xeon w-2275 @ 3.30ghz,27994
+intel xeon w-2295 @ 3.00ghz,30924
+intel xeon w-3175x @ 3.10ghz,46125
+intel xeon w-3223 @ 3.50ghz,17014
+intel xeon w-3225 @ 3.70ghz,18251
+intel xeon w-3235 @ 3.30ghz,25539
+intel xeon w-3245 @ 3.20ghz,31091
+intel xeon w-3245m @ 3.20ghz,28067
+intel xeon w-3265 @ 2.70ghz,30105
+intel xeon w-3265m @ 2.70ghz,34147
+intel xeon w-3275 @ 2.50ghz,41331
+intel xeon w-3275m @ 2.50ghz,40419
+intel xeon w-3323 @ 3.50ghz,27822
+intel xeon w-3335 @ 3.40ghz,39293
+intel xeon w-3345 @ 3.00ghz,47664
+intel xeon w-3365 @ 2.70ghz,57312
+intel xeon w-3375 @ 2.50ghz,59091
+intel xeon w3-2423,15622
+intel xeon w3-2425,18695
+intel xeon w3-2435,26409
+intel xeon w3-2525,28167
+intel xeon w3-2535,35297
+intel xeon w3503 @ 2.40ghz,1124
+intel xeon w3505 @ 2.53ghz,1163
+intel xeon w3520 @ 2.67ghz,2930
+intel xeon w3530 @ 2.80ghz,3067
+intel xeon w3540 @ 2.93ghz,3143
+intel xeon w3550 @ 3.07ghz,3247
+intel xeon w3565 @ 3.20ghz,3387
+intel xeon w3570 @ 3.20ghz,3267
+intel xeon w3580 @ 3.33ghz,3638
+intel xeon w3670 @ 3.20ghz,6428
+intel xeon w3680 @ 3.33ghz,7026
+intel xeon w3690 @ 3.47ghz,7188
+intel xeon w5-2445,32241
+intel xeon w5-2455x,37268
+intel xeon w5-2465x,45515
+intel xeon w5-2545,41133
+intel xeon w5-2555x,47638
+intel xeon w5-2565x,51726
+intel xeon w5-3423,28151
+intel xeon w5-3425,36147
+intel xeon w5-3433,31275
+intel xeon w5-3435x,45790
+intel xeon w5-3525,44914
+intel xeon w5-3535x,52774
+intel xeon w5580 @ 3.20ghz,3459
+intel xeon w5590 @ 3.33ghz,3342
+intel xeon w7-2475x,53241
+intel xeon w7-2495x,57255
+intel xeon w7-2575x,57924
+intel xeon w7-2595x,65092
+intel xeon w7-3445,48965
+intel xeon w7-3455,54672
+intel xeon w7-3465x,62564
+intel xeon w7-3545,58514
+intel xeon w7-3565x,73318
+intel xeon w9-3475x,64923
+intel xeon w9-3495x,91053
+intel xeon w9-3575x,82620
+intel xeon w9-3595x,102934
+intel xeon x3210 @ 2.13ghz,1293
+intel xeon x3220 @ 2.40ghz,1973
+intel xeon x3230 @ 2.66ghz,2052
+intel xeon x3320 @ 2.50ghz,2034
+intel xeon x3323 @ 2.50ghz,2030
+intel xeon x3330 @ 2.66ghz,2102
+intel xeon x3350 @ 2.66ghz,2263
+intel xeon x3353 @ 2.66ghz,2283
+intel xeon x3360 @ 2.83ghz,2424
+intel xeon x3363 @ 2.83ghz,2382
+intel xeon x3370 @ 3.00ghz,2534
+intel xeon x3380 @ 3.16ghz,2568
+intel xeon x3430 @ 2.40ghz,2307
+intel xeon x3440 @ 2.53ghz,2763
+intel xeon x3450 @ 2.67ghz,2871
+intel xeon x3460 @ 2.80ghz,2972
+intel xeon x3470 @ 2.93ghz,3317
+intel xeon x3480 @ 3.07ghz,3273
+intel xeon x5260 @ 3.33ghz,1278
+intel xeon x5270 @ 3.50ghz,1524
+intel xeon x5272 @ 3.40ghz,1451
+intel xeon x5355 @ 2.66ghz,2033
+intel xeon x5365 @ 3.00ghz,2331
+intel xeon x5450 @ 3.00ghz,2411
+intel xeon x5460 @ 3.16ghz,2582
+intel xeon x5470 @ 3.33ghz,2869
+intel xeon x5472 @ 3.00ghz,2197
+intel xeon x5482 @ 3.20ghz,2755
+intel xeon x5492 @ 3.40ghz,2912
+intel xeon x5550 @ 2.67ghz,3036
+intel xeon x5560 @ 2.80ghz,3221
+intel xeon x5570 @ 2.93ghz,3317
+intel xeon x5647 @ 2.93ghz,4441
+intel xeon x5650 @ 2.67ghz,5742
+intel xeon x5660 @ 2.80ghz,5979
+intel xeon x5667 @ 3.07ghz,4697
+intel xeon x5670 @ 2.93ghz,6145
+intel xeon x5672 @ 3.20ghz,5036
+intel xeon x5675 @ 3.07ghz,6405
+intel xeon x5677 @ 3.47ghz,5054
+intel xeon x5679 @ 3.20ghz,7095
+intel xeon x5680 @ 3.33ghz,6905
+intel xeon x5687 @ 3.60ghz,5367
+intel xeon x5690 @ 3.47ghz,7024
+intel xeon x5698 @ 4.40ghz,3447
+intel xeon x6550 @ 2.00ghz,1936
+jlq jr510,1047
+"lisa based qualcomm technologies, inc. sm7325",5456
+m7221,760
+manta,356
+"mars based on qualcomm technologies, inc sm8350",5230
+mediatek dimensity 1000+ (mt6889),4892
+mediatek dimensity 7025 (mt6855),4576
+mediatek dimensity 7200-pro (mt6886),4752
+mediatek dimensity 7300-ultra (mt6878),6167
+mediatek dimensity 8200-ultimate (mt6896),7398
+mediatek dimensity 8350 (mt6897),7359
+mediatek dimensity 8400-turbo (mt6899),8782
+mediatek dimensity 900 (mt6877),4863
+mediatek dimensity 9200 (mt6985),8018
+mediatek dimensity 9400 (mt6991),12506
+mediatek dm700,4471
+mediatek g70 (mt6769v/cb),2441
+mediatek g70 (mt6769v/wb),2192
+mediatek g80 (mt6769t),2592
+mediatek g80 (mt6769v/ct),2498
+mediatek g80 (mt6769v/cu),2717
+mediatek g85 (mt6769z),2760
+mediatek g88 (mt6769h),2736
+mediatek g99 ultimate (mt6789),4212
+mediatek kompanio 520/528 (mt8186/mt8186t),3706
+mediatek mt6735,581
+mediatek mt6737,471
+mediatek mt6737m,427
+mediatek mt6737t,697
+mediatek mt6739,621
+mediatek mt6739w,251
+mediatek mt6739wa,408
+mediatek mt6739ww,460
+mediatek mt6750,1052
+mediatek mt6750t,1187
+mediatek mt6750v/wt,1153
+mediatek mt6753,954
+mediatek mt6753t,1149
+mediatek mt6757cd,1782
+mediatek mt6757v,1804
+mediatek mt6761,1062
+mediatek mt6761v/cab,1074
+mediatek mt6761v/wbb,798
+mediatek mt6761v/wd,762
+mediatek mt6761v/we,757
+mediatek mt6762,1782
+mediatek mt6762g,1243
+mediatek mt6762v/ca,1308
+mediatek mt6762v/cb,1644
+mediatek mt6762v/cn,637
+mediatek mt6762v/wa,1476
+mediatek mt6762v/wb,1480
+mediatek mt6762v/wd,1593
+mediatek mt6762v/wr,1546
+mediatek mt6763v/ce,2130
+mediatek mt6763v/v,1578
+mediatek mt6765,1704
+mediatek mt6765g,1675
+mediatek mt6765h,2052
+mediatek mt6765v/ca,1847
+mediatek mt6765v/cb,1906
+mediatek mt6765v/wa,2186
+mediatek mt6765v/wb,1801
+mediatek mt6765v/xba,1738
+mediatek mt6768,2709
+mediatek mt6768g,3232
+mediatek mt6768v/ca,2346
+mediatek mt6769,2821
+mediatek mt6769v/cb,2838
+mediatek mt6771v/c,2673
+mediatek mt6771v/ct,2673
+mediatek mt6771v/w,2452
+mediatek mt6771v/wm,2267
+mediatek mt6771v/wt,2387
+mediatek mt6779,3423
+mediatek mt6779v/ce,3112
+mediatek mt6779v/cu,2683
+mediatek mt6779v/cv,2712
+mediatek mt6781,3852
+mediatek mt6781v/cd,4040
+mediatek mt6781v/cdzamb-h,4160
+mediatek mt6785,3704
+mediatek mt6785v/cc,3417
+mediatek mt6785v/cd,3652
+mediatek mt6789v/cd,4267
+mediatek mt6797,1903
+mediatek mt6797t,1605
+mediatek mt6797x,2212
+mediatek mt6833,4111
+mediatek mt6833g,4532
+mediatek mt6833gp,4433
+mediatek mt6833p,3745
+mediatek mt6833v/nza,3611
+mediatek mt6833v/pnza,4085
+mediatek mt6833v/za,4223
+mediatek mt6853t,3508
+mediatek mt6853v/nza,3936
+mediatek mt6853v/tnza,4171
+mediatek mt6873,4074
+mediatek mt6875,5258
+mediatek mt6877v/ttza,4946
+mediatek mt6877v/tza,4660
+mediatek mt6879v/za,4662
+mediatek mt6879v_t/za,5184
+mediatek mt6883z/cza,5914
+mediatek mt6891,5435
+mediatek mt6891z/cza,6644
+mediatek mt6891z_t/cza,7171
+mediatek mt6891z_z/cza,6525
+mediatek mt6893,6374
+mediatek mt6893z_t/cza,6319
+mediatek mt6895,7615
+mediatek mt6895z/tcza,6732
+mediatek mt6895z_a/tcza,7554
+mediatek mt6895z_b/tcza,7044
+mediatek mt6983,6761
+mediatek mt6983w/cza,9136
+mediatek mt6983z/cza,7726
+mediatek mt6989,10893
+mediatek mt8163,630
+mediatek mt8166b,971
+mediatek mt8167b,403
+mediatek mt8168,1029
+mediatek mt8168a,712
+mediatek mt8168b,795
+mediatek mt8173,1366
+mediatek mt8175b,592
+mediatek mt8183,2580
+mediatek mt8188,3144
+mediatek mt8192,5172
+mediatek mt8195,8419
+mediatek mt8195av,6251
+mediatek mt8365,1156
+mediatek mt8370av/a,4107
+mediatek mt8390av/a,4884
+mediatek mt8696,740
+mediatek mt8735b,418
+mediatek mt8755,4859
+mediatek mt8765wa,569
+mediatek mt8766a,979
+mediatek mt8766b,1124
+mediatek mt8768,1957
+mediatek mt8768a,1524
+mediatek mt8768ca,1978
+mediatek mt8768ct,2042
+mediatek mt8768cx,2274
+mediatek mt8768n,2382
+mediatek mt8768wa,1711
+mediatek mt8768we,1667
+mediatek mt8768wt,1999
+mediatek mt8771v/pza,4414
+mediatek mt8781v/ca,4107
+mediatek mt8781v/na,4283
+mediatek mt8786,2560
+mediatek mt8786v/ct,3100
+mediatek mt8786v/n,3180
+mediatek mt8788,3329
+mediatek mt8789,6640
+mediatek mt8789v/ct,3946
+mediatek mt8789v/t,4199
+mediatek mt8791,5521
+mediatek mt8791v/hza,4882
+mediatek mt8791v/tn,4809
+mediatek mt8791v/tza,2284
+mediatek mt8792,8032
+mediatek mt8797z/cnza,7264
+mediatek mt8798z/cnza,9110
+mediatek t50,948
+microsoft sq1 @ 3.0 ghz,5998
+microsoft sq2 @ 3.15 ghz,6560
+microsoft sq3 @ 3.0 ghz,11828
+mobile amd athlon 2500+,241
+mobile amd athlon 4 2400+,233
+mobile amd athlon 64 3200+,326
+mobile amd athlon 64 3400+,333
+mobile amd athlon 64 3700+,356
+mobile amd athlon 64 4000+,313
+mobile amd athlon mp-m 1800+,173
+mobile amd athlon mp-m 2400+,192
+mobile amd athlon xp-m 1600+,169
+mobile amd athlon xp-m 1800+,193
+mobile amd athlon xp-m 2000+,196
+mobile amd athlon xp-m 2200+,237
+mobile amd athlon xp-m 2400+,225
+mobile amd athlon xp-m 2500+,226
+mobile amd athlon xp-m 2600+,241
+mobile amd athlon xp-m 2800+,238
+mobile amd athlon xp-m 3000+,238
+mobile amd sempron 2100+,164
+mobile amd sempron 2600+,256
+mobile amd sempron 2800+,237
+mobile amd sempron 3000+,269
+mobile amd sempron 3100+,277
+mobile amd sempron 3200+,245
+mobile amd sempron 3300+,294
+mobile amd sempron 3400+,269
+mobile amd sempron 3500+,269
+mobile amd sempron 3600+,284
+mobile amd sempron 3800+,335
+mobile intel celeron 1.70ghz,118
+mobile intel celeron 1.80ghz,121
+mobile intel celeron 1333mhz,183
+mobile intel celeron 2.00ghz,133
+mobile intel celeron 2.20ghz,147
+mobile intel celeron 2.40ghz,154
+mobile intel pentium 4 - m 1.70ghz,121
+mobile intel pentium 4 - m 1.80ghz,119
+mobile intel pentium 4 - m 2.00ghz,138
+mobile intel pentium 4 - m 2.20ghz,143
+mobile intel pentium 4 - m 2.40ghz,139
+mobile intel pentium 4 2.66ghz,182
+mobile intel pentium 4 2.80ghz,205
+mobile intel pentium 4 3.06ghz,220
+mobile intel pentium 4 3.20ghz,232
+mobile intel pentium 4 3.33ghz,344
+mobile intel pentium iii - m 1200mhz,146
+mobile intel pentium iii - m 933mhz,130
+mocha,1125
+montage jintide c4215r,14672
+montage jintide c5418y,49045
+msm8960dt,306
+mt3561s,723
+mt5893,702
+mt6580,394
+mt6592,521
+mt6592t,1056
+mt6735m,308
+mt6735p,384
+mt6737h,528
+mt6738,692
+mt6739ch,533
+mt6739cw,545
+mt6739wm,338
+mt6750v/c,1386
+mt6750v/cs,955
+mt6750v/ct,1544
+mt6750v/dn,1271
+mt6750v/w,845
+mt6750v/ws,934
+mt6752,1728
+mt6752m,1735
+mt6755,1278
+mt6755bm,1070
+mt6755m,1229
+mt6755v/b,1530
+mt6755v/bm,1336
+mt6755v/c,1554
+mt6755v/cm,1368
+mt6755v/w,1608
+mt6755v/wm,1090
+mt6755v/ws,1389
+mt6757w,1941
+mt6757wd,1771
+mt6757wh,1161
+mt6761v/cab,818
+mt6761v/cbb,910
+mt6761v/cd,784
+mt6761v/wab,816
+mt6761v/wd,580
+mt6762,1735
+mt6762m,538
+mt6762v/cr,1022
+mt6763v/b,1633
+mt6763v/ct,1817
+mt6763v/wt,1375
+mt6765,1845
+mt6765h,2132
+mt6765v/wa,1808
+mt6765v/wb,1918
+mt6768g,2838
+mt6769v,2229
+mt6771v/cl,3079
+mt6771v/wl,2299
+mt6779,2251
+mt6781,3878
+mt6781v/cd,3969
+mt6785,3558
+mt6795,1197
+mt6795m,968
+mt6795mm,618
+mt6795t,1007
+mt6797d,758
+mt6797m,2162
+mt6833,3784
+mt6833gp,3238
+mt6833p,4158
+mt6833v/nza,3644
+mt6833v/pnza,4178
+mt6833v/za,4091
+mt6853v/nza,3330
+mt6853v/tnza,3616
+mt6853v/za,3505
+mt6875,4393
+mt6877t,4548
+mt6877v/ttza,5253
+mt6877v/tza,4824
+mt6883z/cza,5665
+mt6891,5817
+mt6891z/cza,6025
+mt6893,5102
+mt6893z/cza,6467
+mt6893z_a/cza,6050
+mt6893z_b/cza,6371
+mt6893z_c/cza,6139
+mt6893z_d/cza,5701
+mt6893z_z/cza,6485
+mt6969t,2228
+mt8127,429
+mt8161a,818
+mt8161aa,857
+mt8161ab,700
+mt8161p,542
+mt8165,962
+mt8167a,478
+mt8167d,532
+mt8168b,1056
+mt8168m,879
+mt8169a,2019
+mt8173,804
+mt8175b,1199
+mt8176,1406
+mt8188jv/a,5130
+mt8195av/za,5735
+mt8365,889
+mt8395av/za,2410
+mt8667,3235
+mt8696,738
+mt8732t,1081
+mt8735,662
+mt8735a,655
+mt8735m,388
+mt8735p,572
+mt8735t,704
+mt8765wa,567
+mt8765wb,454
+mt8766a,956
+mt8766b,832
+mt8768ca,1912
+mt8768wb,1074
+mt8768wd,1122
+mt8768we,1350
+mt8771v/pza,4723
+mt8783,1039
+mt8786v/ca,3128
+mt8786v/n,2992
+mt8788,2756
+mt8789v/ct,4119
+mt8789v/t,4104
+mt8797z/cnza,6550
+mt9950,845
+mtk6757,1158
+mtk8257,842
+nakamichi,353
+neoverse-n1,117
+nvidia tegra t132,1242
+nvidia tegra t210,1746
+nxp imx8mp,918
+nxp imx8mq,831
+"odin based on qualcomm technologies, inc sm8350",6455
+omap4 espresso board,98
+p22,1908
+pentium dual-core e6000 @ 3.46ghz,1472
+pentium dual-core t4200 @ 2.00ghz,775
+pentium dual-core t4300 @ 2.10ghz,903
+pentium dual-core t4500 @ 2.30ghz,955
+pxa1908,486
+qct apq8064 awifi,382
+qct apq8064 deb,453
+qct apq8064 flo,553
+qct apq8064 mako,399
+qct apq8064 mtp,389
+qti msm8937,2142
+qti msm8953,2065
+qti qcm2290,1078
+qti qcm4290,2512
+qti qcm4325,2526
+qti qcm4490,5132
+qti qcm5430,4006
+qti qcs4490,5179
+qti qcs5430,3760
+qti qcs8550,10487
+qti qm215,563
+qti sdm439,1560
+qti sdm450,1655
+qti sdm660,2610
+qti sdm845,3713
+qti sg4250p,5191
+qti sg8175p,6713
+qti sg8275,10036
+qti sm4250,2631
+qti sm4350,3710
+qti sm4375,3875
+qti sm4450,4195
+qti sm4635,3618
+qti sm611,3085
+qti sm6115,2894
+qti sm6125,2876
+qti sm6150,3367
+qti sm6225,3477
+qti sm6350,4120
+qti sm6375,4187
+qti sm6450,5869
+qti sm6450p,6321
+qti sm6475,5998
+qti sm6650,6180
+qti sm7125,3892
+qti sm7150,3730
+qti sm7225,4296
+qti sm7250,4216
+qti sm7325,5923
+qti sm7350,5634
+qti sm7435,5684
+qti sm7450,5532
+qti sm7475,7247
+qti sm7550,6761
+qti sm7635,6106
+qti sm7675,8714
+qti sm8150,5353
+qti sm8250,6590
+qti sm8350,6491
+qti sm8450,6411
+qti sm8475,7325
+qti sm8550,9067
+qti sm8635,8245
+qti sm8650,11414
+qti sm8735,10467
+qti sm8750,12192
+qualcomm,1354
+qualcomm apq 8084 (flattened device tree),741
+qualcomm apq8026,330
+qualcomm apq8084,605
+qualcomm msm 8939 huawei kiw-l21,1088
+qualcomm msm 8939 huawei kiw-l24,1065
+qualcomm msm 8939 huawei texas-a1,1085
+qualcomm msm 8974 hammerhead (flattened device tre,566
+qualcomm msm8212,378
+qualcomm msm8226,344
+qualcomm msm8228,332
+qualcomm msm8626,294
+qualcomm msm8916,424
+qualcomm msm8917,656
+qualcomm msm8926,310
+qualcomm msm8928,367
+qualcomm msm8937,1047
+qualcomm msm8939,1180
+qualcomm msm8953,1589
+qualcomm msm8956,2127
+qualcomm msm8974,736
+qualcomm msm8974pro-aa,721
+qualcomm msm8974pro-ab,692
+qualcomm msm8974pro-ac,661
+qualcomm msm8976,1749
+qualcomm msm8992,1268
+qualcomm msm8994,785
+qualcomm msm8996,1455
+qualcomm msm8996pro-ab,1667
+qualcomm msm8998,3541
+qualcomm qcm6490,6068
+qualcomm qcs5430,4219
+qualcomm qcs6490,6200
+qualcomm sa8155p,4257
+qualcomm sa8195p,5348
+qualcomm sa8255p,6425
+qualcomm sc7180,3584
+qualcomm sc7180p,4409
+qualcomm sdm439,2195
+qualcomm sdm450,2808
+qualcomm sdm630,2429
+qualcomm sdm660,2444
+qualcomm sdm670,3254
+qualcomm sdm845,4396
+qualcomm sm4250,2550
+qualcomm sm4350,3599
+qualcomm sm6115,3107
+qualcomm sm6125,2938
+qualcomm sm6150,3509
+qualcomm sm6225,3781
+qualcomm sm6375,4713
+qualcomm sm7125,3788
+qualcomm sm7150,4093
+qualcomm sm7250,3959
+qualcomm sm7325,6068
+qualcomm sm8150,5732
+qualcomm sm8250,6700
+qualcomm sm8350,6552
+qualcomm snapdragon 808 (8992),720
+qualcomm snapdragon 810,1316
+qualcomm snapdragon x elite - x1e-78-100,22889
+qualcomm snapdragon x elite - x1e-80-100,23004
+qualcomm snapdragon x elite - x1e-84-100,25101
+qualcomm snapdragon x elite - x1e001de,31863
+qualcomm snapdragon x plus x1p-64-100,21529
+"qualcomm technologies, inc",3865
+"qualcomm technologies, inc 450",1978
+"qualcomm technologies, inc apq8009",346
+"qualcomm technologies, inc apq8016",406
+"qualcomm technologies, inc apq8017",546
+"qualcomm technologies, inc apq8053",2123
+"qualcomm technologies, inc apq8076",1673
+"qualcomm technologies, inc apq8094",1564
+"qualcomm technologies, inc apq8096",1754
+"qualcomm technologies, inc apq8096pro",730
+"qualcomm technologies, inc atoll-ab",3479
+"qualcomm technologies, inc bengal",2452
+"qualcomm technologies, inc bengal-iot",2175
+"qualcomm technologies, inc bengalp",2636
+"qualcomm technologies, inc bengalp-iot",3127
+"qualcomm technologies, inc khaje",3405
+"qualcomm technologies, inc kona",5668
+"qualcomm technologies, inc kona-iot",6752
+"qualcomm technologies, inc lagoon",3444
+"qualcomm technologies, inc lito",3359
+"qualcomm technologies, inc msm8216",292
+"qualcomm technologies, inc msm8909",293
+"qualcomm technologies, inc msm8916",412
+"qualcomm technologies, inc msm8917",537
+"qualcomm technologies, inc msm8920",487
+"qualcomm technologies, inc msm8929",560
+"qualcomm technologies, inc msm8937",1103
+"qualcomm technologies, inc msm8939",959
+"qualcomm technologies, inc msm8952",912
+"qualcomm technologies, inc msm8953",1833
+"qualcomm technologies, inc msm8956",1536
+"qualcomm technologies, inc msm8976",1818
+"qualcomm technologies, inc msm8976sg",2139
+"qualcomm technologies, inc msm8992",882
+"qualcomm technologies, inc msm8994",1073
+"qualcomm technologies, inc msm8996",1427
+"qualcomm technologies, inc msm8996pro",1584
+"qualcomm technologies, inc msm8998",2851
+"qualcomm technologies, inc qcm2150",409
+"qualcomm technologies, inc qcm6125",2775
+"qualcomm technologies, inc qcs610",1949
+"qualcomm technologies, inc qm215",461
+"qualcomm technologies, inc sa8195p",6554
+"qualcomm technologies, inc scubaiiot",926
+"qualcomm technologies, inc scubapiiot",1123
+"qualcomm technologies, inc sda429w",715
+"qualcomm technologies, inc sda450",1507
+"qualcomm technologies, inc sda660",2853
+"qualcomm technologies, inc sdm429",1027
+"qualcomm technologies, inc sdm439",1498
+"qualcomm technologies, inc sdm450",1350
+"qualcomm technologies, inc sdm460",2106
+"qualcomm technologies, inc sdm630",1938
+"qualcomm technologies, inc sdm632",2100
+"qualcomm technologies, inc sdm636",2197
+"qualcomm technologies, inc sdm660",2441
+"qualcomm technologies, inc sdm662",2237
+"qualcomm technologies, inc sdm665",2378
+"qualcomm technologies, inc sdm670",2575
+"qualcomm technologies, inc sdm710",2712
+"qualcomm technologies, inc sdm712",2615
+"qualcomm technologies, inc sdm720g",3289
+"qualcomm technologies, inc sdm730g aie",3421
+"qualcomm technologies, inc sdm750g",4350
+"qualcomm technologies, inc sdm765g 5g",3425
+"qualcomm technologies, inc sdm778g",5553
+"qualcomm technologies, inc sdm845",3397
+"qualcomm technologies, inc sdmmagpie",3161
+"qualcomm technologies, inc sdmmagpiep",3523
+"qualcomm technologies, inc sm4250",2139
+"qualcomm technologies, inc sm4350",3087
+"qualcomm technologies, inc sm6125",2277
+"qualcomm technologies, inc sm6150",2941
+"qualcomm technologies, inc sm6225",2692
+"qualcomm technologies, inc sm6375",4266
+"qualcomm technologies, inc sm7125",3381
+"qualcomm technologies, inc sm7150",3271
+"qualcomm technologies, inc sm7225",3390
+"qualcomm technologies, inc sm7250",3459
+"qualcomm technologies, inc sm7325",6431
+"qualcomm technologies, inc sm8150",4603
+"qualcomm technologies, inc sm8150_plus",4228
+"qualcomm technologies, inc sm8150p",4495
+"qualcomm technologies, inc sm8250",5861
+"qualcomm technologies, inc sm8250_ac",6416
+"qualcomm technologies, inc sm8350",6117
+"qualcomm technologies, inc sm8350ac",6588
+"qualcomm technologies, inc trinket",2466
+"qualcomm technologies, inc trinket-iot",2559
+"qualcomm technologies, inc. msm8940-pmi8940 mtp",1426
+"redwood based qualcomm technologies, inc. sm7325",6448
+"renoir based on qualcomm technologies, inc sm7350",4886
+rk30board,198
+rk3399,2046
+rk3566,595
+"rk3568 aiot3568 board v2.1-ad52068, lvds(8775), hd",1178
+roc-rk3568-pc hdmi (android),1197
+rockchip (device tree),666
+rockchip rk,1246
+rockchip rk3228a,314
+rockchip rk3229,285
+rockchip rk3288,708
+rockchip rk3288 (flattened device tree),515
+rockchip rk3326,440
+rockchip rk3326 863 rkisp1 board,365
+rockchip rk3326 evb board,463
+rockchip rk3328,319
+rockchip rk3328 box liantong avb,491
+rockchip rk3368,827
+rockchip rk3399,2925
+rockchip rk3399 board (android),1456
+rockchip rk3399 evb ind lpddr4 board lvds (android,1862
+rockchip rk3399 excavator board edp avb (android),1533
+rockchip rk3399 generic board edp (android),391
+rockchip rk3528 demo4 ddr4 v10 board,888
+rockchip rk3562,1056
+rockchip rk3566,922
+rockchip rk3566 box demo v10 android board,1093
+rockchip rk3566 evb1 ddr4 v10 board,751
+rockchip rk3566 evb2 lp4x v10 board,933
+rockchip rk3566 evb2 lp4x v10 board pdm mic array,337
+rockchip rk3566 evb3 ddr3 v10 board,994
+rockchip rk3566 hd15 board,1160
+rockchip rk3566 rk817 eink lp4x board,667
+rockchip rk3566 rk817 tablet lp4x board,1021
+rockchip rk3566 rk817 tablet rkg11 lp4 board,686
+rockchip rk3566 rk817 zidoo tablet lp4x board,795
+rockchip rk3568,1193
+rockchip rk3568 evb1 ddr4 v10 board,1082
+rockchip rk3568 evb2 lp4x v10 board,883
+rockchip rk3568 evb7 ddr4 v10 board,1106
+rockchip rk3576,3821
+rockchip rk3588,4557
+"rockchip,rk3328",453
+"rockchip,rk3368",870
+"samsung ""exynos 9610""",3168
+samsung a04s eur open rev03c board based on exynos,2452
+samsung a13 eur open rev02b board based on exynos8,1230
+samsung a13 usa single rev02b board based on exyno,1528
+samsung express2,233
+samsung exynos,2423
+samsung exynos 2100,5521
+samsung exynos 7420,2164
+samsung exynos 7570,479
+samsung exynos 7580,964
+samsung exynos 7870,1044
+samsung exynos 7880,1818
+samsung exynos 7884,1607
+samsung exynos 7885,1845
+samsung exynos 7904,1843
+samsung exynos 850,2086
+samsung exynos 8890,2596
+samsung exynos 8895,3167
+samsung exynos 9610,2272
+samsung exynos 9611,2552
+samsung exynos 980,4584
+samsung exynos 9810,3775
+samsung exynos 9820,3972
+samsung exynos 9825,3799
+samsung exynos 990,6083
+samsung exynos5420,704
+samsung exynos5430,1380
+samsung exynos5433,1183
+samsung exynos7420,2054
+samsung exynos7580,910
+samsung exynos7870,2093
+samsung exynos7885,2496
+samsung grandprimeplus lte cis rev04 board based o,312
+samsung grandprimeplus lte ltn dtv rev04 board bas,599
+samsung grandprimeplus lte ltn open rev04 board ba,415
+samsung j7 max lte swa board based on mt6757v/wl,928
+samsung jf,540
+samsung m13 eur open rev02 board based on exynos85,1425
+samsung m13 swa ins 00 board based on exynos850,1269
+samsung s5e8535,4583
+samsung s5e8825,4488
+samsung s5e8835,5917
+samsung s5e8845,7035
+samsung s5e8855,7774
+samsung s5e9925,6397
+samsung s5e9945,10923
+samsung s5e9955,9739
+samsung serrano,266
+"samsung technologies, inc exynos e1080",4846
+sc8830,438
+sm6375,4441
+sm7325,6074
+sm8325,5629
+sm8350,6134
+sm8450,4896
+smdk4x12,3006
+snapdragon 435,1069
+snapdragon 662,2431
+snapdragon 7325,5561
+snapdragon 7c @ 1.96 ghz,3712
+snapdragon 7c @ 2.40 ghz,3423
+snapdragon 7c gen 2 @ 2.55 ghz,3844
+snapdragon 7cplus gen 3 @ 2.40 ghz,6044
+snapdragon 8 gen2 mobile platform for galaxy,9362
+snapdragon 835,2536
+snapdragon 835 @ 2.45 ghz,3524
+snapdragon 8350,4618
+snapdragon 845 @ 2.8 ghz,3446
+snapdragon 850 @ 2.40 ghz,2946
+snapdragon 850 @ 2.96 ghz,3395
+snapdragon 855 @ 2.84 ghz,5070
+snapdragon 860 @ 2.96 ghz,4804
+snapdragon 8c @ 2.46 ghz,5230
+snapdragon 8cx @ 2.84 ghz,5180
+snapdragon 8cx gen 2 @ 3.0 ghz,6796
+snapdragon 8cx gen 2 @ 3.15 ghz,6695
+snapdragon 8cx gen 3 @ 2.69 ghz,10799
+snapdragon 8cx gen 3 @ 3.0,1811
+snapdragon 8cx gen 3 @ 3.0 ghz,11849
+snapdragon x - x126100 - qualcomm oryon,16889
+snapdragon x plus (8-core) @ 3.30 ghz,16497
+snapdragon x plus - x1p42100 - qualcomm ory,18126
+sony mobile fusion3,428
+spreadtrum sc7731e,333
+spreadtrum sc9832e,576
+spreadtrum sc9853i-ia,748
+spreadtrum sc9863a,1494
+spreadtrum sc9863a board,1671
+spreadtrum t310,1584
+spreadtrum t603,1765
+spreadtrum t606,2740
+spreadtrum t610,2646
+spreadtrum t612,2890
+spreadtrum t615,2962
+spreadtrum t616,2924
+spreadtrum t618,2935
+spreadtrum t620,2984
+spreadtrum t760,5211
+spreadtrum t765,3804
+spreadtrum t820,5543
+spreadtrum uis7885(prototype),5668
+spreadtrum ums9230,2878
+spreadtrum ums9230e,3066
+spreadtrum ums9230h,1477
+spreadtrum ums9230t,1759
+spreadtrum ums9621s,4550
+"star based on qualcomm technologies, inc sm8350",5241
+stratovirt,11613
+sun50iw1p1,559
+sun50iw6,498
+sun8iw11p1,335
+sun8iw7,237
+synaptics vs640,862
+synaptics vs680,1728
+t606,2824
+t610-unisoc,2565
+t610s-unisoc,2781
+t618,2771
+t700-unisoc,2421
+"taoyao based qualcomm technologies, inc. yupik idp",6359
+thor,839
+tn8,1028
+ugoos ut8 board,1152
+uis7862a,2638
+unisoc sc7731e,337
+unisoc sc9832e,501
+unisoc sc9863a,1435
+unisoc sc9863a1,1399
+unisoc t310,1421
+unisoc t606,2645
+unisoc t610,2812
+unisoc t612,2632
+unisoc t616,3152
+unisoc t618,2586
+unisoc t700,2644
+unisoc uis7862s,2739
+unisoc uis8581a,1704
+unisoc uis8581e,1279
+unisoc ums312,972
+unisoc ums512,2600
+unisoc ums9230,2285
+unisoc ums9230h,2924
+unisoc ums9230t,2914
+universal3470,391
+universal3475,310
+vendor kirin710,2828
+vendor kirin810,4237
+vendor kirin820,4947
+vendor kirin9000,6914
+vendor kirin9000e,7141
+vendor kirin970,3045
+vendor kirin980,5186
+vendor kirin985,5481
+vendor kirin990,6123
+"venus based on qualcomm technologies, inc sm8350",5398
+via c7-d 1800mhz,150
+via c7-m 1200mhz,112
+via c7-m 1600mhz,116
+via c7-m 6300mhz,145
+via eden 1000mhz,80
+via eden 1200mhz,93
+via eden c1050@1.06ghz,263
+via eden x2 u4200 @ 1.0+ ghz,326
+via eden x4 c4250 @ 1.2+ghz,904
+via esther 1000mhz,95
+via esther 1500mhz,135
+via nano l2007@1600mhz,238
+via nano l2100@1800mhz,279
+via nano l2207@1600mhz,165
+via nano u2250 (1.6ghz capable),187
+via nano u2250@1300+mhz,179
+via nano u2500@1200mhz,199
+via nano u3500@1000mhz,184
+via nano x2 u4025 @ 1.2 ghz,400
+via nehemiah,101
+via quadcore c4650@2.0ghz,1352
+via quadcore l4700 @ 1.2+ ghz,773
+via quadcore u4650 @ 1.0+ ghz,666
+"vili based on qualcomm technologies, inc sm8350",5296
+virt-10.0,3127
+virt-8.2,6547
+virt-9.1,9461
+virt-9.2,2967
+virtual @ 2.32ghz,1826
+virtual @ 2.56ghz,3778
+virtual @ 2.70ghz,3688
+virtual @ 2.89ghz,4134
+virtual @ 2.95ghz,11206
+virtual @ 3.24ghz,11738
+virtual @ 3.41ghz,13746
+virtual @ 3.80ghz,16736
+welcome sc9863a,1896
+xtrons_ix,1266
+z3-6540m@2.1ghz,1599
+zhaoxin kaixian kx-6640a@2.6ghz,1766
+zhaoxin kaixian kx-6640ma@2.1+ghz,1597
+zhaoxin kaixian kx-6640ma@2.2+ghz,1566
+zhaoxin kaixian kx-7000,7172
+zhaoxin kaixian kx-u6580@2.5ghz,3227
+zhaoxin kaixian kx-u6780@2.7ghz,3693
+zhaoxin kaixian kx-u6780a,3058
+zhaoxin kaixian kx-u6780a@2.7ghz,3464
+zhaoxin kaixian zx-c+ c4700@2.0ghz,1547
+zhaoxin kaixian zx-c+ c4701@2.0ghz,1442
+zhaoxin kaixian zx-d d4600@2.0ghz,1492
+zhaoxin z3-6540m@2.1+ghz,1378
+天玑900,4259
